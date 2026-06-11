@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "title": "Plaza de los Mariachis | Guadalajara",
+    "description": "Explore Plaza de los Mariachis in Guadalajara, Jalisco, Mexico. Discover this vibrant landmark filled with music and culture."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Plaza de los Mariachis",
+    "subtitle": "Jalisco · Mexico",
+    "rating": "4.1",
+    "reviewCount": "12,159",
+    "hours": "Open to public",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Plaza de los Mariachis",
+    "description": "Plaza de los Mariachis is located near the historic center of Guadalajara, Jalisco, Mexico. It is a vibrant landmark famous for its Mariachi music tradition. The plaza is a symbol of Mariachi music, recognized by UNESCO as Intangible Cultural Heritage, offering visitors a fascinating window into Mexican music and culture.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "The plaza is open all day, evening visits are recommended",
+        "Listen to live Mariachi music performances",
+        "Try local food and drinks",
+        "Visit the nearby San Juan de Dios Market"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Mariachi Music: UNESCO Intangible Cultural Heritage, symbol of Mexican music tradition.",
+        "Cultural Landmark: Located in Guadalajara's historic center, vibrant music and cultural venue.",
+        "Living Tradition: Experience Mexico's most famous music tradition and live performances.",
+        "Prime Location: Located in Guadalajara, Jalisco, easily accessible."
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Plaza de los Mariachis",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Plaza de los Mariachis is the center of Guadalajara's cultural and musical tradition. Mariachi music originated in 19th century Jalisco and has been recognized by UNESCO as Intangible Cultural Heritage of Humanity. The plaza is where musicians gather to perform."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Landscape",
+        "content": "The plaza is located in Guadalajara's historic center, surrounded by colonial-style buildings. It's an excellent place to experience traditional Mexican culture and music, full of vitality and color."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Visiting Plaza de los Mariachis is an unforgettable cultural experience. You can listen to live Mariachi music performances, taste traditional Mexican food, and feel the passion and vitality of Mexican culture."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Plaza de los Mariachis",
+    "type": "Site Type",
+    "typeValue": "Landmark",
+    "country": "Country",
+    "countryValue": "Mexico",
+    "city": "City",
+    "cityValue": "Guadalajara, Jalisco",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "C. Álvaro Obregón 23, San Juan de Dios, 44360 Guadalajara, Jal., Mexico",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "MMF5+XC Guadalajara, Jalisco, Mexico"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Plaza Area",
+    "outdoorTime": "Open all day (verify official information)",
+    "lighthouse": "Best Time to Visit",
+    "summer": "Dry Season (November-April)",
+    "summerTime": "Pleasant weather, ideal for outdoor visits",
+    "winter": "Rainy Season (May-October)",
+    "winterTime": "Warm weather with afternoon rains, bring umbrella",
+    "warning": "Important Notes",
+    "warningTime": "Recommended to verify latest information before visiting",
+    "tip": "Evening visits offer the best music performances"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Plaza Visit",
+    "outdoorPrice": "Free admission",
+    "lighthouse": "Music Performances",
+    "adults": "Live performances",
+    "adultsPrice": "Tips appreciated",
+    "students": "Food Experience",
+    "studentsPrice": "Many restaurants and food stalls nearby",
+    "children": "Recommendations",
+    "childrenPrice": "Respect musicians and enjoy performances",
+    "card": "Additional Services",
+    "cardPrice": "Souvenirs and music albums available"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest airport: Guadalajara International Airport (GDL). From there, take metro, bus, or taxi to the historic center.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "The plaza is located in the historic center. Use navigation and check for public parking nearby.",
+    "bus": "Public Transport",
+    "busDesc": "Take Guadalajara metro or bus to Historic Center station, then walk to the plaza.",
+    "intercity": "Walking Tour",
+    "intercityDesc": "The plaza is in the historic center, walkable to nearby attractions.",
+    "cycling": "Other Means",
+    "cyclingDesc": "Public transport or walking recommended, historic center traffic can be congested.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Plaza de los Mariachis is an excellent place to experience Mexican music and culture, evening visits recommended."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Plaza de los Mariachis",
+    "captions": [
+      "Plaza panoramic view",
+      "Mariachi musicians",
+      "Live music performance",
+      "Plaza at night",
+      "Colorful buildings",
+      "Music culture",
+      "Street performance",
+      "Traditional costumes",
+      "Plaza atmosphere",
+      "Music tradition",
+      "Cultural landmark"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "A magical place full of music and culture. The live Mariachi performances are unforgettable, highly recommended for all tourists."
+      },
+      {
+        "name": "María Elena",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Amazing cultural experience. The musicians are very professional and the music is full of passion. This is the essence of Mexican culture."
+      },
+      {
+        "name": "Roberto Méndez",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Very interesting place to experience authentic Mariachi music. Evening visits recommended when musicians start performing."
+      },
+      {
+        "name": "Ana Lucía",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "An important part of Mexican culture. The musicians' performances are moving, a must-visit place in Guadalajara."
+      },
+      {
+        "name": "Carlos Herrera",
+        "date": "1 year ago",
+        "rating": 4,
+        "text": "Great cultural experience. The music performances are wonderful, and there are many food stalls nearby."
+      },
+      {
+        "name": "Sofía Vargas",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "Beautiful plaza, full of the charm of Mexican culture. The musicians' performances are unforgettable, definitely worth a visit."
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Interesting cultural venue. Experience Mariachi music up close, tips appreciated to show respect to musicians."
+      },
+      {
+        "name": "Laura Patricia",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Cultural gem of Guadalajara. Mariachi music is UNESCO Intangible Cultural Heritage, definitely worth experiencing."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "C. Álvaro Obregón 23, San Juan de Dios, 44360 Guadalajara, Jal., Mexico",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Plaza de los Mariachis. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Mexico National Tourism Board",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretary of Tourism of Mexico",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "secturjal": {
+        "name": "Secretary of Tourism of Jalisco",
+        "url": "https://secturjal.jalisco.gob.mx/"
+      },
+      "visitagdl": {
+        "name": "Guadalajara Official Tourism",
+        "url": "https://visitagdl.com/"
+      },
+      "unesco": {
+        "name": "UNESCO - Mariachi Music Intangible Cultural Heritage",
+        "url": "https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575"
+      },
+      "gallery": {
+        "name": "Mariachi: World Cultural Heritage Digital Exhibition",
+        "url": "https://artsandculture.google.com/story/mariachi-heritage-of-the-world/DwVxmtyVLG4Dbw"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Plaza de los Mariachis",
+    "text": "Plaza de los Mariachis is a cultural landmark in Guadalajara, and Mariachi music is recognized by UNESCO as Intangible Cultural Heritage."
+  }
+}
