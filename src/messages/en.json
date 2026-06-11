@@ -40,6 +40,22 @@
       ]
     }
   },
+  "route": {
+    "title": "Tour Route",
+    "overview": "Discover the ideal route to explore Plaza de los Mariachis and experience the essence of Mexican music and culture.",
+    "steps": [
+      "Arrive at the plaza in the afternoon to admire the surrounding colonial architecture and historical plaques.",
+      "In the evening, find a seat at an outdoor restaurant or bar to enjoy traditional tequila and Mexican cuisine.",
+      "As night falls, watch live performances by Mariachi bands and feel the lively musical atmosphere.",
+      "After your visit, walk to the nearby San Juan de Dios Market to shop for souvenirs."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Please prepare some small denomination peso cash for tipping the performing musicians.",
+      "The area around the plaza can be crowded, so please take care of your personal belongings.",
+      "If you wish to request a song, you can prepare the names of your favorite traditional Mexican songs in advance."
+    ]
+  },
   "knowledge": {
     "title": "Discover the Charm of Plaza de los Mariachis",
     "sections": [

@@ -40,6 +40,22 @@
       ]
     }
   },
+  "route": {
+    "title": "Ruta Turística",
+    "overview": "Descubre la ruta ideal para explorar la Plaza de los Mariachis y experimentar la esencia de la música y cultura mexicana.",
+    "steps": [
+      "Llega a la plaza por la tarde para admirar la arquitectura colonial circundante y las placas históricas.",
+      "Por la noche, encuentra un asiento en un restaurante o bar al aire libre para disfrutar de tequila tradicional y cocina mexicana.",
+      "Al caer la noche, disfruta de las actuaciones en vivo de las bandas de Mariachis y siente el animado ambiente musical.",
+      "Después de tu visita, camina hasta el cercano Mercado San Juan de Dios para comprar recuerdos."
+    ],
+    "supplementsTitle": "Consejos Adicionales",
+    "supplements": [
+      "Por favor, prepara algo de efectivo en pesos de baja denominación para dar propina a los músicos.",
+      "El área alrededor de la plaza puede estar concurrida, así que cuida tus pertenencias personales.",
+      "Si deseas pedir una canción, puedes preparar los nombres de tus canciones tradicionales mexicanas favoritas con anticipación."
+    ]
+  },
   "knowledge": {
     "title": "Descubre el encanto de Plaza de los Mariachis",
     "sections": [

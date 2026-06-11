@@ -4,6 +4,7 @@ import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
 import HistoryTimeline from '@/components/HistoryTimeline';
+import RouteSection from '@/components/RouteSection';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
@@ -28,6 +29,7 @@ export default async function HomePage({
         <Intro />
         <BasicInfo />
         <HistoryTimeline />
+        <RouteSection />
         <HoursSection />
         <TicketsSection />
         <TransportSection />
