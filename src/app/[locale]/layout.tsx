@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://guachimontonesteuchitlan.com';
+  const baseUrl = 'https://visitplazadelosmariachis.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
@@ -47,7 +47,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Zona Arqueológica Teuchitlán o Guachimontones",
+      siteName: "Plaza de los Mariachis",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },

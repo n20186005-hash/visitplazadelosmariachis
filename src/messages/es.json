@@ -106,7 +106,7 @@
   "transport": {
     "title": "Cómo llegar",
     "airport": "Desde el aeropuerto",
-    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de Guadalajara (GDL). Desde allí, tomar metro, autobús o taxi al centro histórico.",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de Guadalajara (GDL). Desde allí, tomar autobús o taxi al centro histórico.",
     "selfDrive": "En automóvil",
     "selfDriveDesc": "La plaza está ubicada en el centro histórico. Use navegación y busque estacionamiento público cerca.",
     "bus": "Transporte público",
@@ -328,5 +328,42 @@
   "officialManagement": {
     "title": "Acerca de Plaza de los Mariachis",
     "text": "Plaza de los Mariachis es un lugar cultural en Guadalajara, y la música mariachi es reconocida por la UNESCO como Patrimonio Cultural Inmaterial."
+  },
+  "historyTimeline": {
+    "title": "Línea de Tiempo Histórica",
+    "items": [
+      {
+        "year": "Fundación",
+        "title": "Fundación: Establecimiento del Nombre",
+        "plaque": "Piedra Central (Letrero de la Plaza)",
+        "description": "La piedra está grabada con una ortografía arcaica/artística de 'PLAZVELA DE LOS MARIACHIS'. Esta piedra sin fecha sirve como identificador principal de la plaza, anunciando su identidad y tema a todos los visitantes."
+      },
+      {
+        "year": "1962",
+        "title": "Mayo de 1962: Inauguración Oficial",
+        "plaque": "Placa Inferior Derecha (Memorial de Inauguración de 1962)",
+        "description": "La Plaza de los Mariachis fue construida por el ayuntamiento constitucional de 1962-1964. Fue inaugurada y entregada a la ciudad por el Presidente de México, Adolfo López Mateos, marcando su nacimiento como espacio cultural público."
+      },
+      {
+        "year": "1972",
+        "title": "10 de Junio de 1972: Tributo al Alma Musical",
+        "plaque": "Placa Superior Izquierda (Tributo al Compositor José 'Pepe' Guízar)",
+        "description": "Diez años después de su inauguración, el ayuntamiento erigió un monumento para honrar al gran compositor José 'Pepe' Guízar. Reconoce su canción 'Guadalajara', que hizo famosa a la ciudad en todo el mundo. Esta placa infundió a la plaza un profundo patrimonio artístico y musical."
+      },
+      {
+        "year": "1991",
+        "title": "Junio de 1991: Primera Renovación Colaborativa",
+        "plaque": "Placa Inferior Izquierda (Memorial de Renovación de 1991)",
+        "description": "Con el crecimiento del turismo, la plaza experimentó una importante renovación. El proyecto se completó mediante una colaboración entre el ayuntamiento y los comerciantes locales, reflejando el esfuerzo de la comunidad por preservar este hito cultural."
+      },
+      {
+        "year": "2008",
+        "title": "Noviembre de 2008: Modernización para un Nuevo Siglo",
+        "plaque": "Placa Superior Derecha (Memorial de Remodelación de 2008)",
+        "description": "Un nuevo proyecto de remodelación fue promovido por el gobierno municipal de 2007-2009. Esta renovación no solo mejoró las instalaciones, sino que redefinió el valor contemporáneo de la plaza como un lugar de expresión musical y folclórica, representando el orgullo de la nación."
+      }
+    ],
+    "guideTitle": "Consejo para Visitantes",
+    "guideContent": "Al visitar, comience en la **Piedra Central** para ver el nombre antiguo, luego diríjase a la **Parte Inferior Derecha** para sentir la gloria nacional de su inauguración en 1962. A continuación, mire hacia la **Parte Superior Izquierda** para apreciar el alma musical dedicada en 1972, y finalmente lea las placas en la **Parte Inferior Izquierda** (1991) y **Parte Superior Derecha** (2008) para comprender cómo la plaza ha sido mantenida a lo largo de las generaciones."
   }
 }

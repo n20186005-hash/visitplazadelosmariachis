@@ -106,7 +106,7 @@
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: Guadalajara International Airport (GDL). From there, take metro, bus, or taxi to the historic center.",
+    "airportDesc": "Nearest airport: Guadalajara International Airport (GDL). From there, take a bus or taxi to the historic center.",
     "selfDrive": "Driving",
     "selfDriveDesc": "The plaza is located in the historic center. Use navigation and check for public parking nearby.",
     "bus": "Public Transport",
@@ -328,5 +328,42 @@
   "officialManagement": {
     "title": "About Plaza de los Mariachis",
     "text": "Plaza de los Mariachis is a cultural landmark in Guadalajara, and Mariachi music is recognized by UNESCO as Intangible Cultural Heritage."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Foundation",
+        "title": "Foundation: Name Establishment",
+        "plaque": "Center Stone (Plaza Name Sign)",
+        "description": "The stone is engraved with an archaic/artistic spelling of 'PLAZVELA DE LOS MARIACHIS' (Little Plaza of the Mariachis). This undated stone serves as the core identifier of the plaza, announcing its identity and theme to all visitors."
+      },
+      {
+        "year": "1962",
+        "title": "May 1962: Official Inauguration",
+        "plaque": "Bottom Right Plaque (1962 Inauguration Memorial)",
+        "description": "Plaza de los Mariachis was built under the constitutional city council of 1962-1964. It was inaugurated and delivered to the city by the President of Mexico, Adolfo López Mateos, marking its birth as a public cultural space."
+      },
+      {
+        "year": "1972",
+        "title": "June 10, 1972: Tribute to the Musical Soul",
+        "plaque": "Top Left Plaque (Tribute to Composer José 'Pepe' Guízar)",
+        "description": "Ten years after its inauguration, the city council erected a monument to honor the great composer José 'Pepe' Guízar. It recognizes his song 'Guadalajara', which made the city famous worldwide. This plaque infused the plaza with deep artistic and musical heritage."
+      },
+      {
+        "year": "1991",
+        "title": "June 1991: First Collaborative Renovation",
+        "plaque": "Bottom Left Plaque (1991 Renovation Memorial)",
+        "description": "With the growth of tourism, the plaza underwent a major renovation. The project was completed through a collaboration between the city council and local merchants, reflecting the community's effort to preserve this cultural landmark."
+      },
+      {
+        "year": "2008",
+        "title": "November 2008: Modernization for a New Century",
+        "plaque": "Top Right Plaque (2008 Remodeling Memorial)",
+        "description": "A new remodeling project was promoted by the 2007-2009 municipal government. This renovation not only upgraded the facilities but also redefined the plaza's contemporary value as a place for musical and folkloric expression, representing the pride of the nation."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, start at the **Center Stone** to see the ancient name, then head to the **Bottom Right** to feel the national glory of its 1962 inauguration. Next, look to the **Top Left** to appreciate the musical soul dedicated in 1972, and finally read the plaques on the **Bottom Left** (1991) and **Top Right** (2008) to understand how the plaza has been maintained by generations."
   }
 }
