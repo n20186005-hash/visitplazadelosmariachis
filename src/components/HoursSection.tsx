@@ -22,10 +22,6 @@ export default function HoursSection() {
           <TimeCard title={t('lighthouse')} time={t('summer')} timeValue={t('summerTime')} iconKey="lighthouse" />
         </div>
 
-        <div className="mb-6">
-          <TimeCard title={t('winter')} time={t('winterTime')} iconKey="calendar" />
-        </div>
-
         <div
           className="rounded-xl p-5 flex items-start gap-4"
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
