@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/config/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -15,31 +16,27 @@ export default function MapEmbed() {
         <p className="mb-8 text-sm" style={{ color: 'var(--text-muted)' }}>{t('subtitle')}</p>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        {/* Map */}
+        {/* Google Maps embed (official embed src) */}
         <div
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/* 
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Plaza+de+los+Mariachis,+Guadalajara,+Jalisco,+México&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={SITE.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Plaza de los Mariachis"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={`${SITE.fullName} - Location map in ${SITE.city}, ${SITE.country}`}
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/xEPZJkRTbcobgu39A"
+            href={SITE.mapsShareUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -57,6 +54,23 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Authoritative government tourism outbound link */}
+        <p
+          className="mt-6 text-center text-sm leading-relaxed"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          {t('govtIntro')}
+          <a
+            href={SITE.govtTourismUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:opacity-70 transition-opacity"
+            style={{ color: 'var(--text-secondary)' }}
+          >
+            {t('govtLabel')}
+          </a>
+        </p>
       </div>
     </section>
   );

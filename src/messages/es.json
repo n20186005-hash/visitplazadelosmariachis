@@ -1,7 +1,8 @@
 {
   "meta": {
-    "title": "Plaza de los Mariachis | Guadalajara",
-    "description": "Explora la Plaza de los Mariachis en Guadalajara, Jalisco, México. Descubre este vibrante lugar lleno de música y cultura."
+    "title": "Plaza de los Mariachis (Guadalajara): Música, horarios y guía",
+    "description": "Planifica tu visita a la Plaza de los Mariachis en Guadalajara: música de mariachi en vivo, precios por canción, horarios, fotos, ubicación en San Juan de Dios y consejos de viaje.",
+    "ogImageAlt": "Plaza de los Mariachis - Vista principal en Guadalajara, México"
   },
   "header": {
     "home": "Inicio",
@@ -12,11 +13,12 @@
   },
   "hero": {
     "title": "Plaza de los Mariachis",
-    "subtitle": "Jalisco · México",
+    "subtitle": "Guadalajara, Jalisco · México",
     "rating": "4.1",
-    "reviewCount": "12,159",
+    "reviewCount": "12,186",
     "hours": "Abierto al público",
-    "openMaps": "Ver ubicación"
+    "openMaps": "Ver ubicación",
+    "imageAlt": "Plaza de los Mariachis - Vista principal en Guadalajara, México"
   },
   "intro": {
     "title": "Explora Plaza de los Mariachis",
@@ -38,7 +40,10 @@
         "Tradición viva: Experimenta la tradición musical más famosa de México y actuaciones en vivo.",
         "Ubicación privilegiada: Ubicado en Guadalajara, Jalisco, fácilmente accesible."
       ]
-    }
+    },
+    "lead": "Bienvenido a la Plaza de los Mariachis, reconocida ampliamente como la Plaza del Mariachi central de Guadalajara. Ubicada en el corazón de Guadalajara, Jalisco, México, esta encantadora plaza del centro histórico, conocida por su estatua de bronce, su fuente y la música de mariachi en vivo, es un punto de partida esencial para los viajeros que visitan la región.",
+    "nearbyTitle": "Monumentos y atracciones cerca de la Plaza del Mariachi",
+    "nearbyLead": "Al visitar la Plaza de los Mariachis, puedes explorar fácilmente los monumentos históricos y lugares de interés del centro histórico de Guadalajara, entre ellos:"
   },
   "route": {
     "title": "Ruta Turística",
@@ -106,18 +111,18 @@
     "tip": "Las visitas nocturnas ofrecen las mejores actuaciones musicales"
   },
   "tickets": {
-    "title": "Entradas",
+    "title": "Costos: entrada y canciones de mariachi",
     "outdoor": "Visita a la plaza",
-    "outdoorPrice": "Entrada gratuita",
-    "lighthouse": "Actuaciones musicales",
-    "adults": "Actuaciones en vivo",
-    "adultsPrice": "Propina apreciada",
-    "students": "Experiencia gastronómica",
-    "studentsPrice": "Muchos restaurantes y puestos de comida cerca",
-    "children": "Recomendaciones",
-    "childrenPrice": "Respetar a los músicos y disfrutar las actuaciones",
-    "card": "Servicios adicionales",
-    "cardPrice": "Souvenirs y álbumes de música disponibles"
+    "outdoorPrice": "Gratuita y abierta al público",
+    "lighthouse": "Pedir una canción de mariachi",
+    "adults": "Precio típico por canción",
+    "adultsPrice": "Unos 150-300 MXN (8-16 USD)",
+    "students": "Buena práctica",
+    "studentsPrice": "Acuerda el precio en pesos antes de que empiece la música",
+    "children": "Propina",
+    "childrenPrice": "Se agradece una propina en ocasiones especiales",
+    "card": "Para tener en cuenta",
+    "cardPrice": "No se necesita entrada ni reserva. También puedes contratar a los mariachis para bodas, cumpleaños y serenatas."
   },
   "transport": {
     "title": "Cómo llegar",
@@ -138,19 +143,20 @@
     "title": "Fotos impresionantes",
     "subtitle": "El encanto de Plaza de los Mariachis",
     "captions": [
-      "Vista panorámica de la plaza",
-      "Músicos mariachis",
-      "Actuación musical en vivo",
-      "Plaza de noche",
-      "Edificios coloridos",
-      "Cultura musical",
-      "Actuación callejera",
-      "Trajes tradicionales",
-      "Ambiente de la plaza",
-      "Tradición musical",
-      "Lugar cultural"
+      "Vista panorámica de la Plaza de los Mariachis en Guadalajara",
+      "Grupo de mariachi tocando en la Plaza de los Mariachis",
+      "Música de mariachi en vivo en la plaza de Guadalajara",
+      "Plaza de los Mariachis iluminada de noche",
+      "Edificios históricos alrededor de la Plaza de los Mariachis",
+      "Mariachis con trajes de charro en Guadalajara",
+      "Música callejera cerca de la Plaza de los Mariachis",
+      "Trajes tradicionales de mariachi y trompeta",
+      "Ambiente nocturno en la Plaza de los Mariachis",
+      "Tradición de la música mariachi en la plaza de Guadalajara",
+      "La Plaza de los Mariachis, lugar cultural de Guadalajara"
     ],
     "viewAll": "Ver más fotos en Google Maps",
+    "imageRights": "Todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor.",
     "showAllPhotos": "Mostrar todas las fotos"
   },
   "reviews": {
@@ -211,7 +217,9 @@
   "mapSection": {
     "title": "Ubicación y mapa",
     "subtitle": "C. Álvaro Obregón 23, San Juan de Dios, 44360 Guadalajara, Jal., México",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "govtIntro": "Para obtener información oficial y de turismo regional, visita el ",
+    "govtLabel": "Portal oficial de turismo de México / Jalisco"
   },
   "footer": {
     "rights": "© 2026 Plaza de los Mariachis. Todos los derechos reservados.",
@@ -245,7 +253,8 @@
         "url": "https://artsandculture.google.com/story/mariachi-heritage-of-the-world/DwVxmtyVLG4Dbw"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "imageRights": "Todas las imágenes mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor."
   },
   "privacy": {
     "title": "Política de privacidad",
@@ -345,6 +354,75 @@
     "title": "Acerca de Plaza de los Mariachis",
     "text": "Plaza de los Mariachis es un lugar cultural en Guadalajara, y la música mariachi es reconocida por la UNESCO como Patrimonio Cultural Inmaterial."
   },
+  "faq": {
+    "title": "Preguntas frecuentes sobre la Plaza de los Mariachis",
+    "subtitle": "Respuestas a las preguntas más comunes antes de visitar la Plaza de los Mariachis en Guadalajara.",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra la Plaza de los Mariachis?",
+        "a": "La Plaza de los Mariachis se encuentra en C. Álvaro Obregón 23, San Juan de Dios, 44360 Guadalajara, Jalisco, México, en el centro histórico de Guadalajara."
+      },
+      {
+        "q": "¿Es gratuita la entrada a la Plaza de los Mariachis?",
+        "a": "Sí, la Plaza de los Mariachis es una plaza pública y su visita es gratuita durante todo el año."
+      },
+      {
+        "q": "¿Cuánto cuesta pedir una canción de mariachi en la Plaza de los Mariachis?",
+        "a": "La entrada es gratuita, pero contratar a los músicos es aparte: una canción de mariachi suele costar entre 150 y 300 MXN (unos 8-16 USD). Acuerda siempre el precio en pesos antes de que empiece la música y considera dejar una pequeña propina si la canción es para una ocasión especial."
+      },
+      {
+        "q": "¿Por qué es famosa la Plaza de los Mariachis?",
+        "a": "La Plaza de los Mariachis es famosa por su estatua de bronce, su fuente central y la música de mariachi en vivo. Es el hogar emblemático del mariachi en Guadalajara, una tradición reconocida por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad."
+      },
+      {
+        "q": "¿Cuál es la mejor época para visitar la Plaza de los Mariachis?",
+        "a": "La mejor época para visitar la Plaza de los Mariachis es por la noche, cuando los grupos de mariachi se reúnen a tocar en los restaurantes y bares de los alrededores. Para disfrutar de un clima agradable, visita durante la temporada seca, de noviembre a abril."
+      },
+      {
+        "q": "¿Qué se puede hacer en la Plaza de los Mariachis?",
+        "a": "Los visitantes pueden disfrutar de actuaciones de mariachi en vivo, admirar la estatua de bronce y la fuente, cenar en los restaurantes cercanos y comprar recuerdos en el Mercado San Juan de Dios, uno de los mercados tradicionales más grandes de América Latina."
+      },
+      {
+        "q": "¿Qué lugares de interés hay cerca de la Plaza de los Mariachis?",
+        "a": "Cerca de la plaza se encuentran el Mercado San Juan de Dios, la Catedral de Guadalajara, la Plaza Tapatía, el Teatro Degollado y el Hospicio Cabañas, todos a poca distancia a pie del centro histórico."
+      },
+      {
+        "q": "¿Cómo llegar a la Plaza de los Mariachis en Guadalajara?",
+        "a": "Se llega fácilmente en metro o autobús de Guadalajara (estación Centro), en taxi o aplicación de transporte, o caminando desde la Catedral de Guadalajara y otros puntos del centro histórico."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y referencias",
+    "subtitle": "Referencias oficiales y autorizadas utilizadas para elaborar esta guía de visita.",
+    "items": [
+      {
+        "name": "Secretaría de Turismo de Jalisco (Gobierno del Estado de Jalisco)",
+        "url": "https://secturjal.jalisco.gob.mx/",
+        "description": "Portal oficial de turismo del gobierno del estado de Jalisco (.gob)."
+      },
+      {
+        "name": "Secretaría de Turismo del Gobierno de México (SECTUR)",
+        "url": "https://www.gob.mx/sectur",
+        "description": "Autoridad federal de turismo del Gobierno de México (.gob)."
+      },
+      {
+        "name": "UNESCO - Mariachi, música de cuerdas, canto y trompeta",
+        "url": "https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575",
+        "description": "Registro de la UNESCO del mariachi como Patrimonio Cultural Inmaterial (.org)."
+      },
+      {
+        "name": "Visit Guadalajara - Oficina de Visitantes y Convenciones",
+        "url": "https://visitagdl.com/",
+        "description": "Oficina oficial de visitantes y convenciones de Guadalajara."
+      },
+      {
+        "name": "Google Maps - Plaza de los Mariachis",
+        "url": "https://maps.app.goo.gl/xEPZJkRTbcobgu39A",
+        "description": "Ubicación verificada, fotos y reseñas de la Plaza de los Mariachis."
+      }
+    ]
+  },
   "historyTimeline": {
     "title": "Línea de Tiempo Histórica",
     "items": [
@@ -381,5 +459,272 @@
     ],
     "guideTitle": "Consejo para Visitantes",
     "guideContent": "Al visitar, comience en la **Piedra Central** para ver el nombre antiguo, luego diríjase a la **Parte Inferior Derecha** para sentir la gloria nacional de su inauguración en 1962. A continuación, mire hacia la **Parte Superior Izquierda** para apreciar el alma musical dedicada en 1972, y finalmente lea las placas en la **Parte Inferior Izquierda** (1991) y **Parte Superior Derecha** (2008) para comprender cómo la plaza ha sido mantenida a lo largo de las generaciones."
+  },
+  "weather": {
+    "title": "El tiempo en Guadalajara",
+    "subtitle": "Condiciones en directo y previsión a 7 días del centro histórico, donde se encuentra la Plaza de los Mariachis. Los consejos se actualizan automáticamente según el pronóstico.",
+    "current": "En este momento",
+    "feelsLike": "Sensación térmica",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "kmh": "km/h",
+    "precip": "Lluvia hoy",
+    "uv": "Índice UV",
+    "forecast": "Previsión a 7 días",
+    "today": "Hoy",
+    "smartTitle": "Qué significa para tu visita",
+    "note": "Previsión orientativa; el tiempo puede cambiar rápidamente.",
+    "unavailable": "La información meteorológica no está disponible por el momento. Inténtalo más tarde.",
+    "codes": {
+      "clear": "Despejado",
+      "partly": "Parcialmente nublado",
+      "cloudy": "Nublado",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "rain": "Lluvia",
+      "snow": "Nieve",
+      "storm": "Tormenta"
+    },
+    "smart": {
+      "intro": "Consejos automáticos y en lenguaje sencillo para la Plaza de los Mariachis y sus alrededores.",
+      "labels": {
+        "risk": "Aviso",
+        "wear": "Cómo vestir",
+        "plan": "Ideas para la visita",
+        "gear": "Lleva contigo"
+      },
+      "windScale": ["Calma", "Ventolina", "Brisa muy débil", "Brisa débil", "Brisa moderada", "Brisa fresca", "Brisa fuerte", "Viento fuerte", "Viento duro", "Temporal", "Borrasca", "Borrasca violenta", "Huracán"],
+      "uvLevels": ["Baja", "Moderada", "Alta", "Muy alta", "Extrema"],
+      "rules": {
+        "clear": {
+          "plan": "Día ideal para pasear: visita el Mercado San Juan de Dios durante el día y disfruta de los mariachis por la noche.",
+          "gear": "Protector solar y gorra para las horas de más sol."
+        },
+        "partly": {
+          "plan": "Mezcla agradable de sol y sombra para recorrer el centro histórico a pie."
+        },
+        "cloudy": {
+          "plan": "Luz suave y sin deslumbramiento: buen día para fotos y paseos largos y tranquilos."
+        },
+        "fog": {
+          "risk": "Posible poca visibilidad: cruza con cuidado y deja margen de tiempo en tus desplazamientos.",
+          "plan": "Las vistas se verán limitadas; los museos y los sitios interiores son una mejor opción."
+        },
+        "drizzle": {
+          "wear": "La llovizna puede dejar el pavimento resbaladizo: conviene calzado con buen agarre.",
+          "plan": "La llovizna apenas frena el ambiente nocturno de la plaza, pero lleva una cubierta ligera a mano.",
+          "gear": "Un paraguas compacto."
+        },
+        "rain": {
+          "wear": "Lleva protección para la lluvia si vas a estar mucho rato fuera.",
+          "plan": "La lluvia puede pausar algunas terrazas y actuaciones al aire libre; el mercado techado sigue siendo una buena parada.",
+          "gear": "Paraguas o chubasquero ligero."
+        },
+        "heavy": {
+          "risk": "Las lluvias fuertes pueden inundar calles bajas: evita pasos subterráneos y date más tiempo.",
+          "plan": "Evita tramos largos al aire libre; algunas terrazas y puestos podrían cerrar.",
+          "gear": "Un chubasquero es más práctico que un paraguas largo con viento."
+        },
+        "storm": {
+          "risk": "Posibles tormentas: durante los rayos, evita plazas abiertas y árboles.",
+          "plan": "Los planes al aire libre conllevan riesgo; es más seguro esperar dentro a que pase."
+        },
+        "snow": {
+          "risk": "Posible nieve o hielo: revisa el estado de calles y aceras antes de salir.",
+          "wear": "Viste en capas y abrigado.",
+          "gear": "Abrigo, guantes y calzado antideslizante."
+        },
+        "rainChance": {
+          "wear": "Hay probabilidad real de lluvia más tarde: ten algo de abrigo a mano.",
+          "gear": "Paraguas o chubasquero plegable."
+        },
+        "heat": {
+          "wear": "Día caluroso: viste ligero y evita el sol del mediodía.",
+          "plan": "Haz turismo por la mañana o tras la puesta de sol y acorta las salidas al mediodía.",
+          "gear": "Protector solar, botella de agua rellenable y gorra."
+        },
+        "uv": {
+          "wear": "Radiación UV fuerte: usa protector solar, gafas de sol y gorra.",
+          "gear": "Protector solar, gafas de sol y sombrero."
+        },
+        "tempRange": {
+          "wear": "Gran diferencia térmica entre el día y la noche: lleva una capa ligera para la noche."
+        },
+        "cold": {
+          "wear": "Hace frío hoy: abrígate bien.",
+          "gear": "Chaqueta abrigada y bufanda."
+        },
+        "humidity": {
+          "wear": "La humedad puede hacer que se sienta más calor del que marca el termómetro."
+        },
+        "wind5": {
+          "plan": "Ventoso: agradable para pasear, pero sujeta la gorra.",
+          "gear": "Una gorra que no se vuele, o mejor déjala en casa."
+        },
+        "wind7": {
+          "risk": "Vientos fuertes: aléjate de vallas publicitarias, andamios y árboles.",
+          "plan": "Se notarán ráfagas en las plazas abiertas; las terrazas pueden estar muy ventosas."
+        }
+      }
+    }
+  },
+  "seasons": {
+    "title": "Mejor época para visitar Guadalajara",
+    "subtitle": "La Plaza de los Mariachis se disfruta todo el año. Esta guía estacional te ayuda a ajustar la visita al clima y al ritmo de la ciudad.",
+    "cols": ["Periodo", "Clima típico", "Ambiente y afluencia", "Aspectos destacados y consejos"],
+    "rows": [
+      {
+        "months": "Diciembre - Febrero",
+        "weather": "La época más seca y despejada: días soleados de unos 22-28 °C y noches frescas.",
+        "crowds": "Temporada alta de fiestas: luces navideñas y posadas, y el Día de Reyes en enero.",
+        "advice": "Ideal para mariachi nocturno y paseos largos. Lleva una capa ligera para la noche y planifica con antelación si viajas en Navidad."
+      },
+      {
+        "months": "Marzo - Mayo",
+        "weather": "Seco y cada vez más caluroso; el sol del mediodía puede ser intenso, sobre todo en mayo.",
+        "crowds": "Más tranquilo que en fiestas. La Semana Santa (movible, marzo-abril) añade procesiones y ambiente local al centro.",
+        "advice": "Visita por la mañana o después de las 17:00, hidrátate y descansa en el mercado o en plazas con sombra durante el calor."
+      },
+      {
+        "months": "Junio - Septiembre",
+        "weather": "Temporada de lluvias: cálido y húmedo, con tormentas frecuentes pero breves por la tarde o noche.",
+        "crowds": "Menos turismo general; pero el Encuentro Internacional del Mariachi y la Charrería (finales de agosto - inicios de septiembre) y el Día de la Independencia llenan la plaza de ambiente festivo.",
+        "advice": "Lleva paraguas pequeño o impermeable; las tormentas suelen pasar rápido. Las noches de festival llenan la plaza de música."
+      },
+      {
+        "months": "Octubre - Noviembre",
+        "weather": "Transición agradable: las lluvias cesan, los días templados de 24-28 °C y las noches cómodas.",
+        "crowds": "La temporada de Día de Muertos (finales de octubre - inicios de noviembre) suma altares y eventos culturales antes del cierre de año.",
+        "advice": "Excelente para fotografía y recorridos a pie; revisa el calendario oficial local de eventos durante tus fechas."
+      }
+    ]
+  },
+  "visitPlans": {
+    "title": "Rutas planificadas para cada visitante",
+    "subtitle": "Viajes con niños, cámara en mano o a ritmo tranquilo: estas rutas prácticas empiezan y terminan cerca de la plaza, siempre dentro del centro histórico peatonal.",
+    "audienceTitle": "Itinerarios por tipo de viajero",
+    "plans": [
+      {
+        "id": "family",
+        "title": "Familias con niños",
+        "suitable": "Mejor por la mañana o al atardecer",
+        "points": [
+          "Empieza en la fuente y la estatua de bronce, cuando la plaza aún está tranquila para que los niños se muevan seguros.",
+          "Recorre el cercano Mercado San Juan de Dios: colores, artesanías, dulces regionales y jugos naturales, ideal para familias.",
+          "Camina hasta las plazas de la Catedral y descansa en las bancas con vista a las torres.",
+          "Si hay energía, vuelve a la plaza antes de la cena para escuchar un poco de mariachi diurno."
+        ],
+        "tip": "Las mañanas entre semana son más tranquilas. Las banquetas principales admiten carriolas; los pasillos del mercado son estrechos y concurridos el fin de semana."
+      },
+      {
+        "id": "photography",
+        "title": "Amantes de la fotografía y la música",
+        "suitable": "Mejor de tarde a noche",
+        "points": [
+          "Comienza a la hora dorada para fotografiar la fuente, la estatua y la fachada moderna del mercado con luz cálida.",
+          "Captura escenas callejeras mientras los músicos afinan; la música crece hacia la noche.",
+          "Recorre las plazas cercanas por las torres de la Catedral y el neoclásico Teatro Degollado.",
+          "Regresa de noche para largas exposiciones de la plaza y la fuente iluminadas."
+        ],
+        "tip": "Pregunta antes de grabar a los músicos de cerca; a muchos les gusta posar por una propina pequeña. Protege el equipo en las lluvias de verano."
+      },
+      {
+        "id": "accessible",
+        "title": "Ritmo tranquilo y accesibilidad",
+        "suitable": "Mejor las mañanas entre semana",
+        "points": [
+          "Mantén la visita esencial compacta: fuente, estatua y zonas de descanso están en un mismo nivel pavimentado.",
+          "Usa las bancas junto a la fuente para descansar; hay más asientos a lo largo de los paseos cercanos.",
+          "Si la movilidad es limitada, prefiere entre semana, cuando la plaza y las entradas al mercado están menos concurridas.",
+          "Termina con un refrigerio en un puesto o restaurante con asiento y vista a la plaza."
+        ],
+        "tip": "Las banquetas principales suelen ser accesibles, pero hay tramos empedrados y pasillos del mercado irregulares. Pregunta por baños accesibles en recintos culturales y en el mercado."
+      }
+    ],
+    "generalTitle": "Rutas generales: medio día o día completo",
+    "generalNote": "Orden de caminata sugerido; los tiempos son aproximados e incluyen descansos.",
+    "half": {
+      "label": "Medio día (unas 3-4 horas)",
+      "items": [
+        "Primero la Plaza de los Mariachis: fuente, estatua de bronce y la piedra con el nombre histórico.",
+        "Mercado San Juan de Dios: artesanías, dulces regionales y productos locales.",
+        "Comida: busca clásicos de Jalisco como tortas ahogadas o pozole en restaurantes locales.",
+        "Catedral de Guadalajara y sus plazas aledañas.",
+        "Regreso a la plaza para una sesión de mariachi al atardecer."
+      ]
+    },
+    "full": {
+      "label": "Día completo (unas 7-8 horas, con descansos)",
+      "items": [
+        "Mañana: la plaza a ritmo relajado, como arriba.",
+        "Camina junto al Teatro Degollado y las fuentes de la Plaza Tapatía hacia el Hospicio Cabañas.",
+        "Hospicio Cabañas, patrimonio de la UNESCO con murales de José Clemente Orozco.",
+        "Comida y descanso, y luego recuerdos en el mercado.",
+        "Zona de la Catedral a la hora dorada.",
+        "Cena cerca de la plaza y una actuación de mariachi nocturna antes de irte."
+      ]
+    }
+  },
+  "facilities": {
+    "title": "Servicios al visitante y alrededores",
+    "subtitle": "Panorama neutral de los servicios que suelen encontrarse a pocos minutos a pie de la Plaza de los Mariachis. Se citan categorías por tipo, nunca como recomendación de marcas.",
+    "note": "Esta guía es sin fines de lucro y no respalda ningún establecimiento concreto.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Baños públicos",
+        "text": "Hay baños públicos en el centro histórico, sobre todo dentro de mercados, recintos culturales y algunas plazas. Muchos son de pago o esperan una moneda; lleva papel higiénico y cambio pequeño."
+      },
+      {
+        "id": "parking",
+        "title": "Estacionamiento",
+        "text": "Hay estacionamientos públicos de pago y algunos espacios en la calle alrededor del centro. Espera una corta caminata hasta la plaza y mayor demanda por la tarde y los fines de semana."
+      },
+      {
+        "id": "dining",
+        "title": "Dónde comer",
+        "text": "Las opciones van de patios de comida de mercado y cocinas tradicionales a restaurantes con mariachi en vivo. La cocina típica local incluye tortas ahogadas, pozole, birria y aguas frescas."
+      },
+      {
+        "id": "lodging",
+        "title": "Alojamiento",
+        "text": "Hoteles, hostales y casas de huéspedes del centro histórico dejan la plaza a poca distancia a pie. La música nocturna es parte del encanto; consulta por el nivel de ruido si duermes temprano."
+      },
+      {
+        "id": "shopping",
+        "title": "Comercios, bancos y farmacias",
+        "text": "El Mercado San Juan de Dios y las calles cercanas concentran puestos de recuerdos, artesanías, tiendas de conveniencia y farmacias. Hay cajeros automáticos; lleva billetes pequeños de pesos para propinas y compras menores."
+      },
+      {
+        "id": "fuel",
+        "title": "Gasolineras y puntos de carga",
+        "text": "Hay estaciones de servicio y una red creciente de puntos de carga eléctrica en la ciudad. Para la plaza, caminar, el transporte público, el taxi o la aplicación suele ser mejor que entrar en auto al centro histórico."
+      }
+    ]
+  },
+  "science": {
+    "title": "Cultura y visita responsable",
+    "subtitle": "Las historias detrás del mariachi y cómo disfrutar esta plaza viva con respeto.",
+    "narrative": "La Plaza de los Mariachis es más que un lugar para la foto: es el sitio histórico donde los músicos de Guadalajara se reúnen, ensayan y son contratados para bodas, cumpleaños y serenatas. Conocer un poco esa tradición hace más rica cada canción que escuches.",
+    "cultureTitle": "Entender el mariachi",
+    "cultureItems": [
+      "Un conjunto de mariachi combina cuerdas (vihuela, guitarra, guitarrón y violines) con trompetas. El estilo nació de la música rural del occidente de México durante el siglo XIX.",
+      "En 2011 la UNESCO inscribió el 'mariachi, música de cuerdas, canto y trompeta' como Patrimonio Cultural Inmaterial de la Humanidad.",
+      "El traje de charro bordado con detalles de plata que usan muchos grupos es una vestimenta festiva con raíces en el campo mexicano.",
+      "Mucho antes de que la plaza fuera remodelada, los músicos esperaban aquí para ser contratados: una especie de bolsa de trabajo al aire libre que aún marca el carácter de la plaza."
+    ],
+    "legendTitle": "Historias que se cuentan",
+    "legendItems": [
+      "Una explicación popular vincula la palabra 'mariachi' con el francés 'mariage' (boda), porque la música de mariachi amenizaba las bodas de los pueblos. Los historiadores la discuten, pero la historia se sigue contando con una sonrisa.",
+      "La plaza es inseparable de la canción 'Guadalajara' del compositor José 'Pepe' Guízar, cuyo monumento lo honra aquí: una melodía que millones tararean antes de visitar la ciudad.",
+      "Los habituales dicen que la plaza tiene su propio reloj: al anochecer, cuando suena la primera trompeta, la plaza pasa de mercado a escenario."
+    ],
+    "responsibleTitle": "Sé un visitante responsable",
+    "responsibleItems": [
+      "Si pides una canción, acuerda el precio en pesos antes de que empiece la música; tocar para los visitantes es el sustento de los músicos.",
+      "A la mayoría de los grupos les gusta posar por una propina pequeña; pregunta con cortesía y no interrumpas una actuación para otros clientes.",
+      "La plaza y el mercado atraen multitudes: cierra tu bolso, vigila a los niños y lleva solo lo necesario.",
+      "Es un espacio público y un lugar de trabajo. Usa los botes de basura, modera el ruido de noche y no bloquees puestos, entradas del mercado ni a los músicos."
+    ]
   }
 }

@@ -4,17 +4,17 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photoFiles = [
-  'plaza-de-los-mariachis (1).jpg',
-  'plaza-de-los-mariachis (2).jpg',
-  'plaza-de-los-mariachis (3).jpg',
-  'plaza-de-los-mariachis (4).jpg',
-  'plaza-de-los-mariachis (5).jpg',
-  'plaza-de-los-mariachis (6).jpg',
-  'plaza-de-los-mariachis (7).jpg',
-  'plaza-de-los-mariachis (8).jpg',
-  'plaza-de-los-mariachis (9).jpg',
-  'plaza-de-los-mariachis (10).jpg',
-  'plaza-de-los-mariachis (11).jpg',
+  'plaza-de-los-mariachis-guadalajara-1.jpg',
+  'plaza-de-los-mariachis-guadalajara-2.jpg',
+  'plaza-de-los-mariachis-guadalajara-3.jpg',
+  'plaza-de-los-mariachis-guadalajara-4.jpg',
+  'plaza-de-los-mariachis-guadalajara-5.jpg',
+  'plaza-de-los-mariachis-guadalajara-6.jpg',
+  'plaza-de-los-mariachis-guadalajara-7.jpg',
+  'plaza-de-los-mariachis-guadalajara-8.jpg',
+  'plaza-de-los-mariachis-guadalajara-9.jpg',
+  'plaza-de-los-mariachis-guadalajara-10.jpg',
+  'plaza-de-los-mariachis-guadalajara-11.jpg',
 ];
 
 export default function Gallery() {
@@ -92,6 +92,9 @@ export default function Gallery() {
                 {t('viewAll')}
               </a>
             </div>
+            <p className="mt-6 text-center text-xs leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+              {t('imageRights')}
+            </p>
           </div>
         </div>
       </section>

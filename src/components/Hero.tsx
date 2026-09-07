@@ -8,9 +8,10 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/plaza-de-los-mariachis (1).jpg"
-          alt="Plaza de los Mariachis"
+          src="/gallery/plaza-de-los-mariachis-guadalajara-1.jpg"
+          alt={t('imageAlt')}
           className="w-full h-full object-cover"
+          loading="eager"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -18,12 +19,12 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 w-full">
         <div className="max-w-3xl">
-          <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
+          <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6 animate-fade-in-up">
             {t('title')}
+            <span className="block text-2xl sm:text-3xl md:text-4xl mt-3 font-light text-white/85">
+              {t('subtitle')}
+            </span>
           </h1>
-          <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
-            {t('subtitle')}
-          </p>
 
           {/* Meta row */}
           <div className="flex flex-wrap items-center gap-4 mb-8 animate-fade-in-up animation-delay-200">
