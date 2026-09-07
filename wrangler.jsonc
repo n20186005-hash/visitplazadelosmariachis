@@ -1,0 +1,14 @@
+{
+  // 复用 Cloudflare 上已存在的 Workers Builds 项目（名称必须与项目一致）
+  "name": "visitplazadelosmariachis",
+  "compatibility_date": "2026-09-03",
+  // 静态站点托管：直接部署 next build 导出的 out/ 目录
+  // 这样 wrangler 不会再误触发 Next.js/OpenNext 迁移
+  "assets": {
+    "directory": "./out",
+    // Next 静态导出产物是 foo.html，auto 模式让 /es 命中 es.html、/es/cookie-settings 命中 es/cookie-settings.html
+    "html_handling": "auto-trailing-slash",
+    // 未命中路径时返回仓库根目录导出的 404.html
+    "not_found_handling": "404-page"
+  }
+}
