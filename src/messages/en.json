@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Plaza de los Mariachis Guadalajara: Music, Hours & Visitor Guide",
-    "description": "Plan your visit to Plaza de los Mariachis in Guadalajara: live mariachi music, typical song prices, opening hours, photos, the San Juan de Dios location and local tips.",
+    "title": "Plaza de los Mariachis Guadalajara | Live Music & Guide",
+    "description": "Explore Plaza de los Mariachis in Guadalajara. Find out where to hear live mariachi, the best time to visit, how to get there, and useful travel tips.",
     "ogImageAlt": "Plaza de los Mariachis - Main view in Guadalajara, Mexico"
   },
   "header": {
@@ -15,7 +15,7 @@
     "title": "Plaza de los Mariachis",
     "subtitle": "Guadalajara, Jalisco · Mexico",
     "rating": "4.1",
-    "reviewCount": "12,186",
+    "reviewCount": "12,192",
     "hours": "Open to public",
     "openMaps": "View Location",
     "imageAlt": "Plaza de los Mariachis - Main view in Guadalajara, Mexico"
@@ -158,59 +158,14 @@
     "showAllPhotos": "Show All Photos"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
-    "items": [
-      {
-        "name": "Juan Carlos",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "A magical place full of music and culture. The live Mariachi performances are unforgettable, highly recommended for all tourists."
-      },
-      {
-        "name": "María Elena",
-        "date": "2 weeks ago",
-        "rating": 5,
-        "text": "Amazing cultural experience. The musicians are very professional and the music is full of passion. This is the essence of Mexican culture."
-      },
-      {
-        "name": "Roberto Méndez",
-        "date": "3 months ago",
-        "rating": 4,
-        "text": "Very interesting place to experience authentic Mariachi music. Evening visits recommended when musicians start performing."
-      },
-      {
-        "name": "Ana Lucía",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "An important part of Mexican culture. The musicians' performances are moving, a must-visit place in Guadalajara."
-      },
-      {
-        "name": "Carlos Herrera",
-        "date": "1 year ago",
-        "rating": 4,
-        "text": "Great cultural experience. The music performances are wonderful, and there are many food stalls nearby."
-      },
-      {
-        "name": "Sofía Vargas",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "Beautiful plaza, full of the charm of Mexican culture. The musicians' performances are unforgettable, definitely worth a visit."
-      },
-      {
-        "name": "Miguel Ángel",
-        "date": "2 months ago",
-        "rating": 4,
-        "text": "Interesting cultural venue. Experience Mariachi music up close, tips appreciated to show respect to musicians."
-      },
-      {
-        "name": "Laura Patricia",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "Cultural gem of Guadalajara. Mariachi music is UNESCO Intangible Cultural Heritage, definitely worth experiencing."
-      }
-    ]
+    "title": "Reviews & Rating",
+    "declaration": "This site does not manage the Google Maps listing and does not reproduce individual reviews. The rating shown is a public snapshot from Google Maps for Plaza de los Mariachis and is provided as indicative information only — always check current reviews on Google Maps itself.",
+    "sourceLabel": "Source: Google Maps",
+    "checkedLabel": "Data checked in October 2026",
+    "ratingLabel": "Google Maps rating",
+    "outOfLabel": "out of 5",
+    "countLabel": "reviews",
+    "moreReviews": "Read the reviews on Google Maps"
   },
   "mapSection": {
     "title": "Location & Map",

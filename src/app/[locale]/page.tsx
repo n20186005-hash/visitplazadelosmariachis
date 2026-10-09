@@ -40,6 +40,7 @@ export default async function HomePage({
   const code = (['zh', 'en', 'es'].includes(locale) ? locale : 'en') as LocaleCode;
   const shortName = SITE.shortNames[code];
   const langCode = LANG_MAP[code];
+  const localeUrl = `${SITE.url}/${code}`;
   // Aliases used by schema.org alternateName (deduped, all supported languages)
   const attractionNames = Array.from(
     new Set([
@@ -54,18 +55,20 @@ export default async function HomePage({
   const attractionJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'TouristAttraction',
-    '@id': `${SITE.url}/#attraction`,
+    '@id': `${localeUrl}#attraction`,
     name: SITE.fullName,
     alternateName: attractionNames,
     description: messages.meta?.description || `Comprehensive visitor guide to ${SITE.fullName} in ${SITE.city}, ${SITE.state}, ${SITE.country}.`,
-    url: SITE.url,
+    url: localeUrl,
     image: [SITE.heroImageAbsolute],
+    inLanguage: langCode,
+    mainEntityOfPage: localeUrl,
     isAccessibleForFree: true,
     priceRange: 'Free entry (mariachi songs paid separately)',
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: Number(messages.hero?.rating) || 4.1,
-      reviewCount: Number(String(messages.hero?.reviewCount ?? '').replace(/,/g, '')) || 12186,
+      ratingValue: SITE.googleRating,
+      reviewCount: SITE.googleReviewCount,
       bestRating: 5,
       worstRating: 1,
     },
@@ -84,6 +87,36 @@ export default async function HomePage({
     },
     hasMap: SITE.mapsShareUrl,
     sameAs: [SITE.mapsShareUrl, SITE.govtTourismUrl],
+  };
+
+  const websiteJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${SITE.url}/#website`,
+    url: SITE.url,
+    name: SITE.fullName,
+    description: messages.meta?.description,
+    inLanguage: langCode,
+  };
+
+  const webPageJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${localeUrl}#webpage`,
+    url: localeUrl,
+    name: messages.meta?.title,
+    description: messages.meta?.description,
+    inLanguage: langCode,
+    isPartOf: {
+      '@id': `${SITE.url}/#website`,
+    },
+    about: {
+      '@id': `${localeUrl}#attraction`,
+    },
+    primaryImageOfPage: {
+      '@type': 'ImageObject',
+      url: SITE.heroImageAbsolute,
+    },
   };
 
   // ---- Structured data: FAQPage (visible FAQ below mirrors this content) ----
@@ -106,6 +139,8 @@ export default async function HomePage({
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={renderJsonLd(websiteJsonLd)} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={renderJsonLd(webPageJsonLd)} />
       <script type="application/ld+json" dangerouslySetInnerHTML={renderJsonLd(attractionJsonLd)} />
       <script type="application/ld+json" dangerouslySetInnerHTML={renderJsonLd(faqJsonLd)} />
       <Header />

@@ -5,7 +5,7 @@
   "description": "Visitor guide and location information for Plaza de los Mariachis (Mariachi Square) in Guadalajara, Jalisco, Mexico. Maps, opening details, nearby landmarks and travel tips.",
   "lang": "en",
   "dir": "ltr",
-  "start_url": "/zh/",
+  "start_url": "/es/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait-primary",

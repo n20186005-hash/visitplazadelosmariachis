@@ -13,7 +13,8 @@ export type LocaleCode = 'en' | 'es' | 'zh';
 
 export const SITE = {
   domain: 'visitplazadelosmariachis.com',
-  url: 'https://visitplazadelosmariachis.com',
+  // Canonical host is the www subdomain — never emit a bare (non-www) absolute URL.
+  url: 'https://www.visitplazadelosmariachis.com',
 
   // Attraction entity ({{ATTRACTION_FULL_NAME}} / geo data)
   fullName: 'Plaza de los Mariachis',
@@ -39,7 +40,7 @@ export const SITE = {
   // Imagery — the local first gallery photo doubles as hero / og:image source
   heroImage: '/gallery/plaza-de-los-mariachis-guadalajara-1.jpg',
   heroImageAbsolute:
-    'https://visitplazadelosmariachis.com/gallery/plaza-de-los-mariachis-guadalajara-1.jpg',
+    'https://www.visitplazadelosmariachis.com/gallery/plaza-de-los-mariachis-guadalajara-1.jpg',
 
   // {{ATTRACTION_SHORT_NAME}} — short name / domain-meaning per supported locale
   shortNames: {
@@ -66,6 +67,10 @@ export const SITE = {
 
   // Analytics
   ga4Id: 'G-HXM22WWPKP',
+
+  // Public review snapshot shown in the UI and structured data
+  googleRating: 4.1,
+  googleReviewCount: 12192,
 } as const;
 
 /** Google Maps search link used for nearby landmark anchors. */

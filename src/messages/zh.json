@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Plaza de los Mariachis 瓜达拉哈拉：音乐、时间与游玩攻略",
-    "description": "计划前往瓜达拉哈拉 Plaza de los Mariachis（马里亚奇广场）？了解现场乐队演奏、点歌价格（约 150–300 比索）、开放时间、照片、圣胡安德迪奥斯的位置与旅行贴士。",
+    "title": "Plaza de los Mariachis 瓜达拉哈拉 | 现场马里亚奇音乐与攻略",
+    "description": "探索瓜达拉哈拉的 Plaza de los Mariachis（马里亚奇广场）：在哪里听现场马里亚奇、最佳到访时间、交通方式与实用的旅行贴士。",
     "ogImageAlt": "Plaza de los Mariachis - 位于墨西哥瓜达拉哈拉的主景"
   },
   "header": {
@@ -15,7 +15,7 @@
     "title": "Plaza de los Mariachis",
     "subtitle": "瓜达拉哈拉 · 哈利斯科州 · 墨西哥",
     "rating": "4.1",
-    "reviewCount": "12,186",
+    "reviewCount": "12,192",
     "hours": "对外开放",
     "openMaps": "查看位置",
     "imageAlt": "Plaza de los Mariachis - 位于墨西哥瓜达拉哈拉的主景"
@@ -158,59 +158,14 @@
     "showAllPhotos": "显示全部照片"
   },
   "reviews": {
-    "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
-    "items": [
-      {
-        "name": "Juan Carlos",
-        "date": "1个月前",
-        "rating": 5,
-        "text": "一个充满音乐和文化的神奇地方。马里亚奇音乐家的现场表演令人难忘，强烈推荐给所有游客。"
-      },
-      {
-        "name": "María Elena",
-        "date": "2周前",
-        "rating": 5,
-        "text": "令人惊叹的文化体验。音乐家们非常专业，音乐充满激情。这里是墨西哥文化的精髓所在。"
-      },
-      {
-        "name": "Roberto Méndez",
-        "date": "3个月前",
-        "rating": 4,
-        "text": "非常有趣的地方，可以体验真正的马里亚奇音乐。建议傍晚前往，那时候音乐家们开始表演。"
-      },
-      {
-        "name": "Ana Lucía",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "墨西哥文化的重要组成部分。音乐家的表演令人感动，这里是瓜达拉哈拉必去的地方。"
-      },
-      {
-        "name": "Carlos Herrera",
-        "date": "1年前",
-        "rating": 4,
-        "text": "很好的文化体验。音乐表演非常精彩，周边还有很多美食摊位。"
-      },
-      {
-        "name": "Sofía Vargas",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "美丽的广场，充满了墨西哥文化的魅力。音乐家们的表演令人难忘，一定要来体验。"
-      },
-      {
-        "name": "Miguel Ángel",
-        "date": "2个月前",
-        "rating": 4,
-        "text": "有趣的文化场所。可以近距离感受马里亚奇音乐，建议给音乐家一些小费以示尊重。"
-      },
-      {
-        "name": "Laura Patricia",
-        "date": "1个月前",
-        "rating": 5,
-        "text": "瓜达拉哈拉的文化瑰宝。马里亚奇音乐是联合国教科文组织认定的非物质文化遗产，一定要来体验。"
-      }
-    ]
+    "title": "评价与评分",
+    "declaration": "本站并非 Google Maps 商家页面，也不会转载个别游客留言。此处显示的评分是 Google Maps 上 Plaza de los Mariachis 的公开快照，仅供参考；请直接在 Google Maps 查看最新的游客评价。",
+    "sourceLabel": "数据来源：Google Maps",
+    "checkedLabel": "数据核对时间：2026 年 10 月",
+    "ratingLabel": "Google Maps 评分",
+    "outOfLabel": "满分 5 分",
+    "countLabel": "条评价",
+    "moreReviews": "到 Google Maps 阅读评价"
   },
   "mapSection": {
     "title": "地图位置",

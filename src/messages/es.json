@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Plaza de los Mariachis (Guadalajara): Música, horarios y guía",
-    "description": "Planifica tu visita a la Plaza de los Mariachis en Guadalajara: música de mariachi en vivo, precios por canción, horarios, fotos, ubicación en San Juan de Dios y consejos de viaje.",
+    "title": "Plaza de los Mariachis Guadalajara | Horarios y Guía",
+    "description": "Visita la Plaza de los Mariachis en Guadalajara. Descubre dónde escuchar mariachi en vivo, cómo llegar, cuándo ir y consejos para disfrutar la plaza.",
     "ogImageAlt": "Plaza de los Mariachis - Vista principal en Guadalajara, México"
   },
   "header": {
@@ -15,7 +15,7 @@
     "title": "Plaza de los Mariachis",
     "subtitle": "Guadalajara, Jalisco · México",
     "rating": "4.1",
-    "reviewCount": "12,186",
+    "reviewCount": "12,192",
     "hours": "Abierto al público",
     "openMaps": "Ver ubicación",
     "imageAlt": "Plaza de los Mariachis - Vista principal en Guadalajara, México"
@@ -158,59 +158,14 @@
     "showAllPhotos": "Mostrar todas las fotos"
   },
   "reviews": {
-    "title": "Reseñas de visitantes",
-    "declaration": "La información de reseñas se puede ver a través de Google Maps (enlace externo).",
-    "moreReviews": "Ver más reseñas en Google Maps",
-    "items": [
-      {
-        "name": "Juan Carlos",
-        "date": "Hace 1 mes",
-        "rating": 5,
-        "text": "Un lugar mágico lleno de música y cultura. Las actuaciones en vivo de mariachis son inolvidables, altamente recomendado para todos los turistas."
-      },
-      {
-        "name": "María Elena",
-        "date": "Hace 2 semanas",
-        "rating": 5,
-        "text": "Experiencia cultural asombrosa. Los músicos son muy profesionales y la música está llena de pasión. Este es la esencia de la cultura mexicana."
-      },
-      {
-        "name": "Roberto Méndez",
-        "date": "Hace 3 meses",
-        "rating": 4,
-        "text": "Lugar muy interesante para experimentar el auténtico mariachi. Se recomiendan las visitas nocturnas cuando los músicos comienzan a actuar."
-      },
-      {
-        "name": "Ana Lucía",
-        "date": "Hace más de 6 meses",
-        "rating": 5,
-        "text": "Una parte importante de la cultura mexicana. Las actuaciones de los músicos son conmovedoras, un lugar obligatorio en Guadalajara."
-      },
-      {
-        "name": "Carlos Herrera",
-        "date": "Hace 1 año",
-        "rating": 4,
-        "text": "Excelente experiencia cultural. Las actuaciones musicales son maravillosas, y hay muchos puestos de comida cerca."
-      },
-      {
-        "name": "Sofía Vargas",
-        "date": "Hace más de 6 meses",
-        "rating": 5,
-        "text": "Hermosa plaza, llena del encanto de la cultura mexicana. Las actuaciones de los músicos son inolvidables, definitivamente vale la pena visitarla."
-      },
-      {
-        "name": "Miguel Ángel",
-        "date": "Hace 2 meses",
-        "rating": 4,
-        "text": "Interesante lugar cultural. Experimenta el mariachi en vivo de cerca, se aprecia la propina para mostrar respeto a los músicos."
-      },
-      {
-        "name": "Laura Patricia",
-        "date": "Hace 1 mes",
-        "rating": 5,
-        "text": "Gema cultural de Guadalajara. La música mariachi es Patrimonio Cultural Inmaterial de la UNESCO, definitivamente vale la pena experimentarla."
-      }
-    ]
+    "title": "Reseñas y calificación",
+    "declaration": "Este sitio no gestiona el perfil de Google Maps ni reproduce reseñas individuales. La calificación que ves es una instantánea pública de Google Maps para la Plaza de los Mariachis y tiene carácter orientativo: revisa siempre las opiniones vigentes directamente en Google Maps.",
+    "sourceLabel": "Fuente: Google Maps",
+    "checkedLabel": "Datos sincronizados en octubre de 2026",
+    "ratingLabel": "Calificación en Google Maps",
+    "outOfLabel": "sobre 5",
+    "countLabel": "opiniones",
+    "moreReviews": "Ver las reseñas en Google Maps"
   },
   "mapSection": {
     "title": "Ubicación y mapa",

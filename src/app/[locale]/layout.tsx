@@ -5,6 +5,7 @@ import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
 import { SITE } from '@/config/site';
 import ServiceWorkerRegistration from '@/components/ServiceWorkerRegistration';
+import { buildAlternates } from '@/lib/alternates';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -17,15 +18,13 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = SITE.url;
 
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const esUrl = `${baseUrl}/es`;
-
-  let selfUrl = esUrl;
-  if (locale === 'zh') selfUrl = zhUrl;
-  else if (locale === 'en') selfUrl = enUrl;
+  const selfUrl =
+    locale === 'zh'
+      ? `${SITE.url}/zh`
+      : locale === 'en'
+        ? `${SITE.url}/en`
+        : `${SITE.url}/es`;
 
   const localeMap: Record<string, string> = {
     'es': 'es_MX',
@@ -39,15 +38,7 @@ export async function generateMetadata({
     metadataBase: new URL(SITE.url),
     title: messages.meta.title,
     description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'es': esUrl,
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': esUrl,
-      } as Record<string, string>,
-    },
+    alternates: buildAlternates('', locale),
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
