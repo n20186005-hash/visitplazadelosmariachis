@@ -5,6 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { mapsSearchUrl, SITE, type LocaleCode } from '@/config/site';
 import { managerName, nearbyLabels, nearbyPlaces, nearbyReviewUrl, nearbySlugs, tourismPlace } from '@/data/nearby';
+import { nearbyPlanning } from '@/data/nearby-planning';
 import { visitDetails } from '@/data/nearby-visit';
 import { buildAlternates } from '@/lib/alternates';
 
@@ -62,6 +63,20 @@ export default async function NearbyPage({ params }: Props) {
   const [question, answer] = place.faq[locale];
   const details = visitDetails(slug, place, locale);
   const copy = details.labels;
+  const planning = nearbyPlanning(slug, locale);
+  const stationWalk = planning.station ? 'https://www.google.com/maps/dir/?' + new URLSearchParams({
+    api: '1', origin: `Estación ${planning.station}, Guadalajara, Jalisco`, destination, travelmode: 'walking',
+  }) : undefined;
+  const facts = [
+    [labels.address, address],
+    ...(planning.cultural?.street ? [[planning.text.entrance, planning.cultural.street]] : []),
+    [planning.text.district, planning.district],
+    [copy.type, details.type],
+    [copy.manager, management],
+    [labels.accessInfo, details.hours.join(' · ') || details.hoursNote],
+    [planning.text.duration, details.duration],
+    ...(planning.station ? [[planning.text.station, `${planning.station} (${planning.lines})`]] : []),
+  ];
   const nextStop = details.nextSlug ? nearbyPlaces[details.nextSlug] : undefined;
   const related = nearbySlugs.filter((neighbor) => neighbor !== slug);
   const position = nearbySlugs.indexOf(slug);
@@ -92,7 +107,7 @@ export default async function NearbyPage({ params }: Props) {
             <p className="mt-4 max-w-3xl text-lg">{place.tagline[locale]}</p>
             <ul className="mt-3 space-y-1 text-sm">
               <li><a className="underline" href={reviews}>{labels.readReviews}</a></li>
-              <li>{details.hours[0] ?? details.hoursNote}</li>
+              <li>{details.hours.join(' · ') || details.hoursNote}</li>
             </ul>
             <a className="mt-5 inline-block rounded-md border border-white px-4 py-2" href={map}>{labels.map}</a>
           </div>
@@ -104,7 +119,8 @@ export default async function NearbyPage({ params }: Props) {
           </section>
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{copy.plan}</h2>
-            <p>{details.duration}{locale === 'zh' ? '。' : '. '}{details.notes}</p>
+            <p>{planning.plan}</p>
+            <p className="mt-2">{details.duration}{locale === 'zh' ? '。' : '. '}{details.notes}</p>
           </section>
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{copy.highlights}</h2>
@@ -118,7 +134,7 @@ export default async function NearbyPage({ params }: Props) {
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{labels.basics}</h2>
             <dl className="divide-y rounded-lg border px-4" style={{ borderColor: 'var(--border-color)' }}>
-              {[[labels.address, address], [copy.type, details.type], [copy.manager, management], [labels.accessInfo, details.hours.join(' · ') || details.hoursNote]].map(([label, value]) => (
+              {facts.map(([label, value]) => (
                 <div key={label} className="grid gap-1 py-3 sm:grid-cols-[9rem_1fr]">
                   <dt className="font-semibold">{label}</dt><dd>{value}</dd>
                 </div>
@@ -129,15 +145,19 @@ export default async function NearbyPage({ params }: Props) {
             <h2 className="mb-2 font-display text-2xl font-semibold">{copy.hours}</h2>
             {details.hours.length > 0 && <ul className="list-disc pl-6">{details.hours.map((time) => <li key={time}>{time}</li>)}</ul>}
             <p>{details.hoursNote} <a className="underline" href={visitSource}>{copy.hours}</a></p>
+            {planning.cultural?.alternateHours && <p className="mt-2">{planning.cultural.alternateHours[locale]} {planning.text.scheduleDifference} <a className="underline" href={planning.cultural.url}>{planning.text.culturalDirectory}</a></p>}
           </section>
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{copy.fees}</h2>
-            <p>{details.fees}</p>
+            <p>{planning.fee ?? details.fees}</p>
+            {planning.cultural && <a className="mr-4 inline-block underline" href={planning.cultural.url}>{planning.text.culturalDirectory}</a>}
             <a className="underline" href={visitSource}>{copy.fees}</a>
           </section>
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{labels.transport}</h2>
+            <p className="mb-2">{stationWalk ? planning.text.publicTransit : planning.text.transitOnly}</p>
             <ul className="list-disc pl-6">
+              {stationWalk && <li><a className="underline" href={stationWalk}>{planning.text.stationWalk} · {planning.station} ({planning.lines})</a></li>}
               <li><a className="underline" href={walking}>{labels.walking}</a></li>
               <li><a className="underline" href={transport}>{labels.transit}</a></li>
               <li><a className="underline" href="https://www.siteur.gob.mx/">{labels.train}</a></li>
@@ -152,7 +172,7 @@ export default async function NearbyPage({ params }: Props) {
             <h2 className="mb-2 font-display text-2xl font-semibold">{copy.route}</h2>
             <ol className="list-decimal space-y-2 pl-6">
               <li><a className="underline" href={walking}>{copy.start}</a></li>
-              <li>{place.camera[locale]}</li>
+              <li>{planning.plan}</li>
               {nextStop && <li>{copy.end} <a className="underline" href={`${home}/nearby/${details.nextSlug}`}>{nextStop.names[locale]}</a></li>}
             </ol>
           </section>
@@ -172,6 +192,7 @@ export default async function NearbyPage({ params }: Props) {
           </section>
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{labels.reviews}</h2>
+            <p className="mb-2">{planning.text.mapReviews}</p>
             <a className="underline" href={reviews}>{labels.readReviews}</a>
           </section>
           <section>
