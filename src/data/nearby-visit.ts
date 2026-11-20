@@ -1,7 +1,15 @@
 import type { LocaleCode } from '@/config/site';
 import type { NearbyPlace } from './nearby';
 
-const publishedHours: Record<string, { days: 'daily' | 'weekdays' | 'tueSun' | 'tueSat' | 'sun' | 'sat'; time: string }[]> = {
+const publishedHours: Record<string, { days: 'daily' | 'weekdays' | 'tueSun' | 'tueSat' | 'sun' | 'sat' | 'monSat'; time: string }[]> = {
+  'mercado-iv-centenario-capilla-de-jesus': [{ days: 'monSat', time: '07:00–17:00' }, { days: 'sun', time: '07:00–15:00' }],
+  'mercado-mexicaltzingo': [{ days: 'monSat', time: '07:00–17:00' }, { days: 'sun', time: '07:00–15:00' }],
+  'museo-de-las-artes-populares-de-jalisco': [{ days: 'tueSat', time: '11:00–17:00' }],
+  'museo-raul-anguiano-mura': [{ days: 'tueSat', time: '10:00–17:00' }, { days: 'sun', time: '10:00–15:00' }],
+  'parque-alcalde': [{ days: 'daily', time: '07:00–19:00' }],
+  'parque-avila-camacho': [{ days: 'daily', time: '07:00–18:30' }],
+  'plaza-de-la-bandera': [{ days: 'daily', time: '00:00–24:00' }],
+  'rambla-cataluna': [{ days: 'daily', time: '00:00–24:00' }],
   'museo-cabanas': [{ days: 'tueSun', time: '10:00–17:00' }],
   'catedral-metropolitana-de-guadalajara': [{ days: 'daily', time: '08:00–20:00' }],
   'plaza-guadalajara': [{ days: 'daily', time: '00:00–24:00' }],
@@ -20,9 +28,9 @@ const publishedHours: Record<string, { days: 'daily' | 'weekdays' | 'tueSun' | '
 };
 
 const days = {
-  es: { daily: 'Todos los días', weekdays: 'Lunes a viernes', tueSun: 'Martes a domingo', tueSat: 'Martes a sábado', sun: 'Domingo', sat: 'Sábado' },
-  en: { daily: 'Daily', weekdays: 'Monday to Friday', tueSun: 'Tuesday to Sunday', tueSat: 'Tuesday to Saturday', sun: 'Sunday', sat: 'Saturday' },
-  zh: { daily: '每天', weekdays: '周一至周五', tueSun: '周二至周日', tueSat: '周二至周六', sun: '周日', sat: '周六' },
+  es: { daily: 'Todos los días', weekdays: 'Lunes a viernes', tueSun: 'Martes a domingo', tueSat: 'Martes a sábado', sun: 'Domingo', sat: 'Sábado', monSat: 'Lunes a sábado' },
+  en: { daily: 'Daily', weekdays: 'Monday to Friday', tueSun: 'Tuesday to Sunday', tueSat: 'Tuesday to Saturday', sun: 'Sunday', sat: 'Saturday', monSat: 'Monday to Saturday' },
+  zh: { daily: '每天', weekdays: '周一至周五', tueSun: '周二至周日', tueSat: '周二至周六', sun: '周日', sat: '周六', monSat: '周一至周六' },
 };
 
 export const visitLabels = {
@@ -33,13 +41,36 @@ export const visitLabels = {
 
 export function visitDetails(slug: string, place: NearbyPlace, locale: LocaleCode) {
   const labels = visitLabels[locale];
-  const outdoor = /^(plaza|parque|paseo|jardin|rotonda)-/.test(slug);
-  const publicSpace = outdoor && slug !== 'parque-agua-azul';
+  const outdoor = /^(plaza|parque|paseo|jardin|rotonda|monumento|glorieta|andador|arcos|rambla)-/.test(slug);
+  const publicSpace = outdoor && !['parque-agua-azul', 'parque-alcalde', 'parque-avila-camacho'].includes(slug);
   const church = place.manager === 'church';
   const hours = (publishedHours[slug] ?? []).map(({ days: day, time }) => `${days[locale][day]} ${time}`);
   const east = /cabanas|analco|san-juan|morelos|tapatia/.test(slug);
-  const west = /revolucion-parque-rojo|expiatorio|musa|carmen/.test(slug);
+  const west = /revolucion-parque-rojo|expiatorio|musa|carmen|chapultepec|minerva|estampida|arcos|rambla|anguiano|santa-tere/.test(slug);
   const next = {
+    'andador-chapultepec': 'rambla-cataluna',
+    'jardin-del-carmen': 'ex-convento-del-carmen',
+    'globo-museo-de-la-ninez': 'plaza-de-la-bandera',
+    'glorieta-de-la-estampida': 'glorieta-de-la-minerva',
+    'mercado-santa-tere': 'andador-chapultepec',
+    'museo-raul-anguiano-mura': 'andador-chapultepec',
+    'parque-avila-camacho': null,
+    'parque-alcalde': 'santuario-de-nuestra-senora-de-guadalupe',
+    'plaza-de-la-bandera': 'globo-museo-de-la-ninez',
+    'plaza-de-las-9-esquinas': 'mercado-mexicaltzingo',
+    'rambla-cataluna': 'musa-museo-de-las-artes',
+    'palacio-de-las-vacas': 'museo-de-las-artes-populares-de-jalisco',
+    'glorieta-de-la-minerva': 'arcos-de-guadalajara',
+    'arcos-de-guadalajara': 'glorieta-de-la-minerva',
+    'plaza-juarez': 'parque-agua-azul',
+    'museo-de-arqueologia-de-occidente-parres-arias': 'parque-agua-azul',
+    'monumento-a-fray-antonio-alcalde': 'santuario-de-nuestra-senora-de-guadalupe',
+    'santuario-de-nuestra-senora-de-guadalupe': 'monumento-a-fray-antonio-alcalde',
+    'monumento-a-ramon-corona': 'jardin-san-jose-de-analco',
+    'templo-de-las-capuchinas': 'museo-de-la-ciudad-de-guadalajara',
+    'templo-de-nuestra-senora-del-carmen': 'jardin-del-carmen',
+    'parroquia-de-san-juan-bautista-de-mexicaltzingo': 'mercado-mexicaltzingo',
+    'mercado-mexicaltzingo': 'parroquia-de-san-juan-bautista-de-mexicaltzingo',
     'plaza-tapatia': 'museo-cabanas',
     'museo-cabanas': 'plaza-tapatia',
     'jardin-san-jose-de-analco': 'parroquia-san-jose-de-analco',

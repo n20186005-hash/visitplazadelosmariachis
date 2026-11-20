@@ -1,16 +1,26 @@
 import type { LocaleCode } from '@/config/site';
 import records from './nearby.json';
+import moreRecords from './nearby-more.json';
+import listings from './nearby-map-listings.json';
 
 type Localized = Record<LocaleCode, string>;
-type Manager = 'city' | 'state' | 'church' | 'inah' | 'udg';
+type Manager = 'city' | 'state' | 'church' | 'inah' | 'udg' | 'venue';
 export type NearbyPlace = { names: Localized; tagline: Localized; camera: Localized; body: Localized; manager: string; address: string; photo: string; faq: Record<LocaleCode, string[]> };
 
-export const nearbyPlaces: Record<string, NearbyPlace> = records;
-export const nearbySlugs = Object.keys(records);
+export const nearbyPlaces: Record<string, NearbyPlace> = { ...records, ...moreRecords };
+export const nearbySlugs = Object.keys(nearbyPlaces);
+const mapListings: Record<string, string | undefined> = listings;
+
+export function nearbyReviewUrl(slug: string, fallback: string) {
+  const listing = mapListings[slug];
+  return listing ? `https://maps.google.com/?cid=${listing}` : fallback;
+}
+
 export const tourismPlace = 'https://tequiero.guadalajara.gob.mx/lugares/';
 export const marketPhoto = 'https://d1q5u2b0g1ojg5.cloudfront.net/2025/07/large_19_san_juan_de_dios_6_8649f7f135.webp';
 
 const managers: Record<Manager, Localized> = {
+  venue: { es: 'Equipo del recinto Palacio de las Vacas', en: 'Palacio de las Vacas venue team', zh: '奶牛宫场馆运营方' },
   city: { es: 'Ayuntamiento de Guadalajara', en: 'Guadalajara city government', zh: '瓜达拉哈拉市政府' },
   state: { es: 'Gobierno del Estado de Jalisco', en: 'Government of Jalisco', zh: '哈利斯科州政府' },
   church: { es: 'Iglesia católica local (Arquidiócesis de Guadalajara)', en: 'Local Catholic church (Archdiocese of Guadalajara)', zh: '当地天主教会（瓜达拉哈拉总教区）' },

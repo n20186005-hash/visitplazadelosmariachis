@@ -4,7 +4,7 @@ import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { mapsSearchUrl, SITE, type LocaleCode } from '@/config/site';
-import { managerName, nearbyLabels, nearbyPlaces, nearbySlugs, tourismPlace } from '@/data/nearby';
+import { managerName, nearbyLabels, nearbyPlaces, nearbyReviewUrl, nearbySlugs, tourismPlace } from '@/data/nearby';
 import { visitDetails } from '@/data/nearby-visit';
 import { buildAlternates } from '@/lib/alternates';
 
@@ -46,13 +46,15 @@ export default async function NearbyPage({ params }: Props) {
   const address = `${place.address}, Guadalajara, Jalisco`;
   const destination = `${place.names.es}, ${address}`;
   const map = mapsSearchUrl(destination);
+  const reviews = nearbyReviewUrl(slug, map);
   const walking = 'https://www.google.com/maps/dir/?' + new URLSearchParams({
     api: '1', origin: 'Plaza de los Mariachis, Guadalajara, Jalisco', destination, travelmode: 'walking',
   });
   const transport = 'https://www.google.com/maps/dir/?' + new URLSearchParams({ api: '1', destination, travelmode: 'transit' });
   const source = tourismPlace + slug;
   const visitSource = slug === 'museo-regional-de-guadalajara' ? 'https://www.inah.gob.mx/museos/museo-regional-de-guadalajara'
-    : slug === 'museo-cabanas' ? 'https://sic.gob.mx/ficha.php?table=museo&table_id=1027' : source;
+    : slug === 'museo-cabanas' ? 'https://sic.gob.mx/ficha.php?table=museo&table_id=1027'
+    : slug === 'palacio-de-las-vacas' ? 'https://www.palaciodelasvacas.com.mx/' : source;
   const url = `${SITE.url}${home}/nearby/${slug}`;
   const management = managerName(place.manager, locale);
   const [history, ...visit] = place.body[locale].split(locale === 'zh' ? /(?<=。)/u : /(?<=\.)\s+/u);
@@ -89,7 +91,7 @@ export default async function NearbyPage({ params }: Props) {
             <h1 className="mt-5 font-display text-4xl font-semibold sm:text-5xl">{title}</h1>
             <p className="mt-4 max-w-3xl text-lg">{place.tagline[locale]}</p>
             <ul className="mt-3 space-y-1 text-sm">
-              <li><a className="underline" href={map}>{labels.readReviews}</a></li>
+              <li><a className="underline" href={reviews}>{labels.readReviews}</a></li>
               <li>{details.hours[0] ?? details.hoursNote}</li>
             </ul>
             <a className="mt-5 inline-block rounded-md border border-white px-4 py-2" href={map}>{labels.map}</a>
@@ -170,7 +172,7 @@ export default async function NearbyPage({ params }: Props) {
           </section>
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{labels.reviews}</h2>
-            <a className="underline" href={map}>{labels.readReviews}</a>
+            <a className="underline" href={reviews}>{labels.readReviews}</a>
           </section>
           <section>
             <h2 className="mb-2 font-display text-2xl font-semibold">{copy.directions}</h2>
