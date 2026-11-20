@@ -3,7 +3,7 @@ import records from './nearby.json';
 
 type Localized = Record<LocaleCode, string>;
 type Manager = 'city' | 'state' | 'church' | 'inah' | 'udg';
-export type NearbyPlace = { names: Localized; body: Localized; manager: string; address: string; photo: string; faq: Record<LocaleCode, string[]> };
+export type NearbyPlace = { names: Localized; tagline: Localized; camera: Localized; body: Localized; manager: string; address: string; photo: string; faq: Record<LocaleCode, string[]> };
 
 export const nearbyPlaces: Record<string, NearbyPlace> = records;
 export const nearbySlugs = Object.keys(records);
