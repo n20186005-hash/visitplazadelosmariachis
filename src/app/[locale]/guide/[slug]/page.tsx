@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { mapsSearchUrl, SITE, type LocaleCode } from '@/config/site';
 import { guideLabels, guidePlaces, guides, guideSlugs } from '@/data/guides';
+import { guideOwner, marketPhoto, nearbyLabels } from '@/data/nearby';
 import { buildAlternates } from '@/lib/alternates';
 
 type Props = { params: Promise<{ locale: LocaleCode; slug: string }> };
@@ -43,6 +44,13 @@ export default async function GuidePage({ params }: Props) {
   setRequestLocale(locale);
   const labels = guideLabels[locale];
   const place = guidePlaces[slug];
+  const extra = nearbyLabels[locale];
+  const reviews = await getTranslations({ locale, namespace: 'reviews' });
+  const map = slug === 'mariachi-en-vivo' ? SITE.mapsShareUrl : mapsSearchUrl(place.mapQuery);
+  const walking = 'https://www.google.com/maps/dir/?' + new URLSearchParams({
+    api: '1', origin: 'Plaza de los Mariachis, Guadalajara, Jalisco', destination: place.mapQuery, travelmode: 'walking',
+  });
+  const photo = slug === 'mariachi-en-vivo' ? SITE.heroImage : slug === 'mercado-san-juan-de-dios' ? marketPhoto : null;
   const home = `/${locale}`;
   const url = `${SITE.url}${home}/guide/${slug}`;
   const schema = {
@@ -69,14 +77,28 @@ export default async function GuidePage({ params }: Props) {
           </div>
         </div>
         <article className="mx-auto max-w-4xl space-y-8 px-4 py-10 leading-relaxed sm:px-6" style={{ color: 'var(--text-primary)' }}>
-          <section>
+          <section className="rounded-lg p-5" style={{ background: 'var(--bg-secondary)' }}>
             <h2 className="mb-2 font-display text-2xl font-semibold">{labels.about}</h2>
+            <p className="mb-2"><strong>{guideOwner(slug, locale)}</strong></p>
             <p>{guide.about}</p>
           </section>
           <section className="rounded-lg p-5" style={{ background: 'var(--bg-secondary)' }}>
-            <h2 className="mb-2 font-display text-2xl font-semibold">{labels.location}</h2>
-            <p>{guide.location}</p>
+            <h2 className="mb-2 font-display text-2xl font-semibold">{extra.basics}</h2>
+            <dl><dt className="font-semibold">{labels.location}</dt><dd>{guide.location}</dd></dl>
             <a className="mt-2 inline-block underline" href={mapsSearchUrl(place.mapQuery)}>{labels.map}</a>
+          </section>
+          {photo && (
+            <figure>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img className="max-h-[32rem] w-full rounded-lg object-cover" src={photo} alt={guide.title} loading="lazy" />
+            </figure>
+          )}
+          <section>
+            <h2 className="mb-2 font-display text-2xl font-semibold">{extra.transport}</h2>
+            <ul className="list-disc pl-6">
+              {slug !== 'mariachi-en-vivo' && <li><a className="underline" href={walking}>{extra.walking}</a></li>}
+              <li><a className="underline" href="https://www.siteur.gob.mx/">{extra.train}</a></li>
+            </ul>
           </section>
           {guide.sections.map(([heading, body]) => (
             <section key={heading}>
@@ -88,6 +110,11 @@ export default async function GuidePage({ params }: Props) {
             <h2 className="mb-2 font-display text-2xl font-semibold">{labels.faq}</h2>
             <h3 className="mb-1 font-semibold">{guide.faq[0]}</h3>
             <p>{guide.faq[1]}</p>
+          </section>
+          <section>
+            <h2 className="mb-2 font-display text-2xl font-semibold">{extra.reviews}</h2>
+            {slug === 'mariachi-en-vivo' && <p>{SITE.googleRating.toFixed(1)} / 5 · {SITE.googleReviewCount.toLocaleString(locale)} {reviews('countLabel')} · {reviews('checkedLabel')}</p>}
+            <a className="underline" href={map}>{extra.readReviews}</a>
           </section>
           <p><a className="underline" href={place.source}>{labels.source}</a></p>
           <nav aria-label={labels.heading}>
