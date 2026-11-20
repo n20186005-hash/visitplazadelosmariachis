@@ -19,6 +19,8 @@ import FAQ from '@/components/FAQ';
 import MapEmbed from '@/components/MapEmbed';
 import Sources from '@/components/Sources';
 import Footer from '@/components/Footer';
+import { nearbyLabels, nearbyPlaces, nearbySlugs } from '@/data/nearby';
+import { guideLabels, guides, guideSlugs } from '@/data/guides';
 import { SITE } from '@/config/site';
 import type { LocaleCode } from '@/config/site';
 
@@ -158,6 +160,31 @@ export default async function HomePage({
         <SeasonsSection />
         <VisitPlansSection />
         <KnowledgeSection />
+        <section id="guides" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+          <div className="mx-auto max-w-6xl">
+            <h2 className="mb-5 font-display text-3xl font-semibold">{guideLabels[code].heading}</h2>
+            <ul className="grid gap-4 md:grid-cols-3">
+              {guideSlugs.map((slug) => (
+                <li key={slug} className="rounded-lg border p-5" style={{ background: 'var(--card-bg)', borderColor: 'var(--border-color)' }}>
+                  <a className="font-semibold underline underline-offset-4" href={`/${code}/guide/${slug}`}>{guides[code][slug].title}</a>
+                  <p className="mt-2 text-sm" style={{ color: 'var(--text-secondary)' }}>{guides[code][slug].summary}</p>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+        <section id="nearby" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+          <div className="mx-auto max-w-6xl">
+            <h2 className="mb-5 font-display text-3xl font-semibold">{nearbyLabels[code].heading}</h2>
+            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {nearbySlugs.map((slug) => (
+                <li key={slug} className="rounded-lg border p-4" style={{ background: 'var(--card-bg)', borderColor: 'var(--border-color)' }}>
+                  <a className="font-semibold underline underline-offset-4" href={`/${code}/nearby/${slug}`}>{nearbyPlaces[slug].names[code]}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
         <Gallery />
         <Reviews />
         <FAQ />

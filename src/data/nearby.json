@@ -1,0 +1,1211 @@
+{
+  "teatro-degollado": {
+    "names": {
+      "es": "Teatro Degollado",
+      "en": "Degollado Theatre",
+      "zh": "德戈亚多剧院"
+    },
+    "body": {
+      "es": "El teatro neoclásico de Jacobo Gálvez abrió en 1866. Desde Plaza de la Liberación se puede encuadrar el pórtico completo antes de rodear el edificio hacia Plaza Fundadores.",
+      "en": "Jacobo Gálvez’s neoclassical theatre opened in 1866. Frame the full portico from Plaza de la Liberación, then walk around the building toward Plaza Fundadores.",
+      "zh": "这座由哈科沃·加尔韦斯设计的新古典主义剧院于1866年启用。从解放广场可拍到完整门廊，再绕到剧院背后的创建者广场。"
+    },
+    "manager": "state",
+    "address": "Calle Degollado, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_32_zona_metropolitana_teatro_degollado_f0140c0f2f.webp",
+    "faq": {
+      "es": [
+        "¿Hay que comprar una entrada para ver el pórtico?",
+        "El pórtico se ve completo desde Plaza de la Liberación. Para funciones o visitas interiores, consulta la cartelera."
+      ],
+      "en": [
+        "Do I need a ticket to see the portico?",
+        "You can see the entire portico from Plaza de la Liberación. Check the theatre programme for performances or interior visits."
+      ],
+      "zh": [
+        "看门廊需要买票吗？",
+        "解放广场上可以看到完整门廊。观看演出或参观内部请查剧院安排。"
+      ]
+    },
+    "tagline": {
+      "es": "Un pórtico neoclásico frente a la Plaza de la Liberación",
+      "en": "A neoclassical portico facing Plaza de la Liberación",
+      "zh": "解放广场对面的新古典主义剧院"
+    },
+    "camera": {
+      "es": "Desde el centro de Plaza de la Liberación, alinea el pórtico con el eje de la plaza.",
+      "en": "From the centre of Plaza de la Liberación, align the portico with the square’s axis.",
+      "zh": "在解放广场中轴上对准门廊，保留两侧的对称空间。"
+    }
+  },
+  "museo-cabanas": {
+    "names": {
+      "es": "Museo Cabañas",
+      "en": "Cabañas Museum",
+      "zh": "卡瓦尼亚斯博物馆"
+    },
+    "body": {
+      "es": "El antiguo hospicio, inscrito por la UNESCO en 1997, conserva patios y murales de José Clemente Orozco. Recorre Plaza Tapatía hacia la fachada y localiza la capilla antes de empezar por las salas laterales.",
+      "en": "The former hospice, inscribed by UNESCO in 1997, contains courtyards and murals by José Clemente Orozco. Approach across Plaza Tapatía and locate the chapel before exploring the side galleries.",
+      "zh": "这座旧济贫院于1997年列入世界遗产，保留庭院及奥罗斯科壁画。由塔帕蒂亚广场走向正门，入馆后可先找礼拜堂，再逛两侧展厅。"
+    },
+    "manager": "state",
+    "address": "Calle Cabañas, Las Fresas",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_IMG_1533_b62bdbe71e.webp",
+    "faq": {
+      "es": [
+        "¿Qué sala conviene buscar primero?",
+        "Ubica la capilla del antiguo hospicio, donde están los murales más conocidos, y pregunta qué exposiciones temporales están abiertas."
+      ],
+      "en": [
+        "Which room should I look for first?",
+        "Locate the former hospice chapel for the best-known murals, then ask which temporary exhibitions are open."
+      ],
+      "zh": [
+        "入馆先看哪里？",
+        "先找旧济贫院礼拜堂，看最知名的壁画，再询问有哪些临展开放。"
+      ]
+    },
+    "tagline": {
+      "es": "Patios del antiguo hospicio y murales de Orozco",
+      "en": "Former hospice courtyards and Orozco murals",
+      "zh": "旧济贫院庭院与奥罗斯科壁画"
+    },
+    "camera": {
+      "es": "Desde Plaza Tapatía, incluye el eje peatonal y la fachada del antiguo hospicio.",
+      "en": "From Plaza Tapatía, frame the walkway and the former hospice façade together.",
+      "zh": "从塔帕蒂亚广场将步行轴线与旧济贫院正立面一同入框。"
+    }
+  },
+  "catedral-metropolitana-de-guadalajara": {
+    "names": {
+      "es": "Catedral Metropolitana de Guadalajara",
+      "en": "Guadalajara Cathedral",
+      "zh": "瓜达拉哈拉大教堂"
+    },
+    "body": {
+      "es": "Sus torres dominan el cruce de plazas del centro. Compara la vista frontal desde Plaza Guadalajara con la lateral desde Plaza de Armas y deja las fotos interiores para cuando no haya ceremonia.",
+      "en": "Its towers dominate the central cluster of squares. Compare the frontal view from Plaza Guadalajara with the side view from Plaza de Armas, and save interior photography for outside services.",
+      "zh": "双塔是老城广场群的视觉中心。可从瓜达拉哈拉广场看正立面，再从武器广场看侧面，室内拍摄宜避开礼拜。"
+    },
+    "manager": "church",
+    "address": "Avenida Fray Antonio Alcalde, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/03/large_52621989178_2c358ce98b_o_1_14452b816e_93c913567d.webp",
+    "faq": {
+      "es": [
+        "¿Dónde se ven las dos torres juntas?",
+        "Desde Plaza Guadalajara hay espacio para encuadrarlas con la portada. Para una vista oblicua, camina a Plaza de Armas."
+      ],
+      "en": [
+        "Where can I see both towers together?",
+        "Plaza Guadalajara has room to frame them with the main entrance. For an oblique view, walk to Plaza de Armas."
+      ],
+      "zh": [
+        "哪里能同时看到双塔？",
+        "瓜达拉哈拉广场上有空间把双塔与正门一起拍入。想看斜侧面可走到武器广场。"
+      ]
+    },
+    "tagline": {
+      "es": "Las torres que orientan el paseo por el centro",
+      "en": "The twin towers that anchor a downtown walk",
+      "zh": "老城街巷中辨认方向的双塔"
+    },
+    "camera": {
+      "es": "Usa el extremo occidental de Plaza Guadalajara para encuadrar las torres sin recortar la portada.",
+      "en": "Use the west edge of Plaza Guadalajara to capture both towers with the portal.",
+      "zh": "在瓜达拉哈拉广场西缘取景，把双塔和正门一同纳入画面。"
+    }
+  },
+  "plaza-de-armas": {
+    "names": {
+      "es": "Plaza de Armas",
+      "en": "Plaza de Armas",
+      "zh": "武器广场"
+    },
+    "body": {
+      "es": "Los andadores ajardinados enmarcan el quiosco y el Palacio de Gobierno. Entra por el lado de la catedral y usa el borde opuesto para una foto del quiosco con los edificios cívicos al fondo.",
+      "en": "Garden walks frame the bandstand and Government Palace. Enter from the cathedral side and use the far edge for a photograph of the bandstand with civic buildings behind it.",
+      "zh": "园路围绕音乐亭展开，旁边就是州政府宫。从大教堂一侧进入，走到对侧可将音乐亭和公共建筑纳入同一画面。"
+    },
+    "manager": "city",
+    "address": "Entre Catedral y Palacio de Gobierno, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_84969629_3105863842791391_7157510578708152320_n_886d8ba294.webp",
+    "faq": {
+      "es": [
+        "¿Con qué edificios se combina mejor?",
+        "La catedral y el Palacio de Gobierno se pueden ver desde la propia plaza; consulta sus accesos por separado."
+      ],
+      "en": [
+        "Which buildings go well with this stop?",
+        "The cathedral and Government Palace are visible from the square. Check their access arrangements separately."
+      ],
+      "zh": [
+        "适合搭配哪些建筑参观？",
+        "广场上就能看到大教堂和州政府宫，两处室内开放请分别查询。"
+      ]
+    },
+    "tagline": {
+      "es": "Jardines, quiosco y arquitectura cívica",
+      "en": "Gardens, a bandstand and civic architecture",
+      "zh": "园路、音乐亭与公共建筑"
+    },
+    "camera": {
+      "es": "Enmarca el quiosco entre los senderos desde el lado opuesto al Palacio de Gobierno.",
+      "en": "Frame the bandstand between the paths from the side opposite Government Palace.",
+      "zh": "从州政府宫对面的步道一侧，让园路夹住中央音乐亭。"
+    }
+  },
+  "plaza-liberacion": {
+    "names": {
+      "es": "Plaza Liberación",
+      "en": "Plaza de la Liberación",
+      "zh": "解放广场"
+    },
+    "body": {
+      "es": "Terminada en 1953, la plaza reorganizó el espacio entre la catedral y el teatro. Recorre el eje entre sus dos fuentes y gira para comparar las fachadas que cierran cada extremo.",
+      "en": "Completed in 1953, the square reorganized the space between the cathedral and theatre. Follow the axis between its two fountains and turn to compare the buildings closing each end.",
+      "zh": "广场在1953年建成，重新组织了大教堂和剧院之间的空间。沿两座喷泉之间的轴线走一遍，再回身比较两端立面。"
+    },
+    "manager": "city",
+    "address": "Entre Catedral y Teatro Degollado, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/01/large_55041762739_362a99a7eb_k_b49dbf4089.webp",
+    "faq": {
+      "es": [
+        "¿Por qué se llama Dos de Copas?",
+        "El apodo alude a las dos fuentes de gran tamaño. Úsalas como referencia para orientarte entre la catedral y el teatro."
+      ],
+      "en": [
+        "Why is it called Dos de Copas?",
+        "The nickname refers to the two large fountains, which also help you orient yourself between the cathedral and the theatre."
+      ],
+      "zh": [
+        "为什么有“两只杯子”的别称？",
+        "别称来自两座大型喷泉。它们也可以用来辨认大教堂和剧院的方向。"
+      ]
+    },
+    "tagline": {
+      "es": "Dos fuentes entre el teatro y la catedral",
+      "en": "Two fountains between the theatre and cathedral",
+      "zh": "剧院与大教堂之间的双喷泉广场"
+    },
+    "camera": {
+      "es": "Colócate entre las fuentes y gira hacia el teatro para una toma axial.",
+      "en": "Stand between the fountains and turn toward the theatre for an axial shot.",
+      "zh": "站在双喷泉之间朝剧院拍摄，利用广场的中轴构图。"
+    }
+  },
+  "plaza-guadalajara": {
+    "names": {
+      "es": "Plaza Guadalajara",
+      "en": "Plaza Guadalajara",
+      "zh": "瓜达拉哈拉广场"
+    },
+    "body": {
+      "es": "La antigua Plaza de los Laureles surgió de una remodelación que sustituyó inmuebles como el Cine Lux. Ponte en el borde occidental para observar el conjunto de la catedral antes de seguir hacia la Rotonda.",
+      "en": "Formerly Plaza de los Laureles, the square emerged from redevelopment that replaced buildings including the Cine Lux. Stand at the west edge for a broad cathedral view before continuing to the Rotunda.",
+      "zh": "这里原称月桂广场，改造时包括卢克斯电影院在内的建筑被拆除。可在西缘看大教堂整体，再步行前往圆形纪念堂。"
+    },
+    "manager": "city",
+    "address": "Avenida Miguel Hidalgo y Costilla, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_31786572_1974092579301862_6798062936049844224_n_1208b20ab2.webp",
+    "faq": {
+      "es": [
+        "¿Dónde conviene empezar la Cruz de Plazas?",
+        "Comienza frente a la fachada de la catedral y rodea el templo por el espacio público hacia las otras plazas."
+      ],
+      "en": [
+        "Where should I start a tour of the Square Cross?",
+        "Start facing the cathedral and follow the public space around it toward the other squares."
+      ],
+      "zh": [
+        "老城十字广场群从哪里开始走？",
+        "可以先面对大教堂正立面，再沿教堂外围的公共空间走向其他广场。"
+      ]
+    },
+    "tagline": {
+      "es": "La vista frontal de la catedral",
+      "en": "A frontal view of the cathedral",
+      "zh": "欣赏大教堂正立面的广场"
+    },
+    "camera": {
+      "es": "Desde el borde occidental, deja espacio alrededor de las torres para mostrar la amplitud de la plaza.",
+      "en": "From the west edge, leave room around the towers to show the breadth of the square.",
+      "zh": "在广场西缘拉开取景范围，用双塔周围的留白表现广场尺度。"
+    }
+  },
+  "rotonda-de-los-jaliscienses-ilustres": {
+    "names": {
+      "es": "Rotonda De Los Jaliscienses Ilustres",
+      "en": "Rotunda of Illustrious Jalisco Residents",
+      "zh": "哈利斯科杰出人物圆形纪念堂"
+    },
+    "body": {
+      "es": "El monumento proyectado por Vicente Mendiola se terminó en 1952. Da una vuelta por el jardín para leer las inscripciones y captar el ritmo de las columnas desde dos ángulos.",
+      "en": "Vicente Mendiola’s monument was completed in 1952. Circle through the garden to read inscriptions and photograph the rhythm of the columns from two angles.",
+      "zh": "这座由比森特·门迪奥拉设计的纪念堂于1952年完工。可沿花园绕行，阅读铭文，并从不同角度拍摄柱列。"
+    },
+    "manager": "city",
+    "address": "Avenida Fray Antonio Alcalde, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_462652257_3926605950956848_5537513425604729970_n_ad81811793.webp",
+    "faq": {
+      "es": [
+        "¿El monumento se aprecia sin entrar al recinto?",
+        "Sí. El jardín ofrece vistas de las columnas y de las esculturas que rodean la rotonda."
+      ],
+      "en": [
+        "Can I see the monument without going inside?",
+        "Yes. From the garden you can see the columns and the sculptures around the rotunda."
+      ],
+      "zh": [
+        "不进入纪念堂也能看吗？",
+        "可以，从周围花园就能看柱列和环绕纪念堂的雕像。"
+      ]
+    },
+    "tagline": {
+      "es": "Columnas y esculturas en un jardín conmemorativo",
+      "en": "Columns and sculptures in a memorial garden",
+      "zh": "纪念花园中的柱列与雕像"
+    },
+    "camera": {
+      "es": "Desde el jardín, encuadra una figura en primer plano con las columnas detrás.",
+      "en": "From the garden, frame a statue against the columns behind it.",
+      "zh": "在花园里选一座人物雕像作前景，让柱列落在后方。"
+    }
+  },
+  "plaza-fundadores": {
+    "names": {
+      "es": "Plaza Fundadores",
+      "en": "Founders’ Square",
+      "zh": "创建者广场"
+    },
+    "body": {
+      "es": "El relieve de Rafael Zamarripa, de 1982, narra la fundación de la ciudad detrás del Teatro Degollado. Obsérvalo primero de frente y luego de lado para distinguir las figuras talladas.",
+      "en": "Rafael Zamarripa’s 1982 relief recounts the city’s founding behind Teatro Degollado. View it head-on first, then from the side to distinguish the carved figures.",
+      "zh": "拉斐尔·萨马里帕1982年创作的浮雕位于剧院后方，讲述建城故事。先正对浮雕看构图，再从侧面观察人物层次。"
+    },
+    "manager": "city",
+    "address": "Parte posterior del Teatro Degollado, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_IMG_9489_6c7e79e6a4.webp",
+    "faq": {
+      "es": [
+        "¿Dónde está el relieve de la fundación?",
+        "Busca la cara posterior del Teatro Degollado, del lado de la plaza y del corredor hacia Cabañas."
+      ],
+      "en": [
+        "Where is the founding relief?",
+        "Look behind Teatro Degollado on the square side, near the corridor toward Cabañas."
+      ],
+      "zh": [
+        "建城浮雕在哪里？",
+        "在德戈亚多剧院后方，面向创建者广场、靠近通往卡瓦尼亚斯的步道。"
+      ]
+    },
+    "tagline": {
+      "es": "La fundación de Guadalajara contada en piedra",
+      "en": "Guadalajara’s founding told in stone",
+      "zh": "用浮雕讲述瓜达拉哈拉建城史"
+    },
+    "camera": {
+      "es": "Acércate al relieve desde un lateral para captar la profundidad de las figuras.",
+      "en": "Approach the relief from one side to show the depth of the figures.",
+      "zh": "沿浮雕侧面取景，让人物凸起的层次更清楚。"
+    }
+  },
+  "plaza-tapatia": {
+    "names": {
+      "es": "Plaza Tapatía",
+      "en": "Plaza Tapatía",
+      "zh": "塔帕蒂亚广场"
+    },
+    "body": {
+      "es": "Entre el teatro y Cabañas se abrió un corredor cívico con esculturas. Detente junto a la obra de Víctor Manuel Contreras, inaugurada en 1982, y encuadra sus formas con el eje peatonal.",
+      "en": "A civic corridor with sculpture links the theatre and Cabañas. Pause at Víctor Manuel Contreras’s work, unveiled in 1982, and frame its forms against the pedestrian axis.",
+      "zh": "这条公共空间轴线连接剧院和卡瓦尼亚斯博物馆。可在1982年揭幕的孔特雷拉斯雕塑附近停留，将雕塑与步行轴线一起入镜。"
+    },
+    "manager": "city",
+    "address": "Corredor entre Teatro Degollado y Museo Cabañas, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_Paseo_De_Las_Ranas_8c51595876.webp",
+    "faq": {
+      "es": [
+        "¿Qué escultura sirve de referencia?",
+        "La Inmolación de Quetzalcóatl señala un punto del corredor; sigue hacia el museo o vuelve hacia el teatro."
+      ],
+      "en": [
+        "Which sculpture is a useful landmark?",
+        "The Immolation of Quetzalcoatl marks a point along the corridor. Continue to the museum or head back toward the theatre."
+      ],
+      "zh": [
+        "用哪座雕塑辨认方向？",
+        "羽蛇神主题雕塑是步道上的一个地标，从这里可继续前往博物馆，或回到剧院。"
+      ]
+    },
+    "tagline": {
+      "es": "Un eje peatonal entre el teatro y Cabañas",
+      "en": "A pedestrian axis linking the theatre and Cabañas",
+      "zh": "连接剧院与卡瓦尼亚斯博物馆的步行轴线"
+    },
+    "camera": {
+      "es": "Usa la perspectiva del corredor para relacionar la escultura de Contreras con el paseo.",
+      "en": "Use the corridor’s perspective to show how the Contreras sculpture relates to the promenade.",
+      "zh": "顺着步道纵向拍摄，让孔特雷拉斯雕塑和公共空间产生联系。"
+    }
+  },
+  "paseo-degollado": {
+    "names": {
+      "es": "Paseo Degollado",
+      "en": "Paseo Degollado",
+      "zh": "德戈亚多步道"
+    },
+    "body": {
+      "es": "El paseo nació de la renovación peatonal del centro. Sal de Plaza Fundadores hacia Plaza Tapatía y mira atrás en los cambios de nivel para apreciar cómo se encadenan los espacios.",
+      "en": "The promenade grew out of downtown pedestrian renewal. Walk from Plaza Fundadores toward Plaza Tapatía and look back where the grade changes to see how the spaces connect.",
+      "zh": "步道源于老城的步行空间改造。从创建者广场走向塔帕蒂亚广场，在高差变化处回望，可看清几个公共空间如何串联。"
+    },
+    "manager": "city",
+    "address": "Entre Plaza Fundadores y Plaza Tapatía, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_Paseo_Degollado_2_1_e2f9e1ecd0.webp",
+    "faq": {
+      "es": [
+        "¿Cómo se distingue de Plaza Tapatía?",
+        "El paseo es el tramo peatonal que sale del entorno del teatro. Plaza Tapatía es el conjunto más amplio hacia Cabañas."
+      ],
+      "en": [
+        "How is the promenade different from Plaza Tapatía?",
+        "The promenade is the pedestrian stretch leaving the theatre area, while Plaza Tapatía is the larger ensemble toward Cabañas."
+      ],
+      "zh": [
+        "步道和塔帕蒂亚广场有何区别？",
+        "步道由剧院一带向外延伸，塔帕蒂亚广场则是通往卡瓦尼亚斯方向的一片较大公共空间。"
+      ]
+    },
+    "tagline": {
+      "es": "El enlace peatonal que sale de Plaza Fundadores",
+      "en": "The pedestrian link leading from Founders’ Square",
+      "zh": "从创建者广场延伸的步行通道"
+    },
+    "camera": {
+      "es": "Mira atrás desde un cambio de nivel para fotografiar la continuidad del paseo hacia el teatro.",
+      "en": "Look back from a change in level to capture how the promenade leads to the theatre.",
+      "zh": "在步道高差变化处回望，拍出步道向剧院延伸的关系。"
+    }
+  },
+  "palacio-de-gobierno-de-jalisco": {
+    "names": {
+      "es": "Palacio de Gobierno de Jalisco",
+      "en": "Jalisco Government Palace",
+      "zh": "哈利斯科州政府宫"
+    },
+    "body": {
+      "es": "La construcción del palacio colonial comenzó en el siglo XVIII. Mira los arcos y la cantera desde Plaza de Armas; si hay acceso, busca el mural de Hidalgo pintado por Orozco.",
+      "en": "Construction of the colonial palace began in the eighteenth century. Look at the arches and stonework from Plaza de Armas and, if admitted, seek out Orozco’s mural of Hidalgo.",
+      "zh": "这座殖民时期州政府宫在18世纪开始修建。可从武器广场观察拱廊和石材，允许入内时再找奥罗斯科绘制的伊达尔戈壁画。"
+    },
+    "manager": "state",
+    "address": "Avenida Ramón Corona, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/05/large_IMG_4652_1c47b52088.webp",
+    "faq": {
+      "es": [
+        "¿Qué mural se puede buscar?",
+        "El de Orozco dedicado a Miguel Hidalgo. Pregunta si el acceso a la zona del mural está habilitado."
+      ],
+      "en": [
+        "Which mural should I look for?",
+        "Look for Orozco’s mural of Miguel Hidalgo and ask whether the area is open to visitors."
+      ],
+      "zh": [
+        "可以找哪幅壁画？",
+        "找奥罗斯科以米格尔·伊达尔戈为主题的壁画，并先询问对应区域是否开放。"
+      ]
+    },
+    "tagline": {
+      "es": "Cantera colonial y el mural de Hidalgo",
+      "en": "Colonial stonework and the Hidalgo mural",
+      "zh": "殖民时期石立面与伊达尔戈壁画"
+    },
+    "camera": {
+      "es": "Desde Plaza de Armas, encuadra los arcos del palacio y su relación con la plaza.",
+      "en": "From Plaza de Armas, frame the palace arches in relation to the square.",
+      "zh": "从武器广场观察拱廊，用广场边缘交代州政府宫的位置。"
+    }
+  },
+  "palacio-municipal-de-guadalajara": {
+    "names": {
+      "es": "Palacio Municipal De Guadalajara",
+      "en": "Guadalajara City Hall",
+      "zh": "瓜达拉哈拉市政宫"
+    },
+    "body": {
+      "es": "Inaugurado en 1952, el palacio presenta portales de cantera con columnas toscanas. Busca el escudo en relieve desde la acera y pregunta si se puede acceder al patio con pinturas de Gabriel Flores.",
+      "en": "Opened in 1952, City Hall has stone arcades with Tuscan columns. Look for the carved coat of arms from the sidewalk and ask about visiting the courtyard with paintings by Gabriel Flores.",
+      "zh": "1952年启用的市政宫以石拱廊和托斯卡纳柱为特色。先在人行道上找市徽浮雕，再询问能否进庭院看加夫列尔·弗洛雷斯的画作。"
+    },
+    "manager": "city",
+    "address": "Avenida Miguel Hidalgo y Costilla, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_IMG_9664_e570607194.webp",
+    "faq": {
+      "es": [
+        "¿Dónde está el escudo de la ciudad?",
+        "Mira hacia la fachada sobre los portales. El relieve se puede observar desde el espacio público."
+      ],
+      "en": [
+        "Where is the city coat of arms?",
+        "Look above the façade’s arcades. The relief is visible from the public space outside."
+      ],
+      "zh": [
+        "市徽在哪里？",
+        "抬头看正立面拱廊上方，从外面的公共空间就能观察浮雕。"
+      ]
+    },
+    "tagline": {
+      "es": "Portales de cantera y el escudo de la ciudad",
+      "en": "Stone arcades and the city coat of arms",
+      "zh": "石拱廊与市徽浮雕"
+    },
+    "camera": {
+      "es": "Desde la acera, usa el escudo como centro de una toma de los portales.",
+      "en": "From the sidewalk, centre an arcade photograph on the carved coat of arms.",
+      "zh": "站在人行道上，以市徽浮雕为重点，连同下方拱廊取景。"
+    }
+  },
+  "museo-regional-de-guadalajara": {
+    "names": {
+      "es": "Museo Regional De Guadalajara",
+      "en": "Regional Museum of Guadalajara",
+      "zh": "瓜达拉哈拉地区博物馆"
+    },
+    "body": {
+      "es": "Las colecciones acercan la arqueología, paleontología e historia de Jalisco. Entra por Liceo, pregunta por las salas abiertas y observa la relación entre el patio del edificio histórico y las galerías.",
+      "en": "The collections cover Jalisco’s archaeology, paleontology and history. Enter from Liceo, ask which galleries are open and notice how the historic courtyard connects with the exhibition spaces.",
+      "zh": "馆藏涵盖哈利斯科的考古、古生物和历史。由利塞奥街进入，先询问开放展厅，再留意老建筑庭院与各展室的关系。"
+    },
+    "manager": "inah",
+    "address": "Calle Liceo, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_IMG_9348_0ac7125c18.webp",
+    "faq": {
+      "es": [
+        "¿Qué ver si hay poco tiempo?",
+        "Escoge una sala según te interese la arqueología o la paleontología y reserva unos minutos para ver el patio."
+      ],
+      "en": [
+        "What should I see on a short visit?",
+        "Choose a gallery based on your interest in archaeology or paleontology and leave a few minutes for the courtyard."
+      ],
+      "zh": [
+        "时间有限看什么？",
+        "可按兴趣选考古或古生物展厅，再留几分钟看看庭院。"
+      ]
+    },
+    "tagline": {
+      "es": "Arqueología, paleontología y patrimonio regional",
+      "en": "Archaeology, paleontology and regional heritage",
+      "zh": "考古、古生物与哈利斯科地区历史"
+    },
+    "camera": {
+      "es": "Desde Calle Liceo, incorpora la portada y una franja de la fachada de cantera.",
+      "en": "From Calle Liceo, include the entrance and a stretch of the stone façade.",
+      "zh": "从利塞奥街取景，将入口与相邻石立面并列拍摄。"
+    }
+  },
+  "museo-del-periodismo-y-las-artes-graficas-la-casa-de-los-perros": {
+    "names": {
+      "es": "Museo Del Periodismo Y Las Artes Gráficas (La Casa De Los Perros)",
+      "en": "Museum of Journalism and Graphic Arts",
+      "zh": "新闻与平面艺术博物馆"
+    },
+    "body": {
+      "es": "El inmueble se vincula con la primera imprenta de Nueva Galicia y con El Despertador Americano de 1810. Localiza las figuras caninas que dan nombre a la casa antes de entrar al museo.",
+      "en": "The building is associated with Nueva Galicia’s first printing press and the 1810 newspaper El Despertador Americano. Look for the dog sculptures that give the house its nickname before going inside.",
+      "zh": "这栋建筑与新加利西亚早期印刷和1810年的《美洲觉醒报》有关。入馆前可先找一找让建筑得名“狗屋”的犬形雕塑。"
+    },
+    "manager": "city",
+    "address": "Avenida Fray Antonio Alcalde, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/07/large_IMG_0607_1_f97cf4d447.webp",
+    "faq": {
+      "es": [
+        "¿Por qué se llama Casa de los Perros?",
+        "Busca las figuras caninas en la parte alta de la fachada, visibles desde la calle."
+      ],
+      "en": [
+        "Why is it called the House of the Dogs?",
+        "Look for the dog sculptures high on the building’s façade, visible from the street."
+      ],
+      "zh": [
+        "为什么叫“狗屋”？",
+        "从街上抬头看立面上方，可以找到犬形雕塑。"
+      ]
+    },
+    "tagline": {
+      "es": "La Casa de los Perros y la memoria de la imprenta",
+      "en": "The House of the Dogs and Guadalajara’s printing history",
+      "zh": "狗屋与瓜达拉哈拉的印刷史"
+    },
+    "camera": {
+      "es": "Desde la acera, acerca el encuadre a las figuras caninas en la parte alta de la casa.",
+      "en": "From the sidewalk, frame the dog sculptures high on the house.",
+      "zh": "在人行道抬头取景，拍下老宅上方的犬形装饰。"
+    }
+  },
+  "museo-de-la-ciudad-de-guadalajara": {
+    "names": {
+      "es": "Museo de La Ciudad de Guadalajara",
+      "en": "Guadalajara City Museum",
+      "zh": "瓜达拉哈拉城市博物馆"
+    },
+    "body": {
+      "es": "Abierto en 1992, ocupa parte del antiguo convento de las Capuchinas. Busca las salas de historia urbana en planta baja y observa el patio como parte del recorrido.",
+      "en": "Opened in 1992, the museum occupies part of the former Capuchin convent. Start with the urban history galleries on the ground floor and include the courtyard in your circuit.",
+      "zh": "博物馆于1992年开放，利用旧嘉布遣修女院的部分空间。可从底层城市史展厅开始，把庭院也纳入参观路线。"
+    },
+    "manager": "city",
+    "address": "Calle Independencia, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_55b321f0_4426_4878_b6fa_be05fa465b8e_0791a3c868.webp",
+    "faq": {
+      "es": [
+        "¿En qué se diferencia del Museo Regional?",
+        "El Museo de la Ciudad se centra en Guadalajara y su evolución urbana; el Regional aborda el patrimonio de un territorio más amplio."
+      ],
+      "en": [
+        "How does this differ from the Regional Museum?",
+        "The City Museum focuses on Guadalajara and its urban development. The Regional Museum covers a wider area."
+      ],
+      "zh": [
+        "与地区博物馆有何不同？",
+        "城市博物馆侧重瓜达拉哈拉及城市发展，地区博物馆的地域范围更广。"
+      ]
+    },
+    "tagline": {
+      "es": "La evolución urbana en un antiguo convento",
+      "en": "Urban history inside a former convent",
+      "zh": "旧修道院里的瓜达拉哈拉城市史"
+    },
+    "camera": {
+      "es": "Si está permitido, toma la foto desde un ángulo del patio para mostrar dos alas del antiguo convento.",
+      "en": "If permitted, shoot from a courtyard corner to show two wings of the former convent.",
+      "zh": "如允许拍摄，可在庭院一角同时取两翼旧院建筑。"
+    }
+  },
+  "casa-museo-lopez-portillo": {
+    "names": {
+      "es": "Casa Museo López Portillo",
+      "en": "López Portillo House Museum",
+      "zh": "洛佩斯·波蒂略故居博物馆"
+    },
+    "body": {
+      "es": "La casona virreinal permite leer cómo se organizaba una residencia del centro. Compara el patio con los salones y fija la mirada en los umbrales antes de continuar por Liceo.",
+      "en": "The colonial house shows how a central Guadalajara residence was laid out. Compare the courtyard with the reception rooms and notice the doorways before continuing along Liceo.",
+      "zh": "这座殖民时期宅院展示了老城住宅的空间布局。可比较庭院和会客厅，留意各处门洞，再沿利塞奥街继续走。"
+    },
+    "manager": "city",
+    "address": "Calle Liceo, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/06/large_IMG_4802_2fd3296bd5.webp",
+    "faq": {
+      "es": [
+        "¿Qué detalle ayuda a entender la casa?",
+        "El patio articula la circulación. Compara desde allí los accesos a los salones, si están abiertos."
+      ],
+      "en": [
+        "Which detail helps explain the house?",
+        "The courtyard organizes circulation. From there, compare the entrances to the rooms that are open."
+      ],
+      "zh": [
+        "哪里最容易看懂宅院布局？",
+        "庭院连接各处动线，可以在这里比较开放厅室的入口。"
+      ]
+    },
+    "tagline": {
+      "es": "Patio y salones de una residencia virreinal",
+      "en": "Courtyard and rooms of a colonial residence",
+      "zh": "殖民时期宅院的庭院与厅室"
+    },
+    "camera": {
+      "es": "Si el museo lo permite, encuadra un umbral desde el patio para mostrar la transición hacia los salones.",
+      "en": "If allowed, frame a doorway from the courtyard to show the transition to the rooms.",
+      "zh": "如场馆允许，可站在庭院用门洞作框，拍出通往厅室的过渡。"
+    }
+  },
+  "parroquia-san-juan-de-dios": {
+    "names": {
+      "es": "Parroquia San Juan De Dios",
+      "en": "San Juan de Dios Church",
+      "zh": "圣胡安德迪奥斯堂"
+    },
+    "body": {
+      "es": "El origen del templo está ligado a la atención de enfermos y a la llegada de los religiosos de San Juan de Dios en 1606. Desde el paseo, busca un ángulo lateral que muestre la iglesia y su relación con la plaza.",
+      "en": "The church grew out of care for the sick and the arrival of the Brothers of St John of God in 1606. From the passage, find a side view that shows the church’s relationship to the square.",
+      "zh": "教堂的历史与照料病人及圣胡安德迪奥斯修会1606年到来有关。可在步道上找侧向视角，观察教堂和广场的空间关系。"
+    },
+    "manager": "church",
+    "address": "Calzada Independencia Norte, San Juan de Dios",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_IMG_3073_2ef61d2382.webp",
+    "faq": {
+      "es": [
+        "¿Se puede añadir a una visita breve a la plaza?",
+        "Sí. El templo está junto al entorno del paseo, por lo que se puede observar el exterior entre la plaza y el mercado."
+      ],
+      "en": [
+        "Can I add it to a short visit to the square?",
+        "Yes. The church is beside the passage, so its exterior fits easily between the square and the market."
+      ],
+      "zh": [
+        "短时间逛广场能顺便看吗？",
+        "可以。教堂在步道附近，可在广场和市场之间顺路看外观。"
+      ]
+    },
+    "tagline": {
+      "es": "Una iglesia vinculada al antiguo hospital del barrio",
+      "en": "A neighborhood church with roots in hospital care",
+      "zh": "与街区早期医疗照护相连的教堂"
+    },
+    "camera": {
+      "es": "Desde el paseo, busca una vista oblicua que incluya el templo y el arranque del pasaje.",
+      "en": "From the promenade, find an oblique angle with the church and the start of the passage.",
+      "zh": "在步道上找斜侧视角，把教堂和巷道入口放进同一画面。"
+    }
+  },
+  "parroquia-san-jose-de-analco": {
+    "names": {
+      "es": "Parroquia San José De Analco",
+      "en": "San José de Analco Church",
+      "zh": "阿纳尔科圣若瑟堂"
+    },
+    "body": {
+      "es": "La iglesia del barrio tiene antecedentes del siglo XVII y fue reconstruida en varias ocasiones. Mírala desde el jardín y acércate por Calle Analco para comparar los elementos de su fachada.",
+      "en": "The neighborhood church dates back to the seventeenth century and was rebuilt several times. View it from the garden, then approach along Calle Analco for a closer look at the façade.",
+      "zh": "街区教堂的历史可追溯至17世纪，后来多次重建。可先在花园看整体，再沿阿纳尔科街靠近观察立面。"
+    },
+    "manager": "church",
+    "address": "Calle Analco, Analco",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_IMG_4919_5ce894c8e7.webp",
+    "faq": {
+      "es": [
+        "¿Es el mismo lugar que el jardín?",
+        "Son dos paradas contiguas: el jardín es un espacio público y el templo tiene su propio acceso."
+      ],
+      "en": [
+        "Is this the same place as the garden?",
+        "They are neighboring stops. The garden is a public space and the church has its own entrance."
+      ],
+      "zh": [
+        "教堂和花园是同一个地方吗？",
+        "两处相邻。花园是公共空间，教堂另有入口。"
+      ]
+    },
+    "tagline": {
+      "es": "Un templo histórico frente al jardín de Analco",
+      "en": "A historic church facing Analco’s garden",
+      "zh": "面向阿纳尔科花园的街区老教堂"
+    },
+    "camera": {
+      "es": "Desde el jardín, deja un tramo de sendero en primer plano para mostrar la posición de la iglesia.",
+      "en": "From the garden, include a stretch of path to show where the church sits.",
+      "zh": "从花园向教堂取景，把一小段园路留作前景。"
+    }
+  },
+  "jardin-san-jose-de-analco": {
+    "names": {
+      "es": "Jardín San José de Analco",
+      "en": "San José de Analco Garden",
+      "zh": "阿纳尔科圣若瑟花园"
+    },
+    "body": {
+      "es": "El jardín fue un primer emplazamiento del tianguis El Baratillo. Recorre sus bordes para entender su papel como punto de encuentro del barrio y encuadra la iglesia desde el interior del jardín.",
+      "en": "The garden was an early home of the El Baratillo street market. Walk its edges to understand its role as a neighborhood meeting place and frame the church from inside the garden.",
+      "zh": "这里是巴拉蒂略露天市场早期的聚集地。可沿花园边缘走一圈，观察它作为邻里聚点的位置，再从园内向教堂取景。"
+    },
+    "manager": "city",
+    "address": "Barrio de Analco",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/01/large_IMG_4921_24019c5f4f.webp",
+    "faq": {
+      "es": [
+        "¿Sigue funcionando allí El Baratillo?",
+        "El jardín conserva la memoria del tianguis, que fue reubicado hacia el oriente de la ciudad."
+      ],
+      "en": [
+        "Is El Baratillo still held here?",
+        "The garden recalls the market’s early history. The market moved to the east of the city."
+      ],
+      "zh": [
+        "巴拉蒂略市场还在这里吗？",
+        "花园保存着早期市场的记忆，市场后来迁到城市东部。"
+      ]
+    },
+    "tagline": {
+      "es": "La memoria del tianguis El Baratillo",
+      "en": "An early home of the El Baratillo market",
+      "zh": "巴拉蒂略露天市场的早期地点"
+    },
+    "camera": {
+      "es": "Desde un borde del jardín, encuadra sus espacios de reunión sin cortar la vista hacia el templo.",
+      "en": "From an edge of the garden, keep the view toward the church in frame.",
+      "zh": "从花园边缘取景，同时保留邻里聚集空间和教堂方向。"
+    }
+  },
+  "parque-morelos": {
+    "names": {
+      "es": "Parque Morelos",
+      "en": "Morelos Park",
+      "zh": "莫雷洛斯公园"
+    },
+    "body": {
+      "es": "El parque se formó en un antiguo paisaje de álamos junto al cauce de San Juan de Dios. Recorre un sendero interior y fotografía la transición entre los árboles y la Calzada Independencia desde el borde del parque.",
+      "en": "The park grew out of a former poplar landscape beside the San Juan de Dios watercourse. Walk an interior path and photograph the shift from trees to Calzada Independencia at the park edge.",
+      "zh": "公园一带曾是圣胡安德迪奥斯旧河道旁的杨树林。可从园内小径走到边缘，拍下林木与独立大道之间的过渡。"
+    },
+    "manager": "city",
+    "address": "Calzada Independencia Norte, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_4d8fb984_dea5_4000_a4d4_e6a2af8951ee_8c1407c9f4.webp",
+    "faq": {
+      "es": [
+        "¿Con qué parada cercana se puede combinar?",
+        "Puedes incorporar el parque a una visita a Cabañas; cada lugar requiere su propia parada y acceso."
+      ],
+      "en": [
+        "What nearby stop can I combine with the park?",
+        "Pair it with a visit to Cabañas, allowing time for the separate entrances and stops."
+      ],
+      "zh": [
+        "适合与哪处附近景点一起游览？",
+        "可与卡瓦尼亚斯博物馆搭配，两处请分别安排入口和停留时间。"
+      ]
+    },
+    "tagline": {
+      "es": "Senderos junto al antiguo cauce de San Juan de Dios",
+      "en": "Paths beside the former San Juan de Dios watercourse",
+      "zh": "圣胡安德迪奥斯旧河道旁的公园"
+    },
+    "camera": {
+      "es": "En el borde de Calzada Independencia, gira hacia el interior para encuadrar la transición a los árboles.",
+      "en": "At the Calzada Independencia edge, face inward to frame the transition to the trees.",
+      "zh": "在独立大道旁的公园边缘向里拍，表现街道过渡到林荫步道的变化。"
+    }
+  },
+  "parque-agua-azul": {
+    "names": {
+      "es": "Parque Agua Azul",
+      "en": "Agua Azul Park",
+      "zh": "蓝水公园"
+    },
+    "body": {
+      "es": "El parque se desarrolló a mediados del siglo XX e integra espacios verdes y recintos como la Concha Acústica. Combina un paseo por los senderos con una parada exterior en el foro; consulta por separado qué áreas están abiertas.",
+      "en": "Developed in the mid-twentieth century, the park combines green space with venues including the Concha Acústica. Pair a walk along the paths with a stop outside the stage and check which facilities are open.",
+      "zh": "公园在20世纪中叶逐步建成，绿地内设有贝壳形露天舞台等场所。可先走园路，再到舞台外观察，园内不同设施的开放情况应分别查询。"
+    },
+    "manager": "city",
+    "address": "Calzada Independencia Sur, Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_23e19e6f_8eaa_4619_9ce8_d04ad7f8ec5f_944e249f5c.webp",
+    "faq": {
+      "es": [
+        "¿El acceso al parque garantiza acceso a sus recintos?",
+        "Comprueba por separado el acceso al foro y a los espacios especializados antes de planear la visita."
+      ],
+      "en": [
+        "Does park access include its facilities?",
+        "Check access to the stage and specialized facilities separately before planning your visit."
+      ],
+      "zh": [
+        "进公园就能参观内部场馆吗？",
+        "露天舞台和各专项场馆有各自的开放安排，出发前分别查询。"
+      ]
+    },
+    "tagline": {
+      "es": "Un paseo verde hasta la Concha Acústica",
+      "en": "A green walk to the Concha Acústica",
+      "zh": "通向贝壳形露天舞台的绿地"
+    },
+    "camera": {
+      "es": "Desde el sendero, encuadra la cubierta curva de la Concha Acústica con la vegetación que la rodea.",
+      "en": "From the path, frame the curved shell of the Concha Acústica with the surrounding greenery.",
+      "zh": "从园路上将贝壳形舞台的曲线与周围绿植一同入镜。"
+    }
+  },
+  "parque-de-la-revolucion-parque-rojo": {
+    "names": {
+      "es": "Parque De La Revolución (Parque Rojo)",
+      "en": "Revolution Park (Parque Rojo)",
+      "zh": "革命公园（红公园）"
+    },
+    "body": {
+      "es": "El parque de Juan José y Luis Barragán se inauguró en 1935. Observa cómo Avenida Vallarta divide el espacio y usa el cruce señalado para comparar los monumentos de ambos lados.",
+      "en": "Juan José and Luis Barragán’s park opened in 1935. Notice how Avenida Vallarta divides the space and use the marked crossing to compare monuments on both sides.",
+      "zh": "胡安·何塞与路易斯·巴拉甘参与设计的公园于1935年启用。留意巴亚尔塔大道如何分隔园区，再经标识过街点比较两侧纪念像。"
+    },
+    "manager": "city",
+    "address": "Calzada Federalismo y Avenida Vallarta, Colonia Americana",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/05/large_IMG_4663_d92a2cf9c8.webp",
+    "faq": {
+      "es": [
+        "¿Por qué aparece también como Parque Rojo?",
+        "Es el nombre de uso común para el Parque de la Revolución; sirve para reconocerlo junto a la estación Juárez."
+      ],
+      "en": [
+        "Why is it also called Parque Rojo?",
+        "It is the common name for Revolution Park and helps identify it next to Juárez station."
+      ],
+      "zh": [
+        "为什么也叫红公园？",
+        "红公园是革命公园的常用称呼，在华雷斯站附近找路时也可用这个名字。"
+      ]
+    },
+    "tagline": {
+      "es": "El parque de los Barragán junto a estación Juárez",
+      "en": "The Barragán brothers’ park by Juárez station",
+      "zh": "华雷斯站旁的巴拉甘兄弟公园"
+    },
+    "camera": {
+      "es": "Desde el interior de una mitad del parque, encuadra un monumento y la arboleda sin entrar en la calzada.",
+      "en": "From inside one half of the park, frame a monument and the trees without stepping into the road.",
+      "zh": "在公园一侧内部，将纪念像与树冠一同取景，全程留在人行区。"
+    }
+  },
+  "expiatorio-del-santisimo-sacramento": {
+    "names": {
+      "es": "Expiatorio Del Santísimo Sacramento",
+      "en": "Expiatory Temple",
+      "zh": "圣体赎罪圣殿"
+    },
+    "body": {
+      "es": "La obra neogótica comenzó en 1897 con un proyecto de Adamo Boari. Desde la explanada se aprecian la verticalidad de la fachada y el detalle de las portadas sin interferir con la entrada al culto.",
+      "en": "Work on Adamo Boari’s Gothic Revival design began in 1897. The forecourt gives a view of the tall façade and detailed portals while leaving the worship entrance clear.",
+      "zh": "圣殿按阿达莫·博阿里的新哥特式设计于1897年开工。从门前广场可看出立面的垂直感和入口细部，也能避开礼拜人流。"
+    },
+    "manager": "church",
+    "address": "Calle Manuel López Cotilla, Colonia Americana",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_26730750972_b258002eb0_k_1_6241755f74.webp",
+    "faq": {
+      "es": [
+        "¿Dónde se aprecia mejor la composición neogótica?",
+        "Desde la explanada se distinguen el perfil vertical y las portadas. Acércate después para mirar la talla."
+      ],
+      "en": [
+        "Where is the Gothic Revival design easiest to see?",
+        "The forecourt shows the vertical outline and portals. Move closer afterwards to see the carvings."
+      ],
+      "zh": [
+        "哪里看新哥特式构图最清楚？",
+        "在门前广场先看垂直轮廓与入口，再靠近观察雕刻。"
+      ]
+    },
+    "tagline": {
+      "es": "Portadas neogóticas desde la explanada",
+      "en": "Gothic Revival portals viewed from the forecourt",
+      "zh": "从前庭观察新哥特式入口"
+    },
+    "camera": {
+      "es": "Desde la explanada, retrocede lo suficiente para incluir los remates superiores y las portadas.",
+      "en": "From the forecourt, step back enough to include both the top of the façade and the portals.",
+      "zh": "在前庭拉开距离，把尖顶轮廓和下方入口一起拍入。"
+    }
+  },
+  "musa-museo-de-las-artes": {
+    "names": {
+      "es": "Musa (Museo De Las Artes )",
+      "en": "MUSA Museum of the Arts",
+      "zh": "瓜达拉哈拉大学艺术博物馆"
+    },
+    "body": {
+      "es": "El inmueble nació de un proyecto educativo iniciado en 1914. Tras observar la entrada desde Avenida Juárez, consulta las exposiciones vigentes y pregunta por el acceso al Paraninfo.",
+      "en": "The building grew from an education project begun in 1914. After viewing the entrance from Avenida Juárez, check the current exhibitions and ask about access to the assembly hall.",
+      "zh": "建筑起源于1914年启动的教育项目。可先从华雷斯大道看入口，再查当期展览和大学礼堂的参观安排。"
+    },
+    "manager": "udg",
+    "address": "Avenida Juárez, Colonia Americana",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_musa_8fed239d4e.webp",
+    "faq": {
+      "es": [
+        "¿La visita a las galerías incluye el Paraninfo?",
+        "Pregunta al llegar: el acceso al Paraninfo puede tener su propio horario o condiciones."
+      ],
+      "en": [
+        "Does a gallery visit include the assembly hall?",
+        "Ask when you arrive. The assembly hall may have its own hours or access conditions."
+      ],
+      "zh": [
+        "参观展厅就能进入大学礼堂吗？",
+        "到馆后先问，礼堂可能有单独的开放时间和参观条件。"
+      ]
+    },
+    "tagline": {
+      "es": "Arte universitario en Avenida Juárez",
+      "en": "University art on Avenida Juárez",
+      "zh": "华雷斯大道上的大学艺术展馆"
+    },
+    "camera": {
+      "es": "Desde la acera de Avenida Juárez, encuadra el acceso principal y la sucesión de ventanas.",
+      "en": "From the Avenida Juárez sidewalk, frame the main entrance and the row of windows.",
+      "zh": "从华雷斯大道人行道拍主入口，留出连续窗列的构图位置。"
+    }
+  },
+  "ex-convento-del-carmen": {
+    "names": {
+      "es": "Ex Convento del Carmen",
+      "en": "Former Carmen Convent",
+      "zh": "卡门旧修道院"
+    },
+    "body": {
+      "es": "Fundado por los Carmelitas Descalzos, el conjunto combina patios y restos de su uso religioso con salas culturales. Observa los umbrales desde el patio y consulta qué muestras están montadas ese día.",
+      "en": "Founded by the Discalced Carmelites, the complex combines courtyards and traces of religious use with cultural galleries. Look at the thresholds from the courtyard and check which exhibitions are on.",
+      "zh": "这处由赤足加尔默罗会创建的旧修道院保留庭院与宗教建筑痕迹，现设文化展厅。可从庭院观察各门口的衔接，再查当天展览。"
+    },
+    "manager": "state",
+    "address": "Avenida Juárez, Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/06/large_IMG_4770_2cf084b53a.webp",
+    "faq": {
+      "es": [
+        "¿Qué hago si cambia la exposición?",
+        "Consulta la programación del recinto y dedica parte de la visita a los patios abiertos."
+      ],
+      "en": [
+        "What if the exhibition changes?",
+        "Check the venue’s programme and set aside time for the courtyards that are open."
+      ],
+      "zh": [
+        "展览换档时怎么安排？",
+        "先查当前节目，开放的庭院也可以单独安排停留。"
+      ]
+    },
+    "tagline": {
+      "es": "Patios carmelitas y exposiciones contemporáneas",
+      "en": "Carmelite courtyards and contemporary exhibitions",
+      "zh": "加尔默罗旧院庭院与当代展览"
+    },
+    "camera": {
+      "es": "Si el patio está abierto, usa un umbral como marco para fotografiar el corredor.",
+      "en": "If the courtyard is open, use a doorway to frame the corridor.",
+      "zh": "庭院开放时，可利用门洞框住一侧廊道。"
+    }
+  },
+  "capilla-de-nuestra-senora-de-aranzazu": {
+    "names": {
+      "es": "Capilla de Nuestra Señora De Aranzazu",
+      "en": "Aranzazú Chapel",
+      "zh": "阿兰萨苏圣母小堂"
+    },
+    "body": {
+      "es": "La capilla del siglo XVIII perteneció al conjunto franciscano. Compara su portada relativamente sobria con el tratamiento barroco del interior cuando se permita la entrada.",
+      "en": "The eighteenth-century chapel belonged to the Franciscan complex. Compare its relatively restrained façade with the Baroque interior when access is permitted.",
+      "zh": "这座18世纪小堂原属于方济各会建筑群。开放时可比较相对素雅的正门和内部巴洛克装饰。"
+    },
+    "manager": "church",
+    "address": "Avenida 16 de Septiembre, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_53890863312_159c9cb761_k_0a6ba536e0.webp",
+    "faq": {
+      "es": [
+        "¿Vale la pena detenerse si la capilla está cerrada?",
+        "Sí: compara la portada con la del templo franciscano vecino desde el espacio público."
+      ],
+      "en": [
+        "Is the chapel worth a stop if closed?",
+        "Yes. Compare its entrance with that of the neighboring Franciscan church from the public space outside."
+      ],
+      "zh": [
+        "小堂关门还值得停留吗？",
+        "可以从外面的公共空间，把小堂正门与相邻的方济各会教堂做对照。"
+      ]
+    },
+    "tagline": {
+      "es": "Una capilla barroca del antiguo conjunto franciscano",
+      "en": "A Baroque chapel of the old Franciscan complex",
+      "zh": "旧方济各会建筑群里的巴洛克小堂"
+    },
+    "camera": {
+      "es": "Desde la acera, toma una vista frontal de la portada y otra lateral que muestre su relación con el templo vecino.",
+      "en": "From the sidewalk, take a straight-on view of the portal and a side view showing the neighboring church.",
+      "zh": "在人行道拍一张正门，再用侧向取景交代与相邻教堂的关系。"
+    }
+  },
+  "templo-san-francisco-de-asis": {
+    "names": {
+      "es": "Templo San Francisco De Asís",
+      "en": "San Francisco de Asís Church",
+      "zh": "亚西西圣方济各堂"
+    },
+    "body": {
+      "es": "La iglesia, terminada en 1692, es un vestigio del antiguo convento franciscano. Desde el exterior observa la piedra tallada y compara la composición con la cercana Capilla de Aranzazú.",
+      "en": "Completed in 1692, the church is a surviving part of the former Franciscan convent. Examine the carved stone outside and compare the composition with nearby Aranzazú Chapel.",
+      "zh": "教堂于1692年完工，是旧方济各会修道院的遗存。可在外面看石雕，并与附近阿兰萨苏小堂的立面构图对照。"
+    },
+    "manager": "church",
+    "address": "Calzada Revolución, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_53073052001_fe583df3a4_k_1ea9cf678c.webp",
+    "faq": {
+      "es": [
+        "¿Qué detalle mirar primero en la fachada?",
+        "Busca las columnas y la piedra tallada de la portada antes de mirar la composición completa desde más lejos."
+      ],
+      "en": [
+        "Which façade detail should I look at first?",
+        "Start with the columns and carved stone of the entrance, then step back to see the whole composition."
+      ],
+      "zh": [
+        "立面先看什么细节？",
+        "先看门口柱子和石雕，再退远一点看整体构图。"
+      ]
+    },
+    "tagline": {
+      "es": "Cantera tallada del antiguo convento franciscano",
+      "en": "Carved stone of the former Franciscan convent",
+      "zh": "旧方济各会修道院遗留的石雕立面"
+    },
+    "camera": {
+      "es": "Desde fuera, prueba una toma abierta de la portada y otra cerrada de la piedra tallada.",
+      "en": "Outside, photograph the portal as a whole and then tighten the frame on the carved stone.",
+      "zh": "在外部先拍入口整体，再缩小画面记录石雕细节。"
+    }
+  },
+  "museo-panteon-de-belen": {
+    "names": {
+      "es": "Museo Panteón De Belén",
+      "en": "Belén Cemetery Museum",
+      "zh": "贝伦公墓博物馆"
+    },
+    "body": {
+      "es": "El antiguo cementerio conserva mausoleos y lápidas que se leen mejor en un recorrido guiado. Desde el acceso pregunta por la siguiente visita y observa el trazado de los senderos antes de fotografiar detalles funerarios.",
+      "en": "The former cemetery preserves mausoleums and gravestones best understood on a guided visit. Ask at the entrance about the next tour and observe the path layout before photographing funerary details.",
+      "zh": "旧公墓保留陵墓和墓碑，跟随导览更容易理解背景。到入口先问下一场导览，参观时留意园路布局，再按现场规则拍摄墓葬细部。"
+    },
+    "manager": "city",
+    "address": "Calle Belén, El Retiro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_52846309891_e5257e38e3_k_1a52d2f760.webp",
+    "faq": {
+      "es": [
+        "¿Puedo recorrer los mausoleos por mi cuenta?",
+        "Pregunta en taquilla por el tipo de visita y la siguiente salida; organiza la llegada según ese horario."
+      ],
+      "en": [
+        "Can I walk around the mausoleums on my own?",
+        "Ask at the ticket desk about the visit format and the next departure, then plan around it."
+      ],
+      "zh": [
+        "可以自行逛陵墓吗？",
+        "先在售票处询问当天参观形式及下一场出发时间，再按安排入内。"
+      ]
+    },
+    "tagline": {
+      "es": "Mausoleos y memoria urbana en el barrio El Retiro",
+      "en": "Mausoleums and city history in El Retiro",
+      "zh": "埃尔雷蒂罗街区的陵墓与城市记忆"
+    },
+    "camera": {
+      "es": "Durante el recorrido autorizado, fotografía desde el sendero para incluir la escala del mausoleo.",
+      "en": "On an authorized tour, photograph from the path to show the scale of the mausoleum.",
+      "zh": "在获准的导览路线内，从主路取景以交代陵墓尺度。"
+    }
+  },
+  "biblioteca-iberoamericana-octavio-paz": {
+    "names": {
+      "es": "Biblioteca Iberoamericana Octavio Paz",
+      "en": "Octavio Paz Ibero-American Library",
+      "zh": "奥克塔维奥·帕斯伊比利亚美洲图书馆"
+    },
+    "body": {
+      "es": "El edificio se vincula con la Real Universidad inaugurada en 1792 y abrió como biblioteca en 1991. Observa la entrada desde Pedro Moreno y pregunta por las zonas abiertas a visitantes.",
+      "en": "The building is linked to the Royal University inaugurated in 1792 and opened as a library in 1991. Look at the entrance from Pedro Moreno and ask which areas are open to visitors.",
+      "zh": "建筑与1792年开办的皇家大学有关，1991年作为图书馆开放。可从佩德罗·莫雷诺街看入口，再询问访客可进入哪些区域。"
+    },
+    "manager": "udg",
+    "address": "Calle Pedro Moreno, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/03/large_biblioteca_iberoamericana_principal_79417f8823_5cbb54538c.webp",
+    "faq": {
+      "es": [
+        "¿Se visita como un museo?",
+        "Es una biblioteca en funcionamiento. Pregunta por el acceso y mantén el silencio en las zonas de lectura."
+      ],
+      "en": [
+        "Is it visited like a museum?",
+        "It is a working library. Ask about access and keep quiet in the reading areas."
+      ],
+      "zh": [
+        "可以像逛博物馆一样进去吗？",
+        "这里仍是使用中的图书馆。请先问访客可进入的区域，在阅览区保持安静。"
+      ]
+    },
+    "tagline": {
+      "es": "Una biblioteca en la antigua sede universitaria",
+      "en": "A library in the historic university building",
+      "zh": "旧大学建筑里的图书馆"
+    },
+    "camera": {
+      "es": "Desde Pedro Moreno, busca una vista frontal de la portada sin ocupar el acceso a la biblioteca.",
+      "en": "From Pedro Moreno, look for a straight-on view of the portal while keeping the library entrance clear.",
+      "zh": "在佩德罗·莫雷诺街找入口的正面角度，给进出图书馆的人留出通道。"
+    }
+  },
+  "parroquia-de-san-agustin": {
+    "names": {
+      "es": "Parroquia de San Agustin",
+      "en": "San Agustín Church",
+      "zh": "圣奥古斯丁堂"
+    },
+    "body": {
+      "es": "El convento agustino se fundó en 1573. Acércate desde el entorno del Teatro Degollado y observa la escala de la portada; el claustro pertenece a un espacio con su propio acceso.",
+      "en": "The Augustinian convent was founded in 1573. Approach from the theatre area to see the scale of the entrance, and treat the surviving cloister as a separately accessed space.",
+      "zh": "旧奥古斯丁会修道院始创于1573年。从剧院一带走来，可近看正门尺度。留存的回廊另有入口和开放安排。"
+    },
+    "manager": "church",
+    "address": "Calle José María Morelos, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_img_3737_1_3a54f16c04.webp",
+    "faq": {
+      "es": [
+        "¿La iglesia y el claustro tienen la misma entrada?",
+        "Organiza la iglesia y el antiguo claustro como visitas separadas, según el acceso autorizado de cada espacio."
+      ],
+      "en": [
+        "Do the church and cloister share an entrance?",
+        "Treat the church and the former cloister as separate stops and check access to each."
+      ],
+      "zh": [
+        "教堂和回廊共用入口吗？",
+        "建议按两处分别安排，查询各自开放的入口。"
+      ]
+    },
+    "tagline": {
+      "es": "La iglesia del antiguo convento agustino",
+      "en": "The church of the former Augustinian convent",
+      "zh": "旧奥古斯丁会修道院的教堂"
+    },
+    "camera": {
+      "es": "Desde el espacio público frente al templo, encuadra la portada sin bloquear el paso al interior.",
+      "en": "From the public space in front of the church, frame the portal while keeping the entrance clear.",
+      "zh": "在教堂外的公共空间拍摄正门，避开通往内部的通道。"
+    }
+  },
+  "edificio-arroniz": {
+    "names": {
+      "es": "Edificio Arroniz",
+      "en": "Arróniz Building",
+      "zh": "阿罗尼斯大楼"
+    },
+    "body": {
+      "es": "El edificio histórico aloja dependencias culturales del estado. Desde la calle observa el ritmo de sus vanos y reserva una visita interior para cuando el recinto anuncie una actividad abierta.",
+      "en": "The historic building houses state cultural offices. Observe the window rhythm from the street and plan an interior visit around a publicly announced event.",
+      "zh": "这座历史建筑现有州文化机构办公。可在街边观察窗孔排列，若想参观室内，以机构公布的开放活动为准。"
+    },
+    "manager": "state",
+    "address": "Calle Ignacio Zaragoza, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/06/large_IMG_4772_fadc5a8577.webp",
+    "faq": {
+      "es": [
+        "¿El edificio abre regularmente a turistas?",
+        "Consulta la agenda cultural del estado; para una visita espontánea, planifica primero ver la fachada desde la calle."
+      ],
+      "en": [
+        "Is the building regularly open to tourists?",
+        "Check the state cultural calendar. For an unplanned stop, start with the façade from the street."
+      ],
+      "zh": [
+        "大楼平时对游客开放吗？",
+        "请先查州文化活动日程，临时经过可从街上看立面。"
+      ]
+    },
+    "tagline": {
+      "es": "Una fachada histórica en Calle Ignacio Zaragoza",
+      "en": "A historic façade on Calle Ignacio Zaragoza",
+      "zh": "伊格纳西奥·萨拉戈萨街上的历史立面"
+    },
+    "camera": {
+      "es": "Desde Calle Ignacio Zaragoza, busca una toma oblicua que muestre la repetición de los vanos.",
+      "en": "From Calle Ignacio Zaragoza, use an oblique angle to show the repeating window openings.",
+      "zh": "从伊格纳西奥·萨拉戈萨街斜向取景，表现立面窗孔的重复节奏。"
+    }
+  }
+}

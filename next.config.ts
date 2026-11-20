@@ -4,6 +4,7 @@ import type { NextConfig } from 'next';
 const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 
 const nextConfig: NextConfig = {
+  experimental: { cpus: 1 },
   images: {
     remotePatterns: [
       { protocol: 'https' as const, hostname: 'images.unsplash.com' },

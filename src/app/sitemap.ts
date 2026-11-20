@@ -1,4 +1,6 @@
 import { MetadataRoute } from 'next';
+import { nearbySlugs } from '@/data/nearby';
+import { guideSlugs } from '@/data/guides';
 import { SITE } from '@/config/site';
 
 export const dynamic = 'force-static';
@@ -6,7 +8,7 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = SITE.url;
   const locales = ['zh', 'en', 'es'];
-  const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings', ...guideSlugs.map((slug) => `/guide/${slug}`), ...nearbySlugs.map((slug) => `/nearby/${slug}`)];
 
   const sitemap: MetadataRoute.Sitemap = [];
 

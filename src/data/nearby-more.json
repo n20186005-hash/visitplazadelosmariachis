@@ -1,0 +1,1250 @@
+{
+  "andador-chapultepec": {
+    "names": {
+      "es": "Andador Chapultepec",
+      "en": "Chapultepec Promenade",
+      "zh": "查普尔特佩克步道"
+    },
+    "tagline": {
+      "es": "El camellón convierte una avenida de la Americana en un paseo vecinal.",
+      "en": "The landscaped median turns an avenue in Colonia Americana into a neighborhood promenade.",
+      "zh": "大道中央的绿化带形成美洲街区的步行空间。"
+    },
+    "camera": {
+      "es": "Elige un tramo entre cruces señalados y encuadra la sucesión de árboles desde el camellón.",
+      "en": "Pick one stretch between marked crossings and frame the line of trees from the median.",
+      "zh": "选一段有标线过街口的路段，从中央步道拍连续树列。"
+    },
+    "body": {
+      "es": "El camellón convierte una avenida de la Americana en un paseo vecinal. Elige un tramo entre cruces señalados y encuadra la sucesión de árboles desde el camellón.",
+      "en": "The landscaped median turns an avenue in Colonia Americana into a neighborhood promenade. Pick one stretch between marked crossings and frame the line of trees from the median.",
+      "zh": "大道中央的绿化带形成美洲街区的步行空间。选一段有标线过街口的路段，从中央步道拍连续树列。"
+    },
+    "manager": "city",
+    "address": "Avenida Chapultepec, Colonia Americana",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/05/large_Whats_App_Image_2025_05_07_at_09_33_54_0cc970729d.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Andador Chapultepec?",
+        "Elige un tramo entre cruces señalados y encuadra la sucesión de árboles desde el camellón."
+      ],
+      "en": [
+        "What should I look for at Chapultepec Promenade?",
+        "Pick one stretch between marked crossings and frame the line of trees from the median."
+      ],
+      "zh": [
+        "游览查普尔特佩克步道时可以重点看什么？",
+        "选一段有标线过街口的路段，从中央步道拍连续树列。"
+      ]
+    }
+  },
+  "andador-coronilla": {
+    "names": {
+      "es": "Andador Coronilla",
+      "en": "Coronilla Walkway",
+      "zh": "科罗尼利亚步道"
+    },
+    "tagline": {
+      "es": "Esta calle peatonal del centro reúne actividades de arte y locales de barrio.",
+      "en": "This downtown pedestrian street brings together arts activity and neighborhood shops.",
+      "zh": "这条老城步行街汇集艺术活动与街坊店铺。"
+    },
+    "camera": {
+      "es": "Camina de extremo a extremo y fotografía los accesos desde el eje de la calle sin ocupar las entradas.",
+      "en": "Walk the short street end to end and frame the doorways from its axis while keeping entrances clear.",
+      "zh": "沿短街走到另一端，从中轴拍两侧店门，给出入的人留空间。"
+    },
+    "body": {
+      "es": "Esta calle peatonal del centro reúne actividades de arte y locales de barrio. Camina de extremo a extremo y fotografía los accesos desde el eje de la calle sin ocupar las entradas.",
+      "en": "This downtown pedestrian street brings together arts activity and neighborhood shops. Walk the short street end to end and frame the doorways from its axis while keeping entrances clear.",
+      "zh": "这条老城步行街汇集艺术活动与街坊店铺。沿短街走到另一端，从中轴拍两侧店门，给出入的人留空间。"
+    },
+    "manager": "city",
+    "address": "Calle Coronilla, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/05/large_8_F962_B79_65_FF_456_F_97_FF_C400_D02_CD_704_3b51bae52a.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Andador Coronilla?",
+        "Camina de extremo a extremo y fotografía los accesos desde el eje de la calle sin ocupar las entradas."
+      ],
+      "en": [
+        "What should I look for at Coronilla Walkway?",
+        "Walk the short street end to end and frame the doorways from its axis while keeping entrances clear."
+      ],
+      "zh": [
+        "游览科罗尼利亚步道时可以重点看什么？",
+        "沿短街走到另一端，从中轴拍两侧店门，给出入的人留空间。"
+      ]
+    }
+  },
+  "globo-museo-de-la-ninez": {
+    "names": {
+      "es": "Globo, Museo de la niñez",
+      "en": "Globo Children’s Museum",
+      "zh": "环球儿童博物馆"
+    },
+    "tagline": {
+      "es": "El museo municipal dedica sus pabellones y talleres al aprendizaje mediante el juego.",
+      "en": "The municipal museum uses interactive galleries and workshops to help children learn through play.",
+      "zh": "这座市立博物馆通过互动展厅和工作坊，让孩子在游戏中学习。"
+    },
+    "camera": {
+      "es": "Revisa primero la cartelera de talleres; toma una foto de la entrada antes de pasar a las salas interactivas.",
+      "en": "Check the workshop schedule first and photograph the entrance before visiting the interactive rooms.",
+      "zh": "先问当天有哪些工作坊，在进入互动展厅前可在外部拍入口。"
+    },
+    "body": {
+      "es": "El museo municipal dedica sus pabellones y talleres al aprendizaje mediante el juego. Revisa primero la cartelera de talleres; toma una foto de la entrada antes de pasar a las salas interactivas.",
+      "en": "The municipal museum uses interactive galleries and workshops to help children learn through play. Check the workshop schedule first and photograph the entrance before visiting the interactive rooms.",
+      "zh": "这座市立博物馆通过互动展厅和工作坊，让孩子在游戏中学习。先问当天有哪些工作坊，在进入互动展厅前可在外部拍入口。"
+    },
+    "manager": "city",
+    "address": "Avenida 5 de Febrero, Las Conchas",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_b296fc9e_1798_4261_bcd0_ddcf56dd2147_004bffdb1a.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Globo, Museo de la niñez?",
+        "Revisa primero la cartelera de talleres; toma una foto de la entrada antes de pasar a las salas interactivas."
+      ],
+      "en": [
+        "What should I look for at Globo Children’s Museum?",
+        "Check the workshop schedule first and photograph the entrance before visiting the interactive rooms."
+      ],
+      "zh": [
+        "游览环球儿童博物馆时可以重点看什么？",
+        "先问当天有哪些工作坊，在进入互动展厅前可在外部拍入口。"
+      ]
+    }
+  },
+  "glorieta-de-la-minerva": {
+    "names": {
+      "es": "Glorieta de la Minerva",
+      "en": "La Minerva Roundabout",
+      "zh": "密涅瓦环岛"
+    },
+    "tagline": {
+      "es": "Inaugurada en 1956, la figura de Minerva marca el cruce de Vallarta y López Mateos.",
+      "en": "Unveiled in 1956, the Minerva figure marks the junction of Vallarta and López Mateos.",
+      "zh": "密涅瓦雕像于1956年揭幕，位于巴亚尔塔大道与洛佩斯·马特奥斯大道交会处。"
+    },
+    "camera": {
+      "es": "Mira la escultura y la fuente desde una acera accesible; usa zoom para los detalles y evita entrar al carril vehicular.",
+      "en": "View the sculpture and fountain from an accessible sidewalk. Use zoom for details and stay out of the traffic lanes.",
+      "zh": "在可达的人行道看雕像和喷泉，用变焦拍细部，留在人行区。"
+    },
+    "body": {
+      "es": "Inaugurada en 1956, la figura de Minerva marca el cruce de Vallarta y López Mateos. Mira la escultura y la fuente desde una acera accesible; usa zoom para los detalles y evita entrar al carril vehicular.",
+      "en": "Unveiled in 1956, the Minerva figure marks the junction of Vallarta and López Mateos. View the sculpture and fountain from an accessible sidewalk. Use zoom for details and stay out of the traffic lanes.",
+      "zh": "密涅瓦雕像于1956年揭幕，位于巴亚尔塔大道与洛佩斯·马特奥斯大道交会处。在可达的人行道看雕像和喷泉，用变焦拍细部，留在人行区。"
+    },
+    "manager": "city",
+    "address": "Avenida Vallarta y Avenida López Mateos",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/01/large_55041082421_af1a6ed060_k_38c2ae8699.webp",
+    "faq": {
+      "es": [
+        "¿Desde dónde se mira el monumento?",
+        "Mira la escultura y la fuente desde una acera accesible; usa zoom para los detalles y evita entrar al carril vehicular."
+      ],
+      "en": [
+        "Where can I view the monument?",
+        "View the sculpture and fountain from an accessible sidewalk. Use zoom for details and stay out of the traffic lanes."
+      ],
+      "zh": [
+        "从哪里观察纪念建筑？",
+        "在可达的人行道看雕像和喷泉，用变焦拍细部，留在人行区。"
+      ]
+    }
+  },
+  "jardin-del-carmen": {
+    "names": {
+      "es": "Jardín del Carmen",
+      "en": "Carmen Garden",
+      "zh": "卡门花园"
+    },
+    "tagline": {
+      "es": "El jardín de 1882 toma su nombre de la iglesia del Carmen.",
+      "en": "The garden dates to 1882 and takes its name from the Carmen church.",
+      "zh": "花园始于1882年，因相邻的卡门教堂得名。"
+    },
+    "camera": {
+      "es": "Observa las bancas y la sombra antes de encuadrar la iglesia al otro lado del jardín.",
+      "en": "Take in the benches and shade before framing the church across the garden.",
+      "zh": "先沿树荫和长椅走一圈，再从园内朝教堂取景。"
+    },
+    "body": {
+      "es": "El jardín de 1882 toma su nombre de la iglesia del Carmen. Observa las bancas y la sombra antes de encuadrar la iglesia al otro lado del jardín.",
+      "en": "The garden dates to 1882 and takes its name from the Carmen church. Take in the benches and shade before framing the church across the garden.",
+      "zh": "花园始于1882年，因相邻的卡门教堂得名。先沿树荫和长椅走一圈，再从园内朝教堂取景。"
+    },
+    "manager": "city",
+    "address": "Frente al Templo del Carmen, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/12/large_IMG_2218_19c77c370f.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Jardín del Carmen?",
+        "Observa las bancas y la sombra antes de encuadrar la iglesia al otro lado del jardín."
+      ],
+      "en": [
+        "What should I look for at Carmen Garden?",
+        "Take in the benches and shade before framing the church across the garden."
+      ],
+      "zh": [
+        "游览卡门花园时可以重点看什么？",
+        "先沿树荫和长椅走一圈，再从园内朝教堂取景。"
+      ]
+    }
+  },
+  "mercado-iv-centenario-capilla-de-jesus": {
+    "names": {
+      "es": "Mercado IV Centenario – Capilla de Jesús",
+      "en": "IV Centenario Market",
+      "zh": "四百周年纪念市场"
+    },
+    "tagline": {
+      "es": "El mercado conmemora los cuatrocientos años de la fundación de Guadalajara.",
+      "en": "The market commemorates the four hundredth anniversary of Guadalajara’s founding.",
+      "zh": "市场为纪念瓜达拉哈拉建城四百周年而建。"
+    },
+    "camera": {
+      "es": "Empieza por el letrero del mercado y recorre un pasillo de fondas sin detenerte frente a los puestos en servicio.",
+      "en": "Start with the market sign and walk one food aisle without blocking operating stalls.",
+      "zh": "先看市场招牌，再逛一条餐食摊位通道，停留时给顾客让路。"
+    },
+    "body": {
+      "es": "El mercado conmemora los cuatrocientos años de la fundación de Guadalajara. Empieza por el letrero del mercado y recorre un pasillo de fondas sin detenerte frente a los puestos en servicio.",
+      "en": "The market commemorates the four hundredth anniversary of Guadalajara’s founding. Start with the market sign and walk one food aisle without blocking operating stalls.",
+      "zh": "市场为纪念瓜达拉哈拉建城四百周年而建。先看市场招牌，再逛一条餐食摊位通道，停留时给顾客让路。"
+    },
+    "manager": "city",
+    "address": "Barrio de la Capilla de Jesús, Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/05/large_IMG_4374_1274249cff.webp",
+    "faq": {
+      "es": [
+        "¿Se puede comer en el mercado?",
+        "Sí. Busca las fondas o puestos de comida que estén abiertos y confirma el precio antes de pedir."
+      ],
+      "en": [
+        "Can I eat at the market?",
+        "Yes. Look for open food stalls or counters and check the price before ordering."
+      ],
+      "zh": [
+        "市场里可以用餐吗？",
+        "可以。找营业中的餐台或熟食摊，点餐前可先问价。"
+      ]
+    }
+  },
+  "mercado-mexicaltzingo": {
+    "names": {
+      "es": "Mercado Mexicaltzingo",
+      "en": "Mexicaltzingo Market",
+      "zh": "梅希卡尔津戈市场"
+    },
+    "tagline": {
+      "es": "El mercado concentra cocina casera y comercio cotidiano en uno de los barrios históricos de la ciudad.",
+      "en": "The market brings together home cooking and daily shopping in one of the city’s historic neighborhoods.",
+      "zh": "市场集中了街坊家常菜和日用摊位，是历史街区日常生活的一部分。"
+    },
+    "camera": {
+      "es": "Entra por Nicolás Régules, compara las fondas y pide permiso antes de retratar un puesto.",
+      "en": "Enter from Nicolás Régules, compare the food counters and ask before photographing a stall.",
+      "zh": "从尼古拉斯·雷古莱斯街进入，先看各家餐台，拍摊位前询问。"
+    },
+    "body": {
+      "es": "El mercado concentra cocina casera y comercio cotidiano en uno de los barrios históricos de la ciudad. Entra por Nicolás Régules, compara las fondas y pide permiso antes de retratar un puesto.",
+      "en": "The market brings together home cooking and daily shopping in one of the city’s historic neighborhoods. Enter from Nicolás Régules, compare the food counters and ask before photographing a stall.",
+      "zh": "市场集中了街坊家常菜和日用摊位，是历史街区日常生活的一部分。从尼古拉斯·雷古莱斯街进入，先看各家餐台，拍摊位前询问。"
+    },
+    "manager": "city",
+    "address": "Calle Nicolás Régules, Mexicaltzingo",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/05/large_IMG_4428_8e03079065.webp",
+    "faq": {
+      "es": [
+        "¿Se puede comer en el mercado?",
+        "Sí. Busca las fondas o puestos de comida que estén abiertos y confirma el precio antes de pedir."
+      ],
+      "en": [
+        "Can I eat at the market?",
+        "Yes. Look for open food stalls or counters and check the price before ordering."
+      ],
+      "zh": [
+        "市场里可以用餐吗？",
+        "可以。找营业中的餐台或熟食摊，点餐前可先问价。"
+      ]
+    }
+  },
+  "mercado-santa-tere": {
+    "names": {
+      "es": "Mercado Santa Tere",
+      "en": "Santa Tere Market",
+      "zh": "圣特雷莎街区市场"
+    },
+    "tagline": {
+      "es": "Las fondas y los comercios de productos frescos forman parte de la vida de Santa Teresita.",
+      "en": "Food counters and fresh produce stalls are part of daily life in Santa Teresita.",
+      "zh": "熟食台和生鲜摊是圣特雷莎街区的日常聚点。"
+    },
+    "camera": {
+      "es": "Empieza en Andrés Terán y fotografía el acceso desde la acera antes de elegir un sitio para comer.",
+      "en": "Start on Andrés Terán and photograph the entrance from the sidewalk before choosing a place to eat.",
+      "zh": "从安德烈斯·特兰街出发，先在人行道拍入口，再找用餐处。"
+    },
+    "body": {
+      "es": "Las fondas y los comercios de productos frescos forman parte de la vida de Santa Teresita. Empieza en Andrés Terán y fotografía el acceso desde la acera antes de elegir un sitio para comer.",
+      "en": "Food counters and fresh produce stalls are part of daily life in Santa Teresita. Start on Andrés Terán and photograph the entrance from the sidewalk before choosing a place to eat.",
+      "zh": "熟食台和生鲜摊是圣特雷莎街区的日常聚点。从安德烈斯·特兰街出发，先在人行道拍入口，再找用餐处。"
+    },
+    "manager": "city",
+    "address": "Calle Andrés Terán 523, Santa Teresita",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/05/large_IMG_4371_2daf608504.webp",
+    "faq": {
+      "es": [
+        "¿Se puede comer en el mercado?",
+        "Sí. Busca las fondas o puestos de comida que estén abiertos y confirma el precio antes de pedir."
+      ],
+      "en": [
+        "Can I eat at the market?",
+        "Yes. Look for open food stalls or counters and check the price before ordering."
+      ],
+      "zh": [
+        "市场里可以用餐吗？",
+        "可以。找营业中的餐台或熟食摊，点餐前可先问价。"
+      ]
+    }
+  },
+  "monumento-a-fray-antonio-alcalde": {
+    "names": {
+      "es": "Monumento a Fray Antonio Alcalde",
+      "en": "Fray Antonio Alcalde Monument",
+      "zh": "安东尼奥·阿尔卡尔德修士纪念像"
+    },
+    "tagline": {
+      "es": "La figura de Antonio Alcalde ocupa el jardín frente al santuario que ayudó a fundar.",
+      "en": "The monument to Antonio Alcalde stands in the garden facing the shrine he helped establish.",
+      "zh": "阿尔卡尔德纪念像立在花园里，面向他参与兴建的圣殿。"
+    },
+    "camera": {
+      "es": "Da una vuelta por la base y usa el santuario como fondo para ubicar la escultura en su contexto.",
+      "en": "Walk around the base and use the shrine as a backdrop to place the statue in context.",
+      "zh": "绕底座观察一圈，拍摄时用圣殿作背景，交代纪念像的位置。"
+    },
+    "body": {
+      "es": "La figura de Antonio Alcalde ocupa el jardín frente al santuario que ayudó a fundar. Da una vuelta por la base y usa el santuario como fondo para ubicar la escultura en su contexto.",
+      "en": "The monument to Antonio Alcalde stands in the garden facing the shrine he helped establish. Walk around the base and use the shrine as a backdrop to place the statue in context.",
+      "zh": "阿尔卡尔德纪念像立在花园里，面向他参与兴建的圣殿。绕底座观察一圈，拍摄时用圣殿作背景，交代纪念像的位置。"
+    },
+    "manager": "city",
+    "address": "Calle Pedro Loza 483, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/12/large_IMG_2230_6696aad58b.webp",
+    "faq": {
+      "es": [
+        "¿Desde dónde se mira el monumento?",
+        "Da una vuelta por la base y usa el santuario como fondo para ubicar la escultura en su contexto."
+      ],
+      "en": [
+        "Where can I view the monument?",
+        "Walk around the base and use the shrine as a backdrop to place the statue in context."
+      ],
+      "zh": [
+        "从哪里观察纪念建筑？",
+        "绕底座观察一圈，拍摄时用圣殿作背景，交代纪念像的位置。"
+      ]
+    }
+  },
+  "monumento-a-la-independencia": {
+    "names": {
+      "es": "Monumento A La Independencia",
+      "en": "Independence Monument",
+      "zh": "独立纪念碑"
+    },
+    "tagline": {
+      "es": "El monumento marca la calzada construida sobre el antiguo cauce del río San Juan de Dios.",
+      "en": "The monument marks the avenue built over the former San Juan de Dios river channel.",
+      "zh": "纪念碑立在沿圣胡安德迪奥斯旧河道修建的独立大道上。"
+    },
+    "camera": {
+      "es": "Observa el monumento desde la acera y encuadra el eje de la calzada sin bajar al tráfico.",
+      "en": "View it from the sidewalk and frame the avenue’s axis without stepping into traffic.",
+      "zh": "站在人行道观察纪念碑，把大道的延伸方向纳入画面。"
+    },
+    "body": {
+      "es": "El monumento marca la calzada construida sobre el antiguo cauce del río San Juan de Dios. Observa el monumento desde la acera y encuadra el eje de la calzada sin bajar al tráfico.",
+      "en": "The monument marks the avenue built over the former San Juan de Dios river channel. View it from the sidewalk and frame the avenue’s axis without stepping into traffic.",
+      "zh": "纪念碑立在沿圣胡安德迪奥斯旧河道修建的独立大道上。站在人行道观察纪念碑，把大道的延伸方向纳入画面。"
+    },
+    "manager": "city",
+    "address": "Calzada Independencia Sur 324",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_Statue_Independence_GDL_b7a850a214.webp",
+    "faq": {
+      "es": [
+        "¿Desde dónde se mira el monumento?",
+        "Observa el monumento desde la acera y encuadra el eje de la calzada sin bajar al tráfico."
+      ],
+      "en": [
+        "Where can I view the monument?",
+        "View it from the sidewalk and frame the avenue’s axis without stepping into traffic."
+      ],
+      "zh": [
+        "从哪里观察纪念建筑？",
+        "站在人行道观察纪念碑，把大道的延伸方向纳入画面。"
+      ]
+    }
+  },
+  "monumento-a-ramon-corona": {
+    "names": {
+      "es": "Monumento a Ramón Corona",
+      "en": "Ramón Corona Monument",
+      "zh": "拉蒙·科罗纳纪念像"
+    },
+    "tagline": {
+      "es": "La estatua de bronce de 1896 se alza sobre un pedestal con escudos y águilas.",
+      "en": "The 1896 bronze figure stands on a pedestal decorated with coats of arms and eagles.",
+      "zh": "1896年的青铜纪念像立于饰有徽章与展翅鹰雕的底座上。"
+    },
+    "camera": {
+      "es": "Encuadra primero la figura completa y después acércate al pedestal desde el espacio peatonal para leer los escudos.",
+      "en": "Frame the full figure first, then approach the pedestal from the pedestrian area to read the coats of arms.",
+      "zh": "先拍纪念像全景，再从人行区靠近看底座上的不同徽章。"
+    },
+    "body": {
+      "es": "La estatua de bronce de 1896 se alza sobre un pedestal con escudos y águilas. Encuadra primero la figura completa y después acércate al pedestal desde el espacio peatonal para leer los escudos.",
+      "en": "The 1896 bronze figure stands on a pedestal decorated with coats of arms and eagles. Frame the full figure first, then approach the pedestal from the pedestrian area to read the coats of arms.",
+      "zh": "1896年的青铜纪念像立于饰有徽章与展翅鹰雕的底座上。先拍纪念像全景，再从人行区靠近看底座上的不同徽章。"
+    },
+    "manager": "city",
+    "address": "Barrio de Analco",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/01/large_IMG_4813_18448a0fac.webp",
+    "faq": {
+      "es": [
+        "¿Desde dónde se mira el monumento?",
+        "Encuadra primero la figura completa y después acércate al pedestal desde el espacio peatonal para leer los escudos."
+      ],
+      "en": [
+        "Where can I view the monument?",
+        "Frame the full figure first, then approach the pedestal from the pedestrian area to read the coats of arms."
+      ],
+      "zh": [
+        "从哪里观察纪念建筑？",
+        "先拍纪念像全景，再从人行区靠近看底座上的不同徽章。"
+      ]
+    }
+  },
+  "museo-de-arqueologia-de-occidente-parres-arias": {
+    "names": {
+      "es": "Museo de Arqueología de Occidente Parres Arias",
+      "en": "José Parres Arias Archaeology Museum",
+      "zh": "何塞·帕雷斯·阿里亚斯考古博物馆"
+    },
+    "tagline": {
+      "es": "El edificio diseñado por Julio de la Peña presenta el patrimonio prehispánico del occidente de México.",
+      "en": "The Julio de la Peña building presents the pre-Hispanic heritage of western Mexico.",
+      "zh": "胡利奥·德拉佩尼亚设计的馆舍展示墨西哥西部的前西班牙时期文化。"
+    },
+    "camera": {
+      "es": "Pregunta qué salas están abiertas y distingue agricultura, rituales y trabajo artesanal en el recorrido.",
+      "en": "Ask which rooms are open and look for how the collection treats agriculture, ritual and craft.",
+      "zh": "先问当天开放展厅，参观时留意农耕、仪式与手工生产各有什么展品。"
+    },
+    "body": {
+      "es": "El edificio diseñado por Julio de la Peña presenta el patrimonio prehispánico del occidente de México. Pregunta qué salas están abiertas y distingue agricultura, rituales y trabajo artesanal en el recorrido.",
+      "en": "The Julio de la Peña building presents the pre-Hispanic heritage of western Mexico. Ask which rooms are open and look for how the collection treats agriculture, ritual and craft.",
+      "zh": "胡利奥·德拉佩尼亚设计的馆舍展示墨西哥西部的前西班牙时期文化。先问当天开放展厅，参观时留意农耕、仪式与手工生产各有什么展品。"
+    },
+    "manager": "state",
+    "address": "Avenida 16 de Septiembre y Calzada del Campesino, entorno de Parque Agua Azul",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_IMG_2957_4570e6893f.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Museo de Arqueología de Occidente Parres Arias?",
+        "Pregunta qué salas están abiertas y distingue agricultura, rituales y trabajo artesanal en el recorrido."
+      ],
+      "en": [
+        "What should I look for at José Parres Arias Archaeology Museum?",
+        "Ask which rooms are open and look for how the collection treats agriculture, ritual and craft."
+      ],
+      "zh": [
+        "游览何塞·帕雷斯·阿里亚斯考古博物馆时可以重点看什么？",
+        "先问当天开放展厅，参观时留意农耕、仪式与手工生产各有什么展品。"
+      ]
+    }
+  },
+  "museo-de-las-artes-populares-de-jalisco": {
+    "names": {
+      "es": "Museo de Las Artes Populares De Jalisco",
+      "en": "Jalisco Folk Arts Museum",
+      "zh": "哈利斯科民间艺术博物馆"
+    },
+    "tagline": {
+      "es": "La casa de finales del siglo XVIII fue restaurada en los años noventa para albergar artes populares.",
+      "en": "This late eighteenth-century house was restored in the 1990s to house folk art.",
+      "zh": "这座18世纪末的老宅在1990年代修复后用作民间艺术博物馆。"
+    },
+    "camera": {
+      "es": "Desde San Felipe mira la fachada y, si hay acceso, compara la yesería interior con el exterior neoclásico.",
+      "en": "View the façade from San Felipe and, if accessible, compare the interior plasterwork with the neoclassical exterior.",
+      "zh": "先在圣费利佩街看立面，开放时再比较室内灰泥装饰与新古典主义外观。"
+    },
+    "body": {
+      "es": "La casa de finales del siglo XVIII fue restaurada en los años noventa para albergar artes populares. Desde San Felipe mira la fachada y, si hay acceso, compara la yesería interior con el exterior neoclásico.",
+      "en": "This late eighteenth-century house was restored in the 1990s to house folk art. View the façade from San Felipe and, if accessible, compare the interior plasterwork with the neoclassical exterior.",
+      "zh": "这座18世纪末的老宅在1990年代修复后用作民间艺术博物馆。先在圣费利佩街看立面，开放时再比较室内灰泥装饰与新古典主义外观。"
+    },
+    "manager": "state",
+    "address": "Calle San Felipe, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/12/large_IMG_2306_9c16c633f3.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Museo de Las Artes Populares De Jalisco?",
+        "Desde San Felipe mira la fachada y, si hay acceso, compara la yesería interior con el exterior neoclásico."
+      ],
+      "en": [
+        "What should I look for at Jalisco Folk Arts Museum?",
+        "View the façade from San Felipe and, if accessible, compare the interior plasterwork with the neoclassical exterior."
+      ],
+      "zh": [
+        "游览哈利斯科民间艺术博物馆时可以重点看什么？",
+        "先在圣费利佩街看立面，开放时再比较室内灰泥装饰与新古典主义外观。"
+      ]
+    }
+  },
+  "museo-raul-anguiano-mura": {
+    "names": {
+      "es": "Museo Raúl Anguiano Mura",
+      "en": "Raúl Anguiano Art Museum",
+      "zh": "劳尔·安吉亚诺艺术博物馆"
+    },
+    "tagline": {
+      "es": "Abierto en 2003, el MURA conserva obras de Anguiano y de la Colección Ciudad Guadalajara.",
+      "en": "Opened in 2003, MURA holds works by Anguiano and from Guadalajara’s city collection.",
+      "zh": "博物馆于2003年开放，收藏安吉亚诺作品及瓜达拉哈拉城市艺术藏品。"
+    },
+    "camera": {
+      "es": "Consulta qué muestra está montada y reserva las fotos interiores para donde el museo las permita.",
+      "en": "Check which exhibition is on and limit interior photographs to areas where the museum permits them.",
+      "zh": "先查当前展览，室内拍照限定在场馆准许的区域。"
+    },
+    "body": {
+      "es": "Abierto en 2003, el MURA conserva obras de Anguiano y de la Colección Ciudad Guadalajara. Consulta qué muestra está montada y reserva las fotos interiores para donde el museo las permita.",
+      "en": "Opened in 2003, MURA holds works by Anguiano and from Guadalajara’s city collection. Check which exhibition is on and limit interior photographs to areas where the museum permits them.",
+      "zh": "博物馆于2003年开放，收藏安吉亚诺作品及瓜达拉哈拉城市艺术藏品。先查当前展览，室内拍照限定在场馆准许的区域。"
+    },
+    "manager": "city",
+    "address": "Avenida Mariano Otero, Moderna",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_20e13acb_2f83_49d3_acca_ae9487a3a7c6_61986290ad.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Museo Raúl Anguiano Mura?",
+        "Consulta qué muestra está montada y reserva las fotos interiores para donde el museo las permita."
+      ],
+      "en": [
+        "What should I look for at Raúl Anguiano Art Museum?",
+        "Check which exhibition is on and limit interior photographs to areas where the museum permits them."
+      ],
+      "zh": [
+        "游览劳尔·安吉亚诺艺术博物馆时可以重点看什么？",
+        "先查当前展览，室内拍照限定在场馆准许的区域。"
+      ]
+    }
+  },
+  "parque-alcalde": {
+    "names": {
+      "es": "Parque Alcalde",
+      "en": "Alcalde Park",
+      "zh": "阿尔卡尔德公园"
+    },
+    "tagline": {
+      "es": "El parque surgió de un proyecto de recreación pública iniciado a mediados del siglo XX.",
+      "en": "The park grew out of a public recreation project begun in the mid-twentieth century.",
+      "zh": "公园源于20世纪中叶启动的一项公共游憩工程。"
+    },
+    "camera": {
+      "es": "Escoge primero un circuito por los senderos y busca un encuadre del lago desde la orilla señalizada.",
+      "en": "Choose a walking loop first and look for a lake view from the marked shore path.",
+      "zh": "先选择一圈园路，从沿湖标示的人行区取景。"
+    },
+    "body": {
+      "es": "El parque surgió de un proyecto de recreación pública iniciado a mediados del siglo XX. Escoge primero un circuito por los senderos y busca un encuadre del lago desde la orilla señalizada.",
+      "en": "The park grew out of a public recreation project begun in the mid-twentieth century. Choose a walking loop first and look for a lake view from the marked shore path.",
+      "zh": "公园源于20世纪中叶启动的一项公共游憩工程。先选择一圈园路，从沿湖标示的人行区取景。"
+    },
+    "manager": "city",
+    "address": "Calle Jesús García, Alcalde Barranquitas",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_8199a1ee_dd2a_4a00_9b6b_bf303a5124a1_d9937d41d5.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Parque Alcalde?",
+        "Escoge primero un circuito por los senderos y busca un encuadre del lago desde la orilla señalizada."
+      ],
+      "en": [
+        "What should I look for at Alcalde Park?",
+        "Choose a walking loop first and look for a lake view from the marked shore path."
+      ],
+      "zh": [
+        "游览阿尔卡尔德公园时可以重点看什么？",
+        "先选择一圈园路，从沿湖标示的人行区取景。"
+      ]
+    }
+  },
+  "parque-avila-camacho": {
+    "names": {
+      "es": "Parque Ávila Camacho",
+      "en": "Ávila Camacho Park",
+      "zh": "阿维拉·卡马乔公园"
+    },
+    "tagline": {
+      "es": "El parque de 1966 ocupa parte del entorno de la antigua presa de Zoquipan y se renovó para los Juegos Panamericanos de 2011.",
+      "en": "The 1966 park stands near the former Zoquipan dam site and was renewed for the 2011 Pan American Games.",
+      "zh": "1966年建成的公园位于旧索基潘水坝一带，曾为2011年泛美运动会整修。"
+    },
+    "camera": {
+      "es": "Recorre senderos interiores y fotografía la separación entre áreas de actividad y zonas arboladas.",
+      "en": "Follow the interior paths and photograph how activity spaces meet the tree-lined areas.",
+      "zh": "沿园内小径走，取景时表现活动区域与林荫之间的过渡。"
+    },
+    "body": {
+      "es": "El parque de 1966 ocupa parte del entorno de la antigua presa de Zoquipan y se renovó para los Juegos Panamericanos de 2011. Recorre senderos interiores y fotografía la separación entre áreas de actividad y zonas arboladas.",
+      "en": "The 1966 park stands near the former Zoquipan dam site and was renewed for the 2011 Pan American Games. Follow the interior paths and photograph how activity spaces meet the tree-lined areas.",
+      "zh": "1966年建成的公园位于旧索基潘水坝一带，曾为2011年泛美运动会整修。沿园内小径走，取景时表现活动区域与林荫之间的过渡。"
+    },
+    "manager": "city",
+    "address": "Avenida Manuel Ávila Camacho, Lomas del Country",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_IMG_3978_a161be0d05.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Parque Ávila Camacho?",
+        "Recorre senderos interiores y fotografía la separación entre áreas de actividad y zonas arboladas."
+      ],
+      "en": [
+        "What should I look for at Ávila Camacho Park?",
+        "Follow the interior paths and photograph how activity spaces meet the tree-lined areas."
+      ],
+      "zh": [
+        "游览阿维拉·卡马乔公园时可以重点看什么？",
+        "沿园内小径走，取景时表现活动区域与林荫之间的过渡。"
+      ]
+    }
+  },
+  "plaza-de-la-bandera": {
+    "names": {
+      "es": "Plaza de La Bandera",
+      "en": "Flag Square",
+      "zh": "旗帜广场"
+    },
+    "tagline": {
+      "es": "La rotonda señalaba el antiguo límite urbano y reúne un gran mástil y un águila de piedra.",
+      "en": "The roundabout once marked the urban boundary and now features a tall flagpole and a stone eagle.",
+      "zh": "环岛曾标记城市边界，如今以高旗杆和石雕鹰为主要看点。"
+    },
+    "camera": {
+      "es": "Desde el espacio peatonal, usa el águila como primer plano para mostrar la escala del mástil.",
+      "en": "From the pedestrian area, use the eagle in the foreground to show the scale of the flagpole.",
+      "zh": "在人行区用鹰雕作前景，表现旗杆的高度。"
+    },
+    "body": {
+      "es": "La rotonda señalaba el antiguo límite urbano y reúne un gran mástil y un águila de piedra. Desde el espacio peatonal, usa el águila como primer plano para mostrar la escala del mástil.",
+      "en": "The roundabout once marked the urban boundary and now features a tall flagpole and a stone eagle. From the pedestrian area, use the eagle in the foreground to show the scale of the flagpole.",
+      "zh": "环岛曾标记城市边界，如今以高旗杆和石雕鹰为主要看点。在人行区用鹰雕作前景，表现旗杆的高度。"
+    },
+    "manager": "city",
+    "address": "Calzada del Ejército, Obrera",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_Copia_de_IMG_4909_0b75ab5dff.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Plaza de La Bandera?",
+        "Desde el espacio peatonal, usa el águila como primer plano para mostrar la escala del mástil."
+      ],
+      "en": [
+        "What should I look for at Flag Square?",
+        "From the pedestrian area, use the eagle in the foreground to show the scale of the flagpole."
+      ],
+      "zh": [
+        "游览旗帜广场时可以重点看什么？",
+        "在人行区用鹰雕作前景，表现旗杆的高度。"
+      ]
+    }
+  },
+  "plaza-de-las-9-esquinas": {
+    "names": {
+      "es": "Plaza de Las 9 Esquinas",
+      "en": "Nine Corners Square",
+      "zh": "九角广场"
+    },
+    "tagline": {
+      "es": "La confluencia de calles dio nombre a una plazuela vinculada al antiguo comercio barrial.",
+      "en": "The meeting of the streets gave this historic neighborhood trading square its name.",
+      "zh": "周围街巷的交会形态让这处旧街坊商贸广场得名“九角”。"
+    },
+    "camera": {
+      "es": "Recorre los accesos para ver cómo cambian los ángulos y deja tiempo para comer birria en el barrio.",
+      "en": "Walk the approaches to see how the angles change and leave time for birria in the neighborhood.",
+      "zh": "沿不同入口绕行观察街角变化，再留时间在附近吃一份比里亚炖肉。"
+    },
+    "body": {
+      "es": "La confluencia de calles dio nombre a una plazuela vinculada al antiguo comercio barrial. Recorre los accesos para ver cómo cambian los ángulos y deja tiempo para comer birria en el barrio.",
+      "en": "The meeting of the streets gave this historic neighborhood trading square its name. Walk the approaches to see how the angles change and leave time for birria in the neighborhood.",
+      "zh": "周围街巷的交会形态让这处旧街坊商贸广场得名“九角”。沿不同入口绕行观察街角变化，再留时间在附近吃一份比里亚炖肉。"
+    },
+    "manager": "city",
+    "address": "Entorno de Calle Colón y Calle Leandro Valle, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/01/large_IMG_2408_f624062de7.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Plaza de Las 9 Esquinas?",
+        "Recorre los accesos para ver cómo cambian los ángulos y deja tiempo para comer birria en el barrio."
+      ],
+      "en": [
+        "What should I look for at Nine Corners Square?",
+        "Walk the approaches to see how the angles change and leave time for birria in the neighborhood."
+      ],
+      "zh": [
+        "游览九角广场时可以重点看什么？",
+        "沿不同入口绕行观察街角变化，再留时间在附近吃一份比里亚炖肉。"
+      ]
+    }
+  },
+  "plaza-juarez": {
+    "names": {
+      "es": "Plaza Juárez",
+      "en": "Juárez Square",
+      "zh": "华雷斯广场"
+    },
+    "tagline": {
+      "es": "La plaza se proyectó en 1960 sobre terrenos ferroviarios para conmemorar las Leyes de Reforma.",
+      "en": "The square was planned in 1960 on former railway land to commemorate the Reform Laws.",
+      "zh": "广场于1960年在旧铁路用地上规划，用来纪念改革法。"
+    },
+    "camera": {
+      "es": "Encuadra la efigie de Juárez con el pedestal y la fuente elíptica como referencias del conjunto.",
+      "en": "Frame the Juárez statue with its pedestal and the elliptical fountain as landmarks within the plaza.",
+      "zh": "取景时把华雷斯像、底座和椭圆形喷泉串在一个构图里。"
+    },
+    "body": {
+      "es": "La plaza se proyectó en 1960 sobre terrenos ferroviarios para conmemorar las Leyes de Reforma. Encuadra la efigie de Juárez con el pedestal y la fuente elíptica como referencias del conjunto.",
+      "en": "The square was planned in 1960 on former railway land to commemorate the Reform Laws. Frame the Juárez statue with its pedestal and the elliptical fountain as landmarks within the plaza.",
+      "zh": "广场于1960年在旧铁路用地上规划，用来纪念改革法。取景时把华雷斯像、底座和椭圆形喷泉串在一个构图里。"
+    },
+    "manager": "city",
+    "address": "Colonia Moderna, junto a Parque Agua Azul",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/01/large_IMG_4816_edaf3666b3.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Plaza Juárez?",
+        "Encuadra la efigie de Juárez con el pedestal y la fuente elíptica como referencias del conjunto."
+      ],
+      "en": [
+        "What should I look for at Juárez Square?",
+        "Frame the Juárez statue with its pedestal and the elliptical fountain as landmarks within the plaza."
+      ],
+      "zh": [
+        "游览华雷斯广场时可以重点看什么？",
+        "取景时把华雷斯像、底座和椭圆形喷泉串在一个构图里。"
+      ]
+    }
+  },
+  "santuario-de-nuestra-senora-de-guadalupe": {
+    "names": {
+      "es": "Santuario De Nuestra Señora De Guadalupe",
+      "en": "Our Lady of Guadalupe Shrine",
+      "zh": "瓜达卢佩圣母圣殿"
+    },
+    "tagline": {
+      "es": "Antonio Alcalde promovió la construcción del santuario entre 1777 y 1781.",
+      "en": "Antonio Alcalde promoted construction of the shrine between 1777 and 1781.",
+      "zh": "圣殿由安东尼奥·阿尔卡尔德在1777至1781年间推动修建。"
+    },
+    "camera": {
+      "es": "Desde el jardín frontal mira la portada y, si está abierto, compara su exterior barroco con los altares posteriores.",
+      "en": "View the entrance from the front garden and, if open, compare the Baroque exterior with the later altars.",
+      "zh": "从对面花园先看入口，开放时再比较巴洛克外观与后来增设的祭坛。"
+    },
+    "body": {
+      "es": "Antonio Alcalde promovió la construcción del santuario entre 1777 y 1781. Desde el jardín frontal mira la portada y, si está abierto, compara su exterior barroco con los altares posteriores.",
+      "en": "Antonio Alcalde promoted construction of the shrine between 1777 and 1781. View the entrance from the front garden and, if open, compare the Baroque exterior with the later altars.",
+      "zh": "圣殿由安东尼奥·阿尔卡尔德在1777至1781年间推动修建。从对面花园先看入口，开放时再比较巴洛克外观与后来增设的祭坛。"
+    },
+    "manager": "church",
+    "address": "Avenida Fray Antonio Alcalde, El Santuario",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/12/large_IMG_2224_792581468b.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Santuario De Nuestra Señora De Guadalupe?",
+        "Desde el jardín frontal mira la portada y, si está abierto, compara su exterior barroco con los altares posteriores."
+      ],
+      "en": [
+        "What should I look for at Our Lady of Guadalupe Shrine?",
+        "View the entrance from the front garden and, if open, compare the Baroque exterior with the later altars."
+      ],
+      "zh": [
+        "游览瓜达卢佩圣母圣殿时可以重点看什么？",
+        "从对面花园先看入口，开放时再比较巴洛克外观与后来增设的祭坛。"
+      ]
+    }
+  },
+  "santuario-de-san-jose-de-gracia": {
+    "names": {
+      "es": "Santuario de San José de Gracia",
+      "en": "San José de Gracia Shrine",
+      "zh": "圣若瑟恩宠圣殿"
+    },
+    "tagline": {
+      "es": "El templo se terminó en 1890 donde antes estuvo la iglesia de Santo Domingo.",
+      "en": "Completed in 1890, the church occupies the site of the former Santo Domingo church.",
+      "zh": "教堂于1890年建成，位于旧圣多明各堂原址。"
+    },
+    "camera": {
+      "es": "Fotografía la entrada desde el andador y, cuando se permita la visita, localiza el crucero bajo la cúpula.",
+      "en": "Photograph the entrance from the promenade and, when visitors are admitted, locate the crossing beneath the dome.",
+      "zh": "在步道上拍正门，允许入内时再找穹顶下方的交叉空间。"
+    },
+    "body": {
+      "es": "El templo se terminó en 1890 donde antes estuvo la iglesia de Santo Domingo. Fotografía la entrada desde el andador y, cuando se permita la visita, localiza el crucero bajo la cúpula.",
+      "en": "Completed in 1890, the church occupies the site of the former Santo Domingo church. Photograph the entrance from the promenade and, when visitors are admitted, locate the crossing beneath the dome.",
+      "zh": "教堂于1890年建成，位于旧圣多明各堂原址。在步道上拍正门，允许入内时再找穹顶下方的交叉空间。"
+    },
+    "manager": "church",
+    "address": "Avenida Fray Antonio Alcalde, Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_IMG_9618_d1d57d1c9c.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Santuario de San José de Gracia?",
+        "Fotografía la entrada desde el andador y, cuando se permita la visita, localiza el crucero bajo la cúpula."
+      ],
+      "en": [
+        "What should I look for at San José de Gracia Shrine?",
+        "Photograph the entrance from the promenade and, when visitors are admitted, locate the crossing beneath the dome."
+      ],
+      "zh": [
+        "游览圣若瑟恩宠圣殿时可以重点看什么？",
+        "在步道上拍正门，允许入内时再找穹顶下方的交叉空间。"
+      ]
+    }
+  },
+  "templo-de-jesus-maria": {
+    "names": {
+      "es": "Templo de Jesús María",
+      "en": "Jesús María Church",
+      "zh": "耶稣玛利亚教堂"
+    },
+    "tagline": {
+      "es": "El templo de un antiguo convento dominico dispone su nave paralela a la calle, con ingresos laterales.",
+      "en": "The former Dominican convent church places its nave parallel to the street, with entrances along the side.",
+      "zh": "曾属道明会女修院的教堂将单殿平行于街道，入口位于侧面。"
+    },
+    "camera": {
+      "es": "Desde la acera de Morelos, toma una vista oblicua que muestre cómo las puertas se alinean con la calle.",
+      "en": "From the Morelos sidewalk, take an oblique view showing how the entrances line up along the street.",
+      "zh": "在莫雷洛斯街人行道上斜拍，让入口与街道的平行关系更明显。"
+    },
+    "body": {
+      "es": "El templo de un antiguo convento dominico dispone su nave paralela a la calle, con ingresos laterales. Desde la acera de Morelos, toma una vista oblicua que muestre cómo las puertas se alinean con la calle.",
+      "en": "The former Dominican convent church places its nave parallel to the street, with entrances along the side. From the Morelos sidewalk, take an oblique view showing how the entrances line up along the street.",
+      "zh": "曾属道明会女修院的教堂将单殿平行于街道，入口位于侧面。在莫雷洛斯街人行道上斜拍，让入口与街道的平行关系更明显。"
+    },
+    "manager": "church",
+    "address": "Calle José María Morelos, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_IMG_9787_0a5f4ff319.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Templo de Jesús María?",
+        "Desde la acera de Morelos, toma una vista oblicua que muestre cómo las puertas se alinean con la calle."
+      ],
+      "en": [
+        "What should I look for at Jesús María Church?",
+        "From the Morelos sidewalk, take an oblique view showing how the entrances line up along the street."
+      ],
+      "zh": [
+        "游览耶稣玛利亚教堂时可以重点看什么？",
+        "在莫雷洛斯街人行道上斜拍，让入口与街道的平行关系更明显。"
+      ]
+    }
+  },
+  "templo-de-las-capuchinas": {
+    "names": {
+      "es": "Templo de las Capuchinas",
+      "en": "Capuchin Church",
+      "zh": "嘉布遣教堂"
+    },
+    "tagline": {
+      "es": "La iglesia remite al convento de Capuchinas de finales del siglo XVIII, cuyo antiguo conjunto cambió de uso con el tiempo.",
+      "en": "The church recalls the late eighteenth-century Capuchin convent, whose complex changed use over time.",
+      "zh": "教堂保留18世纪末嘉布遣女修院的一段历史，建筑群后来经历了用途变迁。"
+    },
+    "camera": {
+      "es": "Observa la entrada desde Contreras Medellín y continúa al Museo de la Ciudad para ver otra parte del conjunto.",
+      "en": "View the entrance from Contreras Medellín and continue to the City Museum for another part of the former complex.",
+      "zh": "从孔特雷拉斯·梅德林街看入口，再到城市博物馆了解建筑群的另一部分。"
+    },
+    "body": {
+      "es": "La iglesia remite al convento de Capuchinas de finales del siglo XVIII, cuyo antiguo conjunto cambió de uso con el tiempo. Observa la entrada desde Contreras Medellín y continúa al Museo de la Ciudad para ver otra parte del conjunto.",
+      "en": "The church recalls the late eighteenth-century Capuchin convent, whose complex changed use over time. View the entrance from Contreras Medellín and continue to the City Museum for another part of the former complex.",
+      "zh": "教堂保留18世纪末嘉布遣女修院的一段历史，建筑群后来经历了用途变迁。从孔特雷拉斯·梅德林街看入口，再到城市博物馆了解建筑群的另一部分。"
+    },
+    "manager": "church",
+    "address": "Calle Contreras Medellín, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/12/large_IMG_2222_f66c4b28a2.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Templo de las Capuchinas?",
+        "Observa la entrada desde Contreras Medellín y continúa al Museo de la Ciudad para ver otra parte del conjunto."
+      ],
+      "en": [
+        "What should I look for at Capuchin Church?",
+        "View the entrance from Contreras Medellín and continue to the City Museum for another part of the former complex."
+      ],
+      "zh": [
+        "游览嘉布遣教堂时可以重点看什么？",
+        "从孔特雷拉斯·梅德林街看入口，再到城市博物馆了解建筑群的另一部分。"
+      ]
+    }
+  },
+  "templo-de-nuestra-senora-del-carmen": {
+    "names": {
+      "es": "Templo de Nuestra Señora Del Carmen",
+      "en": "Our Lady of Carmen Church",
+      "zh": "卡门圣母教堂"
+    },
+    "tagline": {
+      "es": "La iglesia fue una capilla del antiguo conjunto carmelita que ocupaba varias manzanas.",
+      "en": "The church was a chapel in the former Carmelite complex, which extended across several blocks.",
+      "zh": "教堂原是旧加尔默罗会建筑群的小堂，原建筑群曾跨越多个街区。"
+    },
+    "camera": {
+      "es": "Cruza al Jardín del Carmen para encuadrar la portada y distingue la iglesia del centro cultural del exconvento.",
+      "en": "Use Carmen Garden to frame the portal and distinguish the church from the former convent’s cultural centre.",
+      "zh": "从卡门花园取景观察教堂正门，并辨认教堂与旧修道院文化场馆的不同入口。"
+    },
+    "body": {
+      "es": "La iglesia fue una capilla del antiguo conjunto carmelita que ocupaba varias manzanas. Cruza al Jardín del Carmen para encuadrar la portada y distingue la iglesia del centro cultural del exconvento.",
+      "en": "The church was a chapel in the former Carmelite complex, which extended across several blocks. Use Carmen Garden to frame the portal and distinguish the church from the former convent’s cultural centre.",
+      "zh": "教堂原是旧加尔默罗会建筑群的小堂，原建筑群曾跨越多个街区。从卡门花园取景观察教堂正门，并辨认教堂与旧修道院文化场馆的不同入口。"
+    },
+    "manager": "church",
+    "address": "Entorno de Avenida Juárez y Jardín del Carmen, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_caption_eed8897a6a.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Templo de Nuestra Señora Del Carmen?",
+        "Cruza al Jardín del Carmen para encuadrar la portada y distingue la iglesia del centro cultural del exconvento."
+      ],
+      "en": [
+        "What should I look for at Our Lady of Carmen Church?",
+        "Use Carmen Garden to frame the portal and distinguish the church from the former convent’s cultural centre."
+      ],
+      "zh": [
+        "游览卡门圣母教堂时可以重点看什么？",
+        "从卡门花园取景观察教堂正门，并辨认教堂与旧修道院文化场馆的不同入口。"
+      ]
+    }
+  },
+  "templo-de-santa-monica": {
+    "names": {
+      "es": "Templo de Santa Mónica",
+      "en": "Santa Mónica Church",
+      "zh": "圣莫妮卡教堂"
+    },
+    "tagline": {
+      "es": "La iglesia virreinal conserva una fachada de cantera con talla barroca.",
+      "en": "The colonial church retains a stone façade with Baroque carving.",
+      "zh": "这座殖民时期教堂保留带巴洛克雕饰的石立面。"
+    },
+    "camera": {
+      "es": "Compara la portada completa desde la acera de Reforma con un encuadre más cerrado de las tallas.",
+      "en": "Compare the whole portal from the Reforma sidewalk with a tighter view of the carvings.",
+      "zh": "在雷福尔马街人行道先拍入口全景，再用近景观察石雕。"
+    },
+    "body": {
+      "es": "La iglesia virreinal conserva una fachada de cantera con talla barroca. Compara la portada completa desde la acera de Reforma con un encuadre más cerrado de las tallas.",
+      "en": "The colonial church retains a stone façade with Baroque carving. Compare the whole portal from the Reforma sidewalk with a tighter view of the carvings.",
+      "zh": "这座殖民时期教堂保留带巴洛克雕饰的石立面。在雷福尔马街人行道先拍入口全景，再用近景观察石雕。"
+    },
+    "manager": "church",
+    "address": "Calle Reforma, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/06/large_IMG_4792_5a3f81d5ac.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Templo de Santa Mónica?",
+        "Compara la portada completa desde la acera de Reforma con un encuadre más cerrado de las tallas."
+      ],
+      "en": [
+        "What should I look for at Santa Mónica Church?",
+        "Compare the whole portal from the Reforma sidewalk with a tighter view of the carvings."
+      ],
+      "zh": [
+        "游览圣莫妮卡教堂时可以重点看什么？",
+        "在雷福尔马街人行道先拍入口全景，再用近景观察石雕。"
+      ]
+    }
+  },
+  "templo-de-santa-teresa-de-jesus": {
+    "names": {
+      "es": "Templo de Santa Teresa De Jesús",
+      "en": "Santa Teresa de Jesús Church",
+      "zh": "耶稣圣德肋撒教堂"
+    },
+    "tagline": {
+      "es": "El antiguo convento carmelita se levantó a finales del siglo XVII y conserva portadas paralelas a la calle.",
+      "en": "The former Carmelite convent dates to the late seventeenth century and retains portals parallel to the street.",
+      "zh": "旧加尔默罗女修院始建于17世纪末，入口沿街平行排列。"
+    },
+    "camera": {
+      "es": "Desde Morelos, usa una toma lateral para mostrar la secuencia de portadas sin entrar en los accesos.",
+      "en": "From Morelos, photograph obliquely to show the sequence of portals while keeping entrances clear.",
+      "zh": "从莫雷洛斯街斜拍入口序列，不占用门道。"
+    },
+    "body": {
+      "es": "El antiguo convento carmelita se levantó a finales del siglo XVII y conserva portadas paralelas a la calle. Desde Morelos, usa una toma lateral para mostrar la secuencia de portadas sin entrar en los accesos.",
+      "en": "The former Carmelite convent dates to the late seventeenth century and retains portals parallel to the street. From Morelos, photograph obliquely to show the sequence of portals while keeping entrances clear.",
+      "zh": "旧加尔默罗女修院始建于17世纪末，入口沿街平行排列。从莫雷洛斯街斜拍入口序列，不占用门道。"
+    },
+    "manager": "church",
+    "address": "Calle José María Morelos, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_IMG_5138_1b39a53aaa.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Templo de Santa Teresa De Jesús?",
+        "Desde Morelos, usa una toma lateral para mostrar la secuencia de portadas sin entrar en los accesos."
+      ],
+      "en": [
+        "What should I look for at Santa Teresa de Jesús Church?",
+        "From Morelos, photograph obliquely to show the sequence of portals while keeping entrances clear."
+      ],
+      "zh": [
+        "游览耶稣圣德肋撒教堂时可以重点看什么？",
+        "从莫雷洛斯街斜拍入口序列，不占用门道。"
+      ]
+    }
+  },
+  "arcos-de-guadalajara": {
+    "names": {
+      "es": "Arcos de Guadalajara",
+      "en": "Guadalajara Arches",
+      "zh": "瓜达拉哈拉双拱门"
+    },
+    "tagline": {
+      "es": "Los arcos neoclásicos se inauguraron en 1942 para el cuarto centenario de la ciudad.",
+      "en": "The neoclassical arches opened in 1942 for the city’s fourth centenary.",
+      "zh": "这对新古典主义拱门于1942年揭幕，用于纪念建城四百周年。"
+    },
+    "camera": {
+      "es": "Desde la acera de Vallarta encuadra los dos vanos y busca luego la inscripción y los azulejos.",
+      "en": "Frame both openings from the Vallarta sidewalk, then look for the inscription and tiles.",
+      "zh": "从巴亚尔塔大道人行道同时拍两处拱券，再寻找铭文和瓷砖细节。"
+    },
+    "body": {
+      "es": "Los arcos neoclásicos se inauguraron en 1942 para el cuarto centenario de la ciudad. Desde la acera de Vallarta encuadra los dos vanos y busca luego la inscripción y los azulejos.",
+      "en": "The neoclassical arches opened in 1942 for the city’s fourth centenary. Frame both openings from the Vallarta sidewalk, then look for the inscription and tiles.",
+      "zh": "这对新古典主义拱门于1942年揭幕，用于纪念建城四百周年。从巴亚尔塔大道人行道同时拍两处拱券，再寻找铭文和瓷砖细节。"
+    },
+    "manager": "city",
+    "address": "Avenida Ignacio L. Vallarta, Arcos Vallarta",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_52250292120_f12e13c589_o_d1eafdffdd.webp",
+    "faq": {
+      "es": [
+        "¿Desde dónde se mira el monumento?",
+        "Desde la acera de Vallarta encuadra los dos vanos y busca luego la inscripción y los azulejos."
+      ],
+      "en": [
+        "Where can I view the monument?",
+        "Frame both openings from the Vallarta sidewalk, then look for the inscription and tiles."
+      ],
+      "zh": [
+        "从哪里观察纪念建筑？",
+        "从巴亚尔塔大道人行道同时拍两处拱券，再寻找铭文和瓷砖细节。"
+      ]
+    }
+  },
+  "rambla-cataluna": {
+    "names": {
+      "es": "Rambla Cataluña",
+      "en": "Rambla Cataluña",
+      "zh": "加泰罗尼亚步道"
+    },
+    "tagline": {
+      "es": "El corredor Escorza funciona como galería exterior para muestras temporales.",
+      "en": "The Escorza pedestrian corridor serves as an outdoor gallery for temporary exhibitions.",
+      "zh": "埃斯科尔萨步道也作为户外展廊，举办不定期展览。"
+    },
+    "camera": {
+      "es": "Recorre la hilera de paneles y fotografía cómo se integran en el andador, si la muestra lo permite.",
+      "en": "Walk the display panels and, if permitted, photograph how they sit within the promenade.",
+      "zh": "沿展示板走一遍，若展览允许，可拍展示板与步道的空间关系。"
+    },
+    "body": {
+      "es": "El corredor Escorza funciona como galería exterior para muestras temporales. Recorre la hilera de paneles y fotografía cómo se integran en el andador, si la muestra lo permite.",
+      "en": "The Escorza pedestrian corridor serves as an outdoor gallery for temporary exhibitions. Walk the display panels and, if permitted, photograph how they sit within the promenade.",
+      "zh": "埃斯科尔萨步道也作为户外展廊，举办不定期展览。沿展示板走一遍，若展览允许，可拍展示板与步道的空间关系。"
+    },
+    "manager": "city",
+    "address": "Andador Escorza, Colonia Americana",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_IMG_3096_521aa44b82.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Rambla Cataluña?",
+        "Recorre la hilera de paneles y fotografía cómo se integran en el andador, si la muestra lo permite."
+      ],
+      "en": [
+        "What should I look for at Rambla Cataluña?",
+        "Walk the display panels and, if permitted, photograph how they sit within the promenade."
+      ],
+      "zh": [
+        "游览加泰罗尼亚步道时可以重点看什么？",
+        "沿展示板走一遍，若展览允许，可拍展示板与步道的空间关系。"
+      ]
+    }
+  },
+  "larva": {
+    "names": {
+      "es": "LARVA",
+      "en": "LARVA Cultural Forum",
+      "zh": "LARVA 文化论坛"
+    },
+    "tagline": {
+      "es": "El foro cultural presenta exposiciones, talleres y artes escénicas que cambian según la cartelera.",
+      "en": "The cultural forum hosts exhibitions, workshops and performances that change with its programme.",
+      "zh": "这处文化论坛按节目表举办展览、工作坊及表演艺术活动。"
+    },
+    "camera": {
+      "es": "Consulta qué actividad ocupa el foro y fotografía la marquesina desde Ocampo antes de entrar.",
+      "en": "Check which event is scheduled and photograph the marquee from Ocampo before entering.",
+      "zh": "先查当天节目，入场前从奥坎波街拍场馆标识。"
+    },
+    "body": {
+      "es": "El foro cultural presenta exposiciones, talleres y artes escénicas que cambian según la cartelera. Consulta qué actividad ocupa el foro y fotografía la marquesina desde Ocampo antes de entrar.",
+      "en": "The cultural forum hosts exhibitions, workshops and performances that change with its programme. Check which event is scheduled and photograph the marquee from Ocampo before entering.",
+      "zh": "这处文化论坛按节目表举办展览、工作坊及表演艺术活动。先查当天节目，入场前从奥坎波街拍场馆标识。"
+    },
+    "manager": "city",
+    "address": "Calle Ocampo, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/05/large_IMG_4606_0ad873ab2d.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en LARVA?",
+        "Consulta qué actividad ocupa el foro y fotografía la marquesina desde Ocampo antes de entrar."
+      ],
+      "en": [
+        "What should I look for at LARVA Cultural Forum?",
+        "Check which event is scheduled and photograph the marquee from Ocampo before entering."
+      ],
+      "zh": [
+        "游览LARVA 文化论坛时可以重点看什么？",
+        "先查当天节目，入场前从奥坎波街拍场馆标识。"
+      ]
+    }
+  },
+  "parroquia-de-san-juan-bautista-de-mexicaltzingo": {
+    "names": {
+      "es": "Parroquia de San Juan Bautista de Mexicaltzingo",
+      "en": "San Juan Bautista of Mexicaltzingo",
+      "zh": "梅希卡尔津戈施洗者圣若翰堂"
+    },
+    "tagline": {
+      "es": "El templo vecinal se construyó entre 1803 y 1808 y se convirtió en parroquia en 1871.",
+      "en": "The neighborhood church was built between 1803 and 1808 and became a parish in 1871.",
+      "zh": "这座街坊教堂建于1803至1808年，1871年成为堂区教堂。"
+    },
+    "camera": {
+      "es": "Empieza por la portada desde el espacio público y continúa al mercado de Mexicaltzingo para ver el barrio comercial.",
+      "en": "Start with the entrance from the public area and continue to Mexicaltzingo Market to explore the shopping streets.",
+      "zh": "先从公共空间看教堂正门，再前往梅希卡尔津戈市场看街区商业。"
+    },
+    "body": {
+      "es": "El templo vecinal se construyó entre 1803 y 1808 y se convirtió en parroquia en 1871. Empieza por la portada desde el espacio público y continúa al mercado de Mexicaltzingo para ver el barrio comercial.",
+      "en": "The neighborhood church was built between 1803 and 1808 and became a parish in 1871. Start with the entrance from the public area and continue to Mexicaltzingo Market to explore the shopping streets.",
+      "zh": "这座街坊教堂建于1803至1808年，1871年成为堂区教堂。先从公共空间看教堂正门，再前往梅希卡尔津戈市场看街区商业。"
+    },
+    "manager": "church",
+    "address": "Calle Mexicaltzingo, Mexicaltzingo",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2026/02/large_Copia_de_IMG_5173_e872c982cf.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Parroquia de San Juan Bautista de Mexicaltzingo?",
+        "Empieza por la portada desde el espacio público y continúa al mercado de Mexicaltzingo para ver el barrio comercial."
+      ],
+      "en": [
+        "What should I look for at San Juan Bautista of Mexicaltzingo?",
+        "Start with the entrance from the public area and continue to Mexicaltzingo Market to explore the shopping streets."
+      ],
+      "zh": [
+        "游览梅希卡尔津戈施洗者圣若翰堂时可以重点看什么？",
+        "先从公共空间看教堂正门，再前往梅希卡尔津戈市场看街区商业。"
+      ]
+    }
+  },
+  "glorieta-de-la-estampida": {
+    "names": {
+      "es": "Glorieta de la Estampida",
+      "en": "Stampede Roundabout",
+      "zh": "奔马雕塑环岛"
+    },
+    "tagline": {
+      "es": "La obra de Jorge de la Peña reúne catorce caballos de bronce dispuestos como una estampida.",
+      "en": "Jorge de la Peña’s work arranges fourteen bronze horses as a stampede.",
+      "zh": "豪尔赫·德拉佩尼亚将十四匹青铜马排成奔腾马群。"
+    },
+    "camera": {
+      "es": "Busca una vista lateral desde una acera con acceso peatonal y usa zoom para distinguir las posturas sin entrar al tráfico.",
+      "en": "Find a side view from an accessible sidewalk and use zoom to distinguish the poses while staying out of traffic.",
+      "zh": "在可达的人行道寻找斜侧机位，用变焦辨认各匹马的姿态，全程留在人行区。"
+    },
+    "body": {
+      "es": "La obra de Jorge de la Peña reúne catorce caballos de bronce dispuestos como una estampida. Busca una vista lateral desde una acera con acceso peatonal y usa zoom para distinguir las posturas sin entrar al tráfico.",
+      "en": "Jorge de la Peña’s work arranges fourteen bronze horses as a stampede. Find a side view from an accessible sidewalk and use zoom to distinguish the poses while staying out of traffic.",
+      "zh": "豪尔赫·德拉佩尼亚将十四匹青铜马排成奔腾马群。在可达的人行道寻找斜侧机位，用变焦辨认各匹马的姿态，全程留在人行区。"
+    },
+    "manager": "city",
+    "address": "Avenida Adolfo López Mateos Sur, Jardines del Bosque",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/04/large_20200207_152548_0d311d6ecf.webp",
+    "faq": {
+      "es": [
+        "¿Desde dónde se mira el monumento?",
+        "Busca una vista lateral desde una acera con acceso peatonal y usa zoom para distinguir las posturas sin entrar al tráfico."
+      ],
+      "en": [
+        "Where can I view the monument?",
+        "Find a side view from an accessible sidewalk and use zoom to distinguish the poses while staying out of traffic."
+      ],
+      "zh": [
+        "从哪里观察纪念建筑？",
+        "在可达的人行道寻找斜侧机位，用变焦辨认各匹马的姿态，全程留在人行区。"
+      ]
+    }
+  },
+  "palacio-de-las-vacas": {
+    "names": {
+      "es": "Palacio de Las Vacas",
+      "en": "Palacio de las Vacas",
+      "zh": "奶牛宫历史宅邸"
+    },
+    "tagline": {
+      "es": "La residencia de finales del siglo XIX combina recursos moriscos y europeos y hoy se usa para actividades culturales.",
+      "en": "The late nineteenth-century residence blends Moorish and European features and now hosts cultural activities.",
+      "zh": "这座19世纪末的宅邸兼具摩尔式与欧洲建筑元素，现在用于文化活动。"
+    },
+    "camera": {
+      "es": "Mira la fachada desde San Felipe y confirma una visita o evento para apreciar los pasillos y la decoración interior.",
+      "en": "View the façade from San Felipe and confirm a tour or event before planning to see its corridors and interior decoration.",
+      "zh": "先从圣费利佩街看外观；想看室内走廊和装饰，请先确认参观或活动安排。"
+    },
+    "body": {
+      "es": "La residencia de finales del siglo XIX combina recursos moriscos y europeos y hoy se usa para actividades culturales. Mira la fachada desde San Felipe y confirma una visita o evento para apreciar los pasillos y la decoración interior.",
+      "en": "The late nineteenth-century residence blends Moorish and European features and now hosts cultural activities. View the façade from San Felipe and confirm a tour or event before planning to see its corridors and interior decoration.",
+      "zh": "这座19世纪末的宅邸兼具摩尔式与欧洲建筑元素，现在用于文化活动。先从圣费利佩街看外观；想看室内走廊和装饰，请先确认参观或活动安排。"
+    },
+    "manager": "venue",
+    "address": "Calle San Felipe 630, Zona Centro",
+    "photo": "https://d1q5u2b0g1ojg5.cloudfront.net/2025/07/large_20240411115618_IMG_0471_bb489479ee.webp",
+    "faq": {
+      "es": [
+        "¿Qué conviene observar en Palacio de Las Vacas?",
+        "Mira la fachada desde San Felipe y confirma una visita o evento para apreciar los pasillos y la decoración interior."
+      ],
+      "en": [
+        "What should I look for at Palacio de las Vacas?",
+        "View the façade from San Felipe and confirm a tour or event before planning to see its corridors and interior decoration."
+      ],
+      "zh": [
+        "游览奶牛宫历史宅邸时可以重点看什么？",
+        "先从圣费利佩街看外观；想看室内走廊和装饰，请先确认参观或活动安排。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "teatro-degollado": {
+    "area": "centro",
+    "plan": {
+      "es": "Separa la visita del exterior de una función: la primera empieza en Plaza de la Liberación; para la segunda, comprueba en cartelera qué acceso corresponde a tu boleto.",
+      "en": "Treat the exterior visit and a performance as separate plans. Start outside in Plaza de la Liberación and check the programme for the entrance shown on your ticket.",
+      "zh": "外观参观可从解放广场开始。打算看演出时，另查节目表和票面入口。"
+    }
+  },
+  "museo-cabanas": {
+    "area": "sanJuan",
+    "plan": {
+      "es": "Organiza el museo en dos partes: primero la capilla de Orozco, después un patio y las salas que estén abiertas. Deja Plaza Tapatía para el trayecto de regreso.",
+      "en": "Plan two parts: the Orozco chapel first, then a courtyard and the galleries that are open. Leave Plaza Tapatía for the return walk.",
+      "zh": "先看奥罗斯科壁画所在的礼拜堂，再走庭院与当日开放的展厅。回程可经塔帕蒂亚广场。"
+    }
+  },
+  "catedral-metropolitana-de-guadalajara": {
+    "area": "centro",
+    "plan": {
+      "es": "Recorre primero el perímetro público: Plaza Guadalajara para la portada y Plaza de Armas para el lateral. Si hay misa, vuelve al interior más tarde.",
+      "en": "Walk the public perimeter first: Plaza Guadalajara for the front and Plaza de Armas for the side. If Mass is in progress, return later for the interior.",
+      "zh": "先绕堂外公共空间：从瓜达拉哈拉广场看正门，再到武器广场看侧面。遇弥撒可稍后再入内。"
+    }
+  },
+  "plaza-de-armas": {
+    "area": "centro",
+    "plan": {
+      "es": "Pasa del borde de la Catedral al quiosco y termina frente al Palacio de Gobierno. Los tres puntos permiten leer el uso religioso y cívico del entorno.",
+      "en": "Walk from the cathedral edge to the bandstand, then finish facing Government Palace. The three stops show how public and religious spaces fit together.",
+      "zh": "从大教堂一侧走到音乐亭，最后停在州政府宫对面。三站能看懂宗教建筑和城市公共空间的关系。"
+    }
+  },
+  "plaza-liberacion": {
+    "area": "centro",
+    "plan": {
+      "es": "Empieza de espaldas al teatro y camina entre las fuentes hacia la Catedral. Vuelve la vista a mitad de la plaza para comparar la perspectiva en ambos sentidos.",
+      "en": "Start with the theatre behind you and walk between the fountains toward the cathedral. Turn halfway to compare the perspective in each direction.",
+      "zh": "背对剧院，从两座喷泉之间走向大教堂。在广场中段回望，比较两个方向的透视关系。"
+    }
+  },
+  "plaza-guadalajara": {
+    "area": "centro",
+    "plan": {
+      "es": "Usa la plaza como inicio de la Cruz de Plazas: mira la fachada de la Catedral y después rodea el templo hacia la Rotonda o Plaza de Armas.",
+      "en": "Use the square to start the Cross of Squares walk. View the cathedral front, then circle the church toward the Rotunda or Plaza de Armas.",
+      "zh": "可从这里开始走十字广场群。先看大教堂正立面，再绕向圆形纪念堂或武器广场。"
+    }
+  },
+  "rotonda-de-los-jaliscienses-ilustres": {
+    "area": "centro",
+    "plan": {
+      "es": "Haz una vuelta exterior antes de detenerte: el jardín permite comparar las esculturas de alrededor con las columnas del monumento.",
+      "en": "Make one circuit outside before stopping. The garden gives room to compare the surrounding statues with the monument’s columns.",
+      "zh": "先沿外圈走一周，再在花园停下，比较周围的雕像与纪念堂柱列。"
+    }
+  },
+  "plaza-fundadores": {
+    "area": "centro",
+    "plan": {
+      "es": "Llega por la parte posterior del Teatro Degollado y busca el relieve antes de seguir a Paseo Degollado. Una vista lateral revela la profundidad de las figuras.",
+      "en": "Arrive behind Teatro Degollado and find the relief before continuing to Paseo Degollado. A side view reveals the depth of the figures.",
+      "zh": "从德戈亚多剧院后方进入，先找建城浮雕，再走德戈亚多步道。侧看更能辨认人物层次。"
+    }
+  },
+  "plaza-tapatia": {
+    "area": "sanJuan",
+    "plan": {
+      "es": "Divide el paseo entre el tramo del teatro, la escultura de Quetzalcóatl y la explanada de Cabañas. Si también vas al museo, deja tiempo para la entrada.",
+      "en": "Break the walk into the theatre end, the Quetzalcoatl sculpture and the Cabañas forecourt. Allow time for admission if you are visiting the museum.",
+      "zh": "可分剧院一端、羽蛇神雕塑和博物馆前广场三段走。若打算进馆，请另留入场时间。"
+    }
+  },
+  "paseo-degollado": {
+    "area": "centro",
+    "plan": {
+      "es": "Toma Plaza Fundadores como punto de partida y mira hacia atrás en los cambios de nivel para distinguir el teatro del corredor que sigue hacia Cabañas.",
+      "en": "Start at Founders’ Square and look back where the grade changes to distinguish the theatre from the corridor toward Cabañas.",
+      "zh": "以创建者广场为起点，在步道高差变化处回望，辨认剧院与通向卡瓦尼亚斯的走廊。"
+    }
+  },
+  "palacio-de-gobierno-de-jalisco": {
+    "area": "centro",
+    "plan": {
+      "es": "Dedica primero tiempo a la cantera desde Plaza de Armas. Si el edificio admite visitas, pregunta por el acceso al mural de Hidalgo antes de buscar el patio.",
+      "en": "Start with the stone exterior from Plaza de Armas. If visitors are being admitted, ask how to reach the Hidalgo mural before looking for the courtyard.",
+      "zh": "先从武器广场看石立面。若开放入内，先询问怎样到伊达尔戈壁画区域，再看庭院。"
+    }
+  },
+  "palacio-municipal-de-guadalajara": {
+    "area": "centro",
+    "plan": {
+      "es": "Desde Hidalgo, localiza el escudo sobre los portales. El acceso a oficinas o al patio se consulta por separado.",
+      "en": "From Hidalgo, locate the coat of arms above the arcades. Check separately for access to offices or the courtyard.",
+      "zh": "从伊达尔戈大道找拱廊上方的市徽。办公区域和庭院能否参观，请分别查问。"
+    }
+  },
+  "museo-regional-de-guadalajara": {
+    "area": "centro",
+    "plan": {
+      "es": "Entra por Liceo y escoge una sección de arqueología o paleontología antes de recorrer otras salas. Confirma la tarifa que corresponde a tu condición de visitante.",
+      "en": "Enter from Liceo and choose archaeology or paleontology before exploring the other galleries. Check which admission rate applies to you.",
+      "zh": "从利塞奥街入馆，先选考古或古生物展，再看其他厅室。购票前确认适用的票种。"
+    }
+  },
+  "museo-del-periodismo-y-las-artes-graficas-la-casa-de-los-perros": {
+    "area": "santuario",
+    "plan": {
+      "es": "Busca primero los perros sobre la fachada y, ya dentro, relaciona la historia del edificio con las piezas dedicadas a la imprenta.",
+      "en": "Find the dogs above the façade first. Inside, connect the building’s history with the exhibits about printing.",
+      "zh": "先找立面上方的犬形雕饰，入馆后再结合印刷展品了解建筑的历史。"
+    }
+  },
+  "museo-de-la-ciudad-de-guadalajara": {
+    "area": "centro",
+    "plan": {
+      "es": "Tras entrar por Independencia, empieza por historia urbana y usa el patio como referencia para orientarte entre las salas abiertas.",
+      "en": "Enter from Independencia and start with urban history. Use the courtyard as a reference for finding the open galleries.",
+      "zh": "从独立街进入，先看城市史。逛不同展厅时可用庭院辨认方向。"
+    }
+  },
+  "casa-museo-lopez-portillo": {
+    "area": "centro",
+    "plan": {
+      "es": "Compara el patio con las habitaciones con acceso: los umbrales muestran cómo se distribuía la vida en la residencia.",
+      "en": "Compare the courtyard with the rooms open to visitors. The doorways show how life in the residence was organized.",
+      "zh": "比较庭院与开放房间，从各处门洞看当年宅邸的空间和生活动线。"
+    }
+  },
+  "parroquia-san-juan-de-dios": {
+    "area": "sanJuan",
+    "plan": {
+      "es": "Antes de ir al mercado, detente en el paso lateral desde la plaza para distinguir la iglesia del conjunto comercial que la rodea.",
+      "en": "Before going to the market, stop at the side passage from the square to see how the church sits within its commercial surroundings.",
+      "zh": "去市场前可在广场旁的通道停一下，看教堂与周围商业街的空间关系。"
+    }
+  },
+  "parroquia-san-jose-de-analco": {
+    "area": "analco",
+    "plan": {
+      "es": "Mira el templo desde el jardín primero y acércate después por Calle Analco para comparar la vista del barrio con los detalles de la portada.",
+      "en": "View the church from the garden first, then approach via Calle Analco to compare the neighborhood view with the entrance details.",
+      "zh": "先从花园看教堂整体，再沿阿纳尔科街靠近，比较街区视角与入口细节。"
+    }
+  },
+  "jardin-san-jose-de-analco": {
+    "area": "analco",
+    "plan": {
+      "es": "Recorre el borde del jardín antes de cruzar a la iglesia. Fíjate en cómo las calles que llegan al jardín explican su papel como punto de encuentro.",
+      "en": "Walk the garden edge before crossing to the church. Notice how the approaching streets explain its role as a meeting place.",
+      "zh": "先绕花园边缘走，再前往教堂。留意几条街怎样汇入花园，便能理解它为何成为街坊聚点。"
+    }
+  },
+  "parque-morelos": {
+    "area": "sanJuan",
+    "plan": {
+      "es": "Entra desde Calzada Independencia y alterna un sendero interior con un tramo del borde para reconocer el contraste entre parque y avenida.",
+      "en": "Enter from Calzada Independencia and combine an interior path with a section near the edge to see the contrast between park and avenue.",
+      "zh": "从独立大道进园，先走一段内部小径，再到边缘比较林荫与大道的变化。"
+    }
+  },
+  "parque-agua-azul": {
+    "area": "aguaAzul",
+    "plan": {
+      "es": "Haz el circuito de jardines y deja el foro para el final. Consulta por separado las actividades y recintos especializados que estén abiertos.",
+      "en": "Walk the garden paths first and leave the outdoor stage for last. Check separately which activities and facilities are open.",
+      "zh": "先逛园路，最后到贝壳形露天舞台。园内不同场馆和活动的安排应分别查询。"
+    }
+  },
+  "parque-de-la-revolucion-parque-rojo": {
+    "area": "juarez",
+    "plan": {
+      "es": "Desde Juárez, recorre un lado del parque y usa el paso señalizado para comparar el otro lado de Avenida Vallarta.",
+      "en": "From Juárez, walk one side of the park and use the marked crossing to compare the other side of Avenida Vallarta.",
+      "zh": "从华雷斯站出来先走公园一侧，再走标线过街点，比较巴亚尔塔大道另一侧的园地。"
+    }
+  },
+  "expiatorio-del-santisimo-sacramento": {
+    "area": "juarez",
+    "plan": {
+      "es": "Mira primero el perfil completo desde la explanada y después acércate a las portadas sin interferir con el acceso de los fieles.",
+      "en": "Take in the silhouette from the forecourt first, then approach the portals while keeping the worship entrance clear.",
+      "zh": "先从前庭看整体轮廓，再到入口旁看雕饰，给进出礼拜的人留通道。"
+    }
+  },
+  "musa-museo-de-las-artes": {
+    "area": "juarez",
+    "plan": {
+      "es": "Consulta la exposición antes de recorrer las salas y pregunta específicamente por el acceso al Paraninfo para organizar ambas paradas.",
+      "en": "Check the exhibitions before touring and ask specifically about the assembly hall if you want to include it.",
+      "zh": "先查展览分布，再单独询问大学礼堂开放安排，好把两个参观点放入同一行程。"
+    }
+  },
+  "ex-convento-del-carmen": {
+    "area": "juarez",
+    "plan": {
+      "es": "Empieza por el patio cuando esté abierto y elige las salas según la cartelera. Hay un templo y un jardín cercanos con accesos distintos.",
+      "en": "Start with the courtyard when open and choose galleries from the programme. The nearby church and garden have separate entrances.",
+      "zh": "庭院开放时可从那里开始，再按展讯选展厅。附近教堂和花园分别有自己的入口。"
+    }
+  },
+  "capilla-de-nuestra-senora-de-aranzazu": {
+    "area": "centro",
+    "plan": {
+      "es": "Compara la portada de la capilla con la del templo franciscano vecino; si se permite entrar, busca el contraste con la decoración interior.",
+      "en": "Compare the chapel portal with the neighboring Franciscan church. If entry is allowed, look for the contrast with the interior decoration.",
+      "zh": "先比较小堂与相邻方济各会教堂的正门。若允许入内，再看素雅外观与室内装饰的对照。"
+    }
+  },
+  "templo-san-francisco-de-asis": {
+    "area": "centro",
+    "plan": {
+      "es": "Empieza con una vista completa de la portada y luego busca sus columnas talladas. La capilla de Aranzazú queda como segunda parada.",
+      "en": "Start with the whole portal, then look for its carved columns. Aranzazú Chapel works as a second stop.",
+      "zh": "先看正门整体，再靠近观察雕柱。第二站可安排相邻的阿兰萨苏小堂。"
+    }
+  },
+  "museo-panteon-de-belen": {
+    "area": "santuario",
+    "plan": {
+      "es": "Llega con margen para consultar la siguiente salida en taquilla. En el recorrido, compara un mausoleo con las lápidas del sendero autorizado.",
+      "en": "Allow time to ask at the ticket desk about the next departure. On the tour, compare a mausoleum with headstones along the authorized path.",
+      "zh": "提前到入口询问下一场导览。进入后可沿获准路线比较陵墓建筑与步道旁的墓碑。"
+    }
+  },
+  "biblioteca-iberoamericana-octavio-paz": {
+    "area": "centro",
+    "plan": {
+      "es": "Observa el edificio desde Pedro Moreno y verifica qué zonas reciben visitantes. Deja la fotografía interior para los espacios autorizados.",
+      "en": "View the building from Pedro Moreno and check which areas admit visitors. Keep interior photography to permitted spaces.",
+      "zh": "先从佩德罗·莫雷诺街看外观，进门前查访客可达区域，室内只在获准处拍摄。"
+    }
+  },
+  "parroquia-de-san-agustin": {
+    "area": "centro",
+    "plan": {
+      "es": "Incluye la portada en el paseo desde el Teatro Degollado. Si también te interesa el antiguo claustro, comprueba su acceso por separado.",
+      "en": "Include the portal on a walk from Teatro Degollado. Check access separately if you also want to see the former cloister.",
+      "zh": "从德戈亚多剧院过来可顺路看正门。如果也想看旧回廊，请另查入口。"
+    }
+  },
+  "edificio-arroniz": {
+    "area": "centro",
+    "plan": {
+      "es": "Recorre el frente de Ignacio Zaragoza para comparar los vanos. Planea el interior alrededor de una actividad abierta anunciada por Cultura Jalisco.",
+      "en": "Walk the Ignacio Zaragoza frontage to compare the openings. Plan an interior visit around a public event announced by Cultura Jalisco.",
+      "zh": "先沿伊格纳西奥·萨拉戈萨街看窗孔和入口。室内参观可配合州文化部门公布的公开活动。"
+    }
+  },
+  "andador-chapultepec": {
+    "area": "americana",
+    "plan": {
+      "es": "Escoge un tramo del camellón y vuelve por una acera para comparar el paseo central con los accesos a cafés y comercios.",
+      "en": "Pick a median section and return along a sidewalk to compare the central promenade with the café and shop entrances.",
+      "zh": "选一段中央步道，再从侧边人行道折返，比较步道和两侧咖啡馆、店铺的入口动线。"
+    }
+  },
+  "andador-coronilla": {
+    "area": "centro",
+    "plan": {
+      "es": "Revisa primero la calle desde un extremo y deja las paradas en galerías o cafés para el regreso, según lo que esté abierto.",
+      "en": "Survey the street from one end first, then save any gallery or café stops for the return, depending on what is open.",
+      "zh": "先从一端走完整条街，回程再按实际营业情况停看画廊或喝咖啡。"
+    }
+  },
+  "globo-museo-de-la-ninez": {
+    "area": "analco",
+    "plan": {
+      "es": "Al llegar, pregunta qué actividades funcionan sin reserva y cuáles tienen cupo. Ordena la visita alrededor del taller que le interese al grupo.",
+      "en": "Ask which activities are drop-in and which have capacity limits. Plan around the workshop your group wants most.",
+      "zh": "到馆先问哪些项目可直接参加、哪些限制人数，再围绕孩子感兴趣的工作坊排参观顺序。"
+    }
+  },
+  "glorieta-de-la-minerva": {
+    "area": "vallarta",
+    "plan": {
+      "es": "Usa un punto de observación peatonal y distingue la figura de Minerva de la fuente. Los Arcos pueden ser una segunda parada en Vallarta.",
+      "en": "Use a pedestrian viewpoint and look at Minerva separately from the fountain. The Arches make a second stop along Vallarta.",
+      "zh": "从人行区分别看密涅瓦雕像与喷泉，之后可沿巴亚尔塔大道安排双拱门。"
+    }
+  },
+  "jardin-del-carmen": {
+    "area": "juarez",
+    "plan": {
+      "es": "Haz una pausa en el jardín antes de continuar al templo o al exconvento. Cada uno tiene un acceso y un propósito distintos.",
+      "en": "Pause in the garden before continuing to the church or former convent. Each has its own entrance and use.",
+      "zh": "可先在花园停留，再去教堂或旧修道院。两座建筑功能不同，需要走各自的入口。"
+    }
+  },
+  "mercado-iv-centenario-capilla-de-jesus": {
+    "area": "refugio",
+    "plan": {
+      "es": "Llega con tiempo para decidir entre una comida en las fondas y una vuelta por los comercios. El domingo el horario publicado termina antes.",
+      "en": "Allow time to choose between a meal at the counters and a circuit of the shops. The published Sunday hours end earlier.",
+      "zh": "预留时间在熟食餐台用餐，或绕一圈逛店铺。周日公布的营业结束时间更早。"
+    }
+  },
+  "mercado-mexicaltzingo": {
+    "area": "mexicaltzingo",
+    "plan": {
+      "es": "Tras entrar por Nicolás Régules, pregunta qué platos están disponibles y deja la iglesia del barrio para después de comer.",
+      "en": "Enter from Nicolás Régules, ask what is being served and leave the neighborhood church for after the meal.",
+      "zh": "从尼古拉斯·雷古莱斯街进市场，问当天提供哪些菜，再把街区教堂放到饭后。"
+    }
+  },
+  "mercado-santa-tere": {
+    "area": "americana",
+    "plan": {
+      "es": "Recorre primero los pasillos de productos y deja las fondas para el final. Comprueba los horarios del puesto si vas buscando uno en particular.",
+      "en": "Walk the produce aisles before choosing a food counter. Check the stall’s own hours if you are going for a specific vendor.",
+      "zh": "先走生鲜通道，再选熟食餐台。若特地找某一家，出发前单独确认摊位营业时间。"
+    }
+  },
+  "monumento-a-fray-antonio-alcalde": {
+    "area": "santuario",
+    "plan": {
+      "es": "Haz del jardín la primera parada y del Santuario la segunda. La posición de la estatua ayuda a entender por qué ambas visitas se enlazan.",
+      "en": "Make the garden your first stop and the shrine your second. The position of the statue helps explain why the two visits fit together.",
+      "zh": "可先看花园纪念像，再去瓜达卢佩圣母圣殿。雕像的位置能解释两处为何适合连游。"
+    }
+  },
+  "monumento-a-la-independencia": {
+    "area": "sanJuan",
+    "plan": {
+      "es": "Mira cómo el monumento se relaciona con el eje de la avenida. Después, sigue la acera hacia San Juan de Dios por los cruces señalizados.",
+      "en": "See how the monument relates to the avenue’s axis. Then follow the sidewalk toward San Juan de Dios using marked crossings.",
+      "zh": "先看纪念碑与大道轴线的关系，再沿人行道和标线过街点走向圣胡安德迪奥斯。"
+    }
+  },
+  "monumento-a-ramon-corona": {
+    "area": "analco",
+    "plan": {
+      "es": "Observa la figura desde lejos y, ya cerca del pedestal, compara las águilas y escudos antes de continuar por Analco.",
+      "en": "View the figure from farther away, then compare the eagles and shields near its base before continuing through Analco.",
+      "zh": "先远看人物全身，再到人行区靠近底座比较鹰雕和徽章，之后继续逛阿纳尔科。"
+    }
+  },
+  "museo-de-arqueologia-de-occidente-parres-arias": {
+    "area": "aguaAzul",
+    "plan": {
+      "es": "Confirma la apertura antes de desplazarte. Si hay acceso, agrupa las salas por temas y deja el Parque Agua Azul para otro tramo de la visita.",
+      "en": "Confirm opening before making the trip. If admitted, group galleries by theme and reserve a separate part of the visit for Agua Azul Park.",
+      "zh": "专程前往前先查馆舍是否开放。能入馆时可按主题看展，再把蓝水公园安排为另一站。"
+    }
+  },
+  "museo-de-las-artes-populares-de-jalisco": {
+    "area": "santuario",
+    "plan": {
+      "es": "Mira la casa desde San Felipe antes de entrar; en las salas abiertas, compara los objetos de artesanía con el marco doméstico en el que se exhiben.",
+      "en": "Look at the house from San Felipe before entering. In the open rooms, compare the craft objects with the domestic spaces containing them.",
+      "zh": "从圣费利佩街看老宅外貌，进开放展厅后再比较工艺展品与原住宅空间的关系。"
+    }
+  },
+  "museo-raul-anguiano-mura": {
+    "area": "americana",
+    "plan": {
+      "es": "Comprueba si hay obra de Anguiano expuesta ese día y deja margen para una muestra temporal. Usa Mariano Otero como referencia para llegar al acceso.",
+      "en": "Check whether Anguiano’s work is on display that day and leave time for a temporary show. Use Mariano Otero as the entrance reference.",
+      "zh": "先查当天是否展出安吉亚诺作品，再给临展留时间。以马里亚诺·奥特罗大道辨认入口方向。"
+    }
+  },
+  "parque-alcalde": {
+    "area": "santuario",
+    "plan": {
+      "es": "Escoge un recorrido peatonal antes de acercarte al lago. Pregunta por separado si te interesan instalaciones o actividades con tarifa propia.",
+      "en": "Choose a walking circuit before approaching the lake. Ask separately about any facilities or activities with their own charge.",
+      "zh": "先选步行环线再去湖边。想体验特定设施或活动时，单独了解开放与收费。"
+    }
+  },
+  "parque-avila-camacho": {
+    "area": "avila",
+    "plan": {
+      "es": "Desde el acceso de la avenida, sigue los senderos internos y vuelve por el mismo ingreso si estás usando la estación Ávila Camacho como referencia.",
+      "en": "From the avenue entrance, follow the interior paths and use the same gate on your return if Ávila Camacho station is your reference point.",
+      "zh": "从大道方向入园后走园内道路。若以阿维拉·卡马乔站为交通起点，可从同一入口返回。"
+    }
+  },
+  "plaza-de-la-bandera": {
+    "area": "analco",
+    "plan": {
+      "es": "Localiza el mástil desde el perímetro y acércate al águila únicamente por el espacio peatonal. Combina la plaza con una visita familiar a Globo.",
+      "en": "Locate the flagpole from the perimeter and approach the eagle using the pedestrian area. Globo pairs with the square for a family visit.",
+      "zh": "先从外围找旗杆，再沿人行区走近鹰雕。亲子行程可搭配环球儿童博物馆。"
+    }
+  },
+  "plaza-de-las-9-esquinas": {
+    "area": "mexicaltzingo",
+    "plan": {
+      "es": "Revisa el trazado desde dos accesos distintos antes de elegir una fonda. Al salir, usa el nombre de la plaza como referencia para seguir al mercado de Mexicaltzingo.",
+      "en": "Compare the layout from two approaches before choosing a place to eat. Use the square as the reference point for continuing to Mexicaltzingo Market.",
+      "zh": "用两个不同入口观察街巷格局，再选餐馆。离开时可以广场为起点，接着走到梅希卡尔津戈市场。"
+    }
+  },
+  "plaza-juarez": {
+    "area": "aguaAzul",
+    "plan": {
+      "es": "Recorre el eje entre la efigie de Juárez y la fuente. Para combinar la visita, busca después el acceso de Parque Agua Azul por separado.",
+      "en": "Walk the axis between the Juárez statue and the fountain. If combining stops, look up the separate entrance to Agua Azul Park afterward.",
+      "zh": "沿华雷斯像和喷泉之间的轴线走。若还要去蓝水公园，再单独查该园入口。"
+    }
+  },
+  "santuario-de-nuestra-senora-de-guadalupe": {
+    "area": "santuario",
+    "plan": {
+      "es": "Empieza frente a la portada desde el jardín de Fray Antonio Alcalde. Si hay culto, conserva la visita exterior y consulta cuándo puede verse el altar.",
+      "en": "Start opposite the portal in Fray Antonio Alcalde’s garden. If worship is in progress, visit the exterior and ask when the altar can be viewed.",
+      "zh": "先从阿尔卡尔德修士花园看正门。遇礼拜就先看外观，再询问何时可以参观祭坛。"
+    }
+  },
+  "santuario-de-san-jose-de-gracia": {
+    "area": "santuario",
+    "plan": {
+      "es": "Mira el templo desde el corredor Alcalde y reserva el crucero y la cúpula para un periodo en el que el interior admita visitantes.",
+      "en": "View the church from the Alcalde promenade and save the crossing and dome for a time when visitors are admitted inside.",
+      "zh": "先从阿尔卡尔德步道看教堂，交叉穹顶等室内细处留到可入内的时段。"
+    }
+  },
+  "templo-de-jesus-maria": {
+    "area": "centro",
+    "plan": {
+      "es": "Recorre la acera de Morelos para comprobar cómo se orienta la nave. Acércate a los accesos laterales solo cuando el paso esté despejado.",
+      "en": "Walk the Morelos sidewalk to see the nave’s orientation. Approach the side entrances when the way is clear.",
+      "zh": "沿莫雷洛斯街人行道确认单殿朝向，再在通道畅通时靠近观察侧门。"
+    }
+  },
+  "templo-de-las-capuchinas": {
+    "area": "centro",
+    "plan": {
+      "es": "Combina el exterior de la iglesia con el Museo de la Ciudad. Revisa el horario del museo por separado antes de organizar el paseo.",
+      "en": "Pair the church exterior with the City Museum. Check the museum’s own hours before organizing the walk.",
+      "zh": "可把教堂外观与城市博物馆安排在一起。博物馆有自己的时段，请单独核对后再排路线。"
+    }
+  },
+  "templo-de-nuestra-senora-del-carmen": {
+    "area": "juarez",
+    "plan": {
+      "es": "Usa el jardín como vista de conjunto, luego acércate a la iglesia. Si además vas al exconvento, busca la entrada del espacio cultural.",
+      "en": "Use the garden for the broad view, then approach the church. If also visiting the former convent, find the cultural centre’s entrance.",
+      "zh": "先在花园看整体，再靠近教堂。若也去旧修道院，应查文化场馆自己的入口。"
+    }
+  },
+  "templo-de-santa-monica": {
+    "area": "santuario",
+    "plan": {
+      "es": "Desde Reforma, compara la distribución de los relieves con su talla de cerca. Deja el interior para un momento sin celebración.",
+      "en": "From Reforma, compare the overall arrangement of the reliefs with their carving up close. Visit the interior outside services.",
+      "zh": "从雷福尔马街先看浮雕布局，再近看雕工。室内参观应避开礼拜。"
+    }
+  },
+  "templo-de-santa-teresa-de-jesus": {
+    "area": "centro",
+    "plan": {
+      "es": "Avanza por Morelos y mira cómo se suceden las portadas paralelas. Si hay acceso, pregunta qué parte del conjunto está abierta.",
+      "en": "Walk along Morelos and note the sequence of parallel portals. If admitted, ask which parts of the complex may be visited.",
+      "zh": "沿莫雷洛斯街看一系列平行于街道的入口。能入内时先问具体开放范围。"
+    }
+  },
+  "arcos-de-guadalajara": {
+    "area": "vallarta",
+    "plan": {
+      "es": "Revisa la inscripción desde una acera segura y compara los azulejos con el contorno neoclásico. Continúa hacia La Minerva si quieres ver ambos hitos.",
+      "en": "Read the inscription from a safe sidewalk and compare the tiles with the neoclassical outline. Continue toward La Minerva to see both landmarks.",
+      "zh": "从人行道看铭文，比较瓷砖和新古典主义轮廓。之后可继续前往密涅瓦环岛。"
+    }
+  },
+  "rambla-cataluna": {
+    "area": "juarez",
+    "plan": {
+      "es": "Empieza en Andador Escorza y recorre los paneles en orden. Si no hay muestra montada, puedes continuar al MUSA según su horario.",
+      "en": "Start on Andador Escorza and follow the panels in order. If no show is installed, continue to MUSA when open.",
+      "zh": "从埃斯科尔萨步道开始，按展示板顺序走。没有布展时可接着查艺术博物馆是否开放。"
+    }
+  },
+  "larva": {
+    "area": "centro",
+    "plan": {
+      "es": "Consulta la cartelera antes de llegar a Ocampo: una exposición y una función pueden tener accesos o condiciones distintos.",
+      "en": "Check the listings before arriving on Ocampo. An exhibition and a performance may have different admissions or entrances.",
+      "zh": "到奥坎波街前先看节目表。展览与演出的入口或购票条件可能不同。"
+    }
+  },
+  "parroquia-de-san-juan-bautista-de-mexicaltzingo": {
+    "area": "mexicaltzingo",
+    "plan": {
+      "es": "Separa la parada en la portada de la visita interior y deja el mercado como segunda parte del paseo por el barrio.",
+      "en": "Treat the portal stop and an interior visit separately, then make the market the second part of your neighborhood walk.",
+      "zh": "先从外部看正门，室内另按教堂开放情况安排。街区步行的第二站可去市场。"
+    }
+  },
+  "glorieta-de-la-estampida": {
+    "area": "vallarta",
+    "plan": {
+      "es": "Busca una vista lateral desde la acera para distinguir el movimiento de los catorce caballos. Comprueba la ruta peatonal antes de enlazar con La Minerva.",
+      "en": "Use a sidewalk side view to see the motion of the fourteen horses. Check the pedestrian route before pairing the stop with La Minerva.",
+      "zh": "从人行道斜看十四匹马的动作。打算同游密涅瓦环岛时先查可步行的过街路线。"
+    }
+  },
+  "palacio-de-las-vacas": {
+    "area": "centro",
+    "plan": {
+      "es": "Confirma la actividad o el recorrido anunciado en San Felipe 630. Deja margen para ver el exterior si el recinto no admite visitas libres ese día.",
+      "en": "Confirm the advertised activity or tour at San Felipe 630. Allow time for an exterior look if the venue is not accepting walk-ins that day.",
+      "zh": "确认圣费利佩街630号公布的活动或导览。当天若不接待散客，可安排街边看外观。"
+    }
+  }
+}

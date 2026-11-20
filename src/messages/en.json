@@ -1,10 +1,12 @@
 {
   "meta": {
-    "title": "Plaza de los Mariachis Guadalajara | Live Music & Guide",
-    "description": "Explore Plaza de los Mariachis in Guadalajara. Find out where to hear live mariachi, the best time to visit, how to get there, and useful travel tips.",
+    "title": "Plaza de los Mariachis, Guadalajara | Visitor Guide",
+    "description": "Plan your visit to Guadalajara’s Mariachi Square. Find directions, tips for requesting live mariachi and a walk to San Juan de Dios Market.",
     "ogImageAlt": "Plaza de los Mariachis - Main view in Guadalajara, Mexico"
   },
   "header": {
+    "nearby": "Nearby places",
+    "guides": "Guides",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
